@@ -28,7 +28,7 @@
       "dimension": ""
     }},
     "name": "RenderIndex",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/server/server/RenderIndex"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Server/javadoc/com/eden/orchid/server/server/RenderIndex"
   },
   {
     "data": {"info": {
@@ -59,7 +59,7 @@
       "dimension": ""
     }},
     "name": "RenderFile",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/server/server/RenderFile"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Server/javadoc/com/eden/orchid/server/server/RenderFile"
   },
   {
     "data": {"info": {
@@ -90,7 +90,7 @@
       "dimension": ""
     }},
     "name": "Render404",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/server/server/Render404"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Server/javadoc/com/eden/orchid/server/server/Render404"
   },
   {
     "data": {"info": {
@@ -127,7 +127,7 @@
       "dimension": ""
     }},
     "name": "StaticServer",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/server/server/StaticServer"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Server/javadoc/com/eden/orchid/server/server/StaticServer"
   },
   {
     "data": {"info": {
@@ -158,7 +158,7 @@
       "dimension": ""
     }},
     "name": "ServerResourceSource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/server/server/ServerResourceSource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Server/javadoc/com/eden/orchid/server/server/ServerResourceSource"
   },
   {
     "data": {"info": {
@@ -182,7 +182,7 @@
       "dimension": ""
     }},
     "name": "ServeModule",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/server/ServeModule"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Server/javadoc/com/eden/orchid/server/ServeModule"
   },
   {
     "data": {"info": {
@@ -206,7 +206,7 @@
       "dimension": ""
     }},
     "name": "FileWatcher",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/server/FileWatcher"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Server/javadoc/com/eden/orchid/server/FileWatcher"
   },
   {
     "data": {"info": {
@@ -243,6 +243,6 @@
       "dimension": ""
     }},
     "name": "ServeTask",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/server/ServeTask"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Server/javadoc/com/eden/orchid/server/ServeTask"
   }
 ]}

@@ -21,7 +21,7 @@
       "dimension": ""
     }},
     "name": "PagesModule",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/pages/PagesModule"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Pages/javadoc/com/eden/orchid/pages/PagesModule"
   },
   {
     "data": {"info": {
@@ -52,6 +52,6 @@
       "dimension": ""
     }},
     "name": "PagesGenerator",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/pages/PagesGenerator"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Pages/javadoc/com/eden/orchid/pages/PagesGenerator"
   }
 ]}

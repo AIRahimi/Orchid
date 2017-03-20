@@ -28,7 +28,7 @@
       "dimension": ""
     }},
     "name": "WikiPathOption",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/wiki/WikiPathOption"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Wiki/javadoc/com/eden/orchid/wiki/WikiPathOption"
   },
   {
     "data": {"info": {
@@ -59,7 +59,7 @@
       "dimension": ""
     }},
     "name": "WikiGenerator",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/wiki/WikiGenerator"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Wiki/javadoc/com/eden/orchid/wiki/WikiGenerator"
   },
   {
     "data": {"info": {
@@ -83,6 +83,6 @@
       "dimension": ""
     }},
     "name": "WikiModule",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/wiki/WikiModule"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Wiki/javadoc/com/eden/orchid/wiki/WikiModule"
   }
 ]}

@@ -2,37 +2,37 @@
   {
     "data": {},
     "name": "Getting Started",
-    "url": "http://localhost:8080/wiki/getting_started/index"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/getting_started/index"
   },
   {
     "data": {},
     "name": "Orchid Overview",
-    "url": "http://localhost:8080/wiki/getting_started/overview"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/getting_started/overview"
   },
   {
     "data": {},
     "name": "Setup",
-    "url": "http://localhost:8080/wiki/getting_started/setup"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/getting_started/setup"
   },
   {
     "data": {},
     "name": "Using Extensions",
-    "url": "http://localhost:8080/wiki/getting_started/extensions"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/getting_started/extensions"
   },
   {
     "data": {},
     "name": "Picking Themes",
-    "url": "http://localhost:8080/wiki/getting_started/themes"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/getting_started/themes"
   },
   {
     "data": {},
     "name": "Deploying Your Site",
-    "url": "http://localhost:8080/wiki/getting_started/publishing"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/getting_started/publishing"
   },
   {
     "data": {},
     "name": "Linking to Other Orchid Sites",
-    "url": "http://localhost:8080/wiki/getting_started/linking"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/getting_started/linking"
   },
   {
     "data": {
@@ -41,71 +41,71 @@
       "title": "About"
     },
     "name": "About",
-    "url": "http://localhost:8080/wiki/about"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/about"
   },
   {
     "data": {},
     "name": "Summary",
-    "url": "http://localhost:8080/wiki/summary"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/summary"
   },
   {
     "data": {},
     "name": "Glossary",
-    "url": "http://localhost:8080/wiki/glossary"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/glossary"
   },
   {
     "data": {},
     "name": "Publishing Content",
-    "url": "http://localhost:8080/wiki/publishing/index"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/publishing/index"
   },
   {
     "data": {},
     "name": "Javadoc",
-    "url": "http://localhost:8080/wiki/publishing/javadoc"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/publishing/javadoc"
   },
   {
     "data": {},
     "name": "Static Pages",
-    "url": "http://localhost:8080/wiki/publishing/pages"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/publishing/pages"
   },
   {
     "data": {},
     "name": "Blog Posts",
-    "url": "http://localhost:8080/wiki/publishing/blog"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/publishing/blog"
   },
   {
     "data": {},
     "name": "Custom Wiki",
-    "url": "http://localhost:8080/wiki/publishing/wiki"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/publishing/wiki"
   },
   {
     "data": {},
     "name": "Extending Orchid",
-    "url": "http://localhost:8080/wiki/extending/index"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/extending/index"
   },
   {
     "data": {},
     "name": "Understanding the Orchid Architecture",
-    "url": "http://localhost:8080/wiki/extending/architecture"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/extending/architecture"
   },
   {
     "data": {},
     "name": "Writing Extensions",
-    "url": "http://localhost:8080/wiki/extending/extensions"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/extending/extensions"
   },
   {
     "data": {},
     "name": "Making Themes",
-    "url": "http://localhost:8080/wiki/extending/themes"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/extending/themes"
   },
   {
     "data": {},
     "name": "Project-Local Extensions",
-    "url": "http://localhost:8080/wiki/extending/project_local"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/extending/project_local"
   },
   {
     "data": {},
     "name": "Contribute to Core",
-    "url": "http://localhost:8080/wiki/extending/core_development"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/wiki/extending/core_development"
   }
 ]}

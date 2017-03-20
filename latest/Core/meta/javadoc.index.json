@@ -21,7 +21,7 @@
       "dimension": ""
     }},
     "name": "Orchid.Events",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/Orchid/Events"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/Orchid/Events"
   },
   {
     "data": {"info": {
@@ -53,7 +53,7 @@
       "dimension": ""
     }},
     "name": "Orchid",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/Orchid"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/Orchid"
   },
   {
     "data": {"info": {
@@ -77,7 +77,7 @@
       "dimension": ""
     }},
     "name": "ImplModule",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/ImplModule"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/ImplModule"
   },
   {
     "data": {"info": {
@@ -123,7 +123,7 @@
       "dimension": ""
     }},
     "name": "OrchidContextImpl",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/OrchidContextImpl"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/OrchidContextImpl"
   },
   {
     "data": {"info": {
@@ -154,7 +154,7 @@
       "dimension": ""
     }},
     "name": "AssetsGenerator",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/generators/AssetsGenerator"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/generators/AssetsGenerator"
   },
   {
     "data": {"info": {
@@ -178,7 +178,7 @@
       "dimension": ""
     }},
     "name": "IndexGenerator",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/generators/IndexGenerator"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/generators/IndexGenerator"
   },
   {
     "data": {"info": {
@@ -202,7 +202,7 @@
       "dimension": ""
     }},
     "name": "HomepageGenerator",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/generators/HomepageGenerator"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/generators/HomepageGenerator"
   },
   {
     "data": {"info": {
@@ -233,7 +233,7 @@
       "dimension": ""
     }},
     "name": "CommentLanguageOption",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/options/CommentLanguageOption"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/options/CommentLanguageOption"
   },
   {
     "data": {"info": {
@@ -264,7 +264,7 @@
       "dimension": ""
     }},
     "name": "ResourcesOption",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/options/ResourcesOption"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/options/ResourcesOption"
   },
   {
     "data": {"info": {
@@ -295,7 +295,7 @@
       "dimension": ""
     }},
     "name": "DisabledGeneratorsOption",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/options/DisabledGeneratorsOption"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/options/DisabledGeneratorsOption"
   },
   {
     "data": {"info": {
@@ -326,7 +326,7 @@
       "dimension": ""
     }},
     "name": "EnvironmentOption",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/options/EnvironmentOption"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/options/EnvironmentOption"
   },
   {
     "data": {"info": {
@@ -357,7 +357,7 @@
       "dimension": ""
     }},
     "name": "ThemeOption",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/options/ThemeOption"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/options/ThemeOption"
   },
   {
     "data": {"info": {
@@ -388,7 +388,7 @@
       "dimension": ""
     }},
     "name": "DestinationOption",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/options/DestinationOption"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/options/DestinationOption"
   },
   {
     "data": {"info": {
@@ -419,7 +419,7 @@
       "dimension": ""
     }},
     "name": "VersionOption",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/options/VersionOption"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/options/VersionOption"
   },
   {
     "data": {"info": {
@@ -450,7 +450,7 @@
       "dimension": ""
     }},
     "name": "BaseUrlOption",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/options/BaseUrlOption"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/options/BaseUrlOption"
   },
   {
     "data": {"info": {
@@ -474,7 +474,7 @@
       "dimension": ""
     }},
     "name": "CoreLocalResourceSource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/resources/CoreLocalResourceSource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/resources/CoreLocalResourceSource"
   },
   {
     "data": {"info": {
@@ -498,7 +498,7 @@
       "dimension": ""
     }},
     "name": "CoreDefaultResourceSource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/resources/CoreDefaultResourceSource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/resources/CoreDefaultResourceSource"
   },
   {
     "data": {"info": {
@@ -529,7 +529,7 @@
       "dimension": ""
     }},
     "name": "AsciiDoctorCompiler",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/asciidoc/AsciiDoctorCompiler"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/asciidoc/AsciiDoctorCompiler"
   },
   {
     "data": {"info": {
@@ -566,7 +566,7 @@
       "dimension": ""
     }},
     "name": "LimitFilter",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/jtwig/LimitFilter"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/jtwig/LimitFilter"
   },
   {
     "data": {"info": {
@@ -603,7 +603,7 @@
       "dimension": ""
     }},
     "name": "QueryFilter",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/jtwig/QueryFilter"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/jtwig/QueryFilter"
   },
   {
     "data": {"info": {
@@ -640,7 +640,7 @@
       "dimension": ""
     }},
     "name": "LinkInFilter",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/jtwig/LinkInFilter"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/jtwig/LinkInFilter"
   },
   {
     "data": {"info": {
@@ -677,7 +677,7 @@
       "dimension": ""
     }},
     "name": "CompileAsFilter",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/jtwig/CompileAsFilter"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/jtwig/CompileAsFilter"
   },
   {
     "data": {"info": {
@@ -708,7 +708,7 @@
       "dimension": ""
     }},
     "name": "JTwigCompiler",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/jtwig/JTwigCompiler"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/jtwig/JTwigCompiler"
   },
   {
     "data": {"info": {
@@ -732,7 +732,7 @@
       "dimension": ""
     }},
     "name": "JTwigModule",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/jtwig/JTwigModule"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/jtwig/JTwigModule"
   },
   {
     "data": {"info": {
@@ -769,7 +769,7 @@
       "dimension": ""
     }},
     "name": "JsonFilter",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/jtwig/JsonFilter"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/jtwig/JsonFilter"
   },
   {
     "data": {"info": {
@@ -806,7 +806,7 @@
       "dimension": ""
     }},
     "name": "WalkMapFilter",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/jtwig/WalkMapFilter"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/jtwig/WalkMapFilter"
   },
   {
     "data": {"info": {
@@ -843,7 +843,7 @@
       "dimension": ""
     }},
     "name": "LinkFilter",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/jtwig/LinkFilter"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/jtwig/LinkFilter"
   },
   {
     "data": {"info": {
@@ -880,7 +880,7 @@
       "dimension": ""
     }},
     "name": "SortByFilter",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/jtwig/SortByFilter"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/jtwig/SortByFilter"
   },
   {
     "data": {"info": {
@@ -911,7 +911,7 @@
       "dimension": ""
     }},
     "name": "JTwigResourceLoader",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/jtwig/JTwigResourceLoader"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/jtwig/JTwigResourceLoader"
   },
   {
     "data": {"info": {
@@ -942,7 +942,7 @@
       "dimension": ""
     }},
     "name": "MarkdownCompiler",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/markdown/MarkdownCompiler"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/markdown/MarkdownCompiler"
   },
   {
     "data": {"info": {
@@ -966,7 +966,7 @@
       "dimension": ""
     }},
     "name": "YamlParser",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/parsers/YamlParser"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/parsers/YamlParser"
   },
   {
     "data": {"info": {
@@ -990,7 +990,7 @@
       "dimension": ""
     }},
     "name": "CSVParser",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/parsers/CSVParser"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/parsers/CSVParser"
   },
   {
     "data": {"info": {
@@ -1014,7 +1014,7 @@
       "dimension": ""
     }},
     "name": "JsonParser",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/parsers/JsonParser"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/parsers/JsonParser"
   },
   {
     "data": {"info": {
@@ -1045,7 +1045,7 @@
       "dimension": ""
     }},
     "name": "FrontMatterPrecompiler",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/frontmatter/FrontMatterPrecompiler"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/frontmatter/FrontMatterPrecompiler"
   },
   {
     "data": {"info": {
@@ -1076,7 +1076,7 @@
       "dimension": ""
     }},
     "name": "SassCompiler",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/sass/SassCompiler"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/sass/SassCompiler"
   },
   {
     "data": {"info": {
@@ -1106,7 +1106,7 @@
       "dimension": ""
     }},
     "name": "SassImporter",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/compilers/sass/SassImporter"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/compilers/sass/SassImporter"
   },
   {
     "data": {"info": {
@@ -1130,7 +1130,7 @@
       "dimension": ""
     }},
     "name": "OrchidRendererImpl",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/render/OrchidRendererImpl"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/render/OrchidRendererImpl"
   },
   {
     "data": {"info": {
@@ -1154,7 +1154,7 @@
       "dimension": ""
     }},
     "name": "TemplateResolutionStrategyImpl",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/render/TemplateResolutionStrategyImpl"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/render/TemplateResolutionStrategyImpl"
   },
   {
     "data": {"info": {
@@ -1184,7 +1184,7 @@
       "dimension": ""
     }},
     "name": "SetupEnvironment",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/events/SetupEnvironment"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/events/SetupEnvironment"
   },
   {
     "data": {"info": {
@@ -1214,7 +1214,7 @@
       "dimension": ""
     }},
     "name": "LoadExternalIndices",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/events/LoadExternalIndices"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/events/LoadExternalIndices"
   },
   {
     "data": {"info": {
@@ -1245,7 +1245,7 @@
       "dimension": ""
     }},
     "name": "ListThemesTask",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/tasks/ListThemesTask"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/tasks/ListThemesTask"
   },
   {
     "data": {"info": {
@@ -1276,7 +1276,7 @@
       "dimension": ""
     }},
     "name": "BuildTask",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/tasks/BuildTask"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/tasks/BuildTask"
   },
   {
     "data": {"info": {
@@ -1307,7 +1307,7 @@
       "dimension": ""
     }},
     "name": "ListCompilersTask",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/tasks/ListCompilersTask"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/tasks/ListCompilersTask"
   },
   {
     "data": {"info": {
@@ -1338,7 +1338,7 @@
       "dimension": ""
     }},
     "name": "ListResourceSourcesTask",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/tasks/ListResourceSourcesTask"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/tasks/ListResourceSourcesTask"
   },
   {
     "data": {"info": {
@@ -1369,7 +1369,7 @@
       "dimension": ""
     }},
     "name": "ListGeneratorsTask",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/tasks/ListGeneratorsTask"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/tasks/ListGeneratorsTask"
   },
   {
     "data": {"info": {
@@ -1400,7 +1400,7 @@
       "dimension": ""
     }},
     "name": "ListOptionsTask",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/tasks/ListOptionsTask"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/tasks/ListOptionsTask"
   },
   {
     "data": {"info": {
@@ -1431,7 +1431,7 @@
       "dimension": ""
     }},
     "name": "ListTasksTask",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/impl/tasks/ListTasksTask"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/impl/tasks/ListTasksTask"
   },
   {
     "data": {"info": {
@@ -1455,7 +1455,7 @@
       "dimension": ""
     }},
     "name": "OrchidModule",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/OrchidModule"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/OrchidModule"
   },
   {
     "data": {"info": {
@@ -1479,7 +1479,7 @@
       "dimension": ""
     }},
     "name": "Theme",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/Theme"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/Theme"
   },
   {
     "data": {"info": {
@@ -1497,7 +1497,7 @@
       "dimension": ""
     }},
     "name": "OrchidContext",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/OrchidContext"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/OrchidContext"
   },
   {
     "data": {"info": {
@@ -1528,7 +1528,7 @@
       "dimension": ""
     }},
     "name": "OrchidGenerators",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/generators/OrchidGenerators"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/generators/OrchidGenerators"
   },
   {
     "data": {"info": {
@@ -1560,7 +1560,7 @@
       "dimension": ""
     }},
     "name": "OrchidGenerator",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/generators/OrchidGenerator"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/generators/OrchidGenerator"
   },
   {
     "data": {"info": {
@@ -1591,7 +1591,7 @@
       "dimension": ""
     }},
     "name": "OrchidOptions",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/options/OrchidOptions"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/options/OrchidOptions"
   },
   {
     "data": {"info": {
@@ -1623,7 +1623,7 @@
       "dimension": ""
     }},
     "name": "OrchidOption",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/options/OrchidOption"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/options/OrchidOption"
   },
   {
     "data": {"info": {
@@ -1654,7 +1654,7 @@
       "dimension": ""
     }},
     "name": "OrchidPage",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/OrchidPage"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/OrchidPage"
   },
   {
     "data": {"info": {
@@ -1678,7 +1678,7 @@
       "dimension": ""
     }},
     "name": "OrchidReference",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/OrchidReference"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/OrchidReference"
   },
   {
     "data": {"info": {
@@ -1710,7 +1710,7 @@
       "dimension": ""
     }},
     "name": "StringResource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/resource/StringResource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/resource/StringResource"
   },
   {
     "data": {"info": {
@@ -1742,7 +1742,7 @@
       "dimension": ""
     }},
     "name": "FreeableResource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/resource/FreeableResource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/resource/FreeableResource"
   },
   {
     "data": {"info": {
@@ -1774,7 +1774,7 @@
       "dimension": ""
     }},
     "name": "JarResource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/resource/JarResource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/resource/JarResource"
   },
   {
     "data": {"info": {
@@ -1805,7 +1805,7 @@
       "dimension": ""
     }},
     "name": "OrchidResource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/resource/OrchidResource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/resource/OrchidResource"
   },
   {
     "data": {"info": {
@@ -1837,7 +1837,7 @@
       "dimension": ""
     }},
     "name": "FileResource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/resource/FileResource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/resource/FileResource"
   },
   {
     "data": {"info": {
@@ -1869,7 +1869,7 @@
       "dimension": ""
     }},
     "name": "JsonResource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/resource/JsonResource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/resource/JsonResource"
   },
   {
     "data": {"info": {
@@ -1893,7 +1893,7 @@
       "dimension": ""
     }},
     "name": "DefaultResourceSource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/resourceSource/DefaultResourceSource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/resourceSource/DefaultResourceSource"
   },
   {
     "data": {"info": {
@@ -1917,7 +1917,7 @@
       "dimension": ""
     }},
     "name": "LocalResourceSource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/resourceSource/LocalResourceSource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/resourceSource/LocalResourceSource"
   },
   {
     "data": {"info": {
@@ -1949,7 +1949,7 @@
       "dimension": ""
     }},
     "name": "OrchidResourceSource",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/resourceSource/OrchidResourceSource"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/resourceSource/OrchidResourceSource"
   },
   {
     "data": {"info": {
@@ -1980,7 +1980,7 @@
       "dimension": ""
     }},
     "name": "OrchidResources",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/resources/OrchidResources"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/resources/OrchidResources"
   },
   {
     "data": {"info": {
@@ -2010,7 +2010,7 @@
       "dimension": ""
     }},
     "name": "Prioritized",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/registration/Prioritized"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/registration/Prioritized"
   },
   {
     "data": {"info": {
@@ -2042,7 +2042,7 @@
       "dimension": ""
     }},
     "name": "OrchidPrecompiler",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/compilers/OrchidPrecompiler"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/compilers/OrchidPrecompiler"
   },
   {
     "data": {"info": {
@@ -2066,7 +2066,7 @@
       "dimension": ""
     }},
     "name": "OrchidParser",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/compilers/OrchidParser"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/compilers/OrchidParser"
   },
   {
     "data": {"info": {
@@ -2098,7 +2098,7 @@
       "dimension": ""
     }},
     "name": "OrchidCompiler",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/compilers/OrchidCompiler"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/compilers/OrchidCompiler"
   },
   {
     "data": {"info": {
@@ -2122,7 +2122,7 @@
       "dimension": ""
     }},
     "name": "TemplateResolutionStrategy",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/render/TemplateResolutionStrategy"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/render/TemplateResolutionStrategy"
   },
   {
     "data": {"info": {
@@ -2146,7 +2146,7 @@
       "dimension": ""
     }},
     "name": "OrchidRenderer",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/render/OrchidRenderer"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/render/OrchidRenderer"
   },
   {
     "data": {"info": {
@@ -2177,7 +2177,7 @@
       "dimension": ""
     }},
     "name": "EventEmitter",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/events/EventEmitter"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/events/EventEmitter"
   },
   {
     "data": {"info": {
@@ -2217,7 +2217,7 @@
       "dimension": ""
     }},
     "name": "On",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/events/On"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/events/On"
   },
   {
     "data": {"info": {
@@ -2247,7 +2247,7 @@
       "dimension": ""
     }},
     "name": "OrchidTasks.TaskLogger",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/tasks/OrchidTasks/TaskLogger"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/tasks/OrchidTasks/TaskLogger"
   },
   {
     "data": {"info": {
@@ -2278,7 +2278,7 @@
       "dimension": ""
     }},
     "name": "OrchidTasks",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/tasks/OrchidTasks"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/tasks/OrchidTasks"
   },
   {
     "data": {"info": {
@@ -2316,7 +2316,7 @@
       "dimension": ""
     }},
     "name": "OrchidTask",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/api/tasks/OrchidTask"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/api/tasks/OrchidTask"
   },
   {
     "data": {"info": {
@@ -2346,7 +2346,7 @@
       "dimension": ""
     }},
     "name": "OrchidUtils.DefaultComparator",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/utilities/OrchidUtils/DefaultComparator"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/utilities/OrchidUtils/DefaultComparator"
   },
   {
     "data": {"info": {
@@ -2370,7 +2370,7 @@
       "dimension": ""
     }},
     "name": "OrchidUtils",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/utilities/OrchidUtils"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/utilities/OrchidUtils"
   },
   {
     "data": {"info": {
@@ -2400,6 +2400,6 @@
       "dimension": ""
     }},
     "name": "ObservableTreeSet",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/utilities/ObservableTreeSet"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/javadoc/com/eden/orchid/utilities/ObservableTreeSet"
   }
 ]}

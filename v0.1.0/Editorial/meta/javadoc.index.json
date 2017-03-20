@@ -21,7 +21,7 @@
       "dimension": ""
     }},
     "name": "EditorialModule",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/editorial/EditorialModule"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Editorial/javadoc/com/eden/orchid/editorial/EditorialModule"
   },
   {
     "data": {"info": {
@@ -45,6 +45,6 @@
       "dimension": ""
     }},
     "name": "EditorialTheme",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/editorial/EditorialTheme"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Editorial/javadoc/com/eden/orchid/editorial/EditorialTheme"
   }
 ]}

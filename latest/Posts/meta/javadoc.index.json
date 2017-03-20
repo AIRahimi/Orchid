@@ -21,7 +21,7 @@
       "dimension": ""
     }},
     "name": "PostsPermalinkStrategy",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/posts/PostsPermalinkStrategy"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Posts/javadoc/com/eden/orchid/posts/PostsPermalinkStrategy"
   },
   {
     "data": {"info": {
@@ -52,7 +52,7 @@
       "dimension": ""
     }},
     "name": "PostsGenerator",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/posts/PostsGenerator"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Posts/javadoc/com/eden/orchid/posts/PostsGenerator"
   },
   {
     "data": {"info": {
@@ -82,7 +82,7 @@
       "dimension": ""
     }},
     "name": "SortPostsFilter",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/posts/SortPostsFilter"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Posts/javadoc/com/eden/orchid/posts/SortPostsFilter"
   },
   {
     "data": {"info": {
@@ -106,7 +106,7 @@
       "dimension": ""
     }},
     "name": "PostsModule",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/posts/PostsModule"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Posts/javadoc/com/eden/orchid/posts/PostsModule"
   },
   {
     "data": {"info": {
@@ -130,6 +130,6 @@
       "dimension": ""
     }},
     "name": "PostsExcerptStrategy",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/posts/PostsExcerptStrategy"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Posts/javadoc/com/eden/orchid/posts/PostsExcerptStrategy"
   }
 ]}

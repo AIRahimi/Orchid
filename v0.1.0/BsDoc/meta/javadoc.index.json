@@ -21,7 +21,7 @@
       "dimension": ""
     }},
     "name": "BSDocTheme",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/bsdoc/BSDocTheme"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/BsDoc/javadoc/com/eden/orchid/bsdoc/BSDocTheme"
   },
   {
     "data": {"info": {
@@ -45,6 +45,6 @@
       "dimension": ""
     }},
     "name": "BsDocModule",
-    "url": "http://localhost:8080/javadoc/com/eden/orchid/bsdoc/BsDocModule"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/BsDoc/javadoc/com/eden/orchid/bsdoc/BsDocModule"
   }
 ]}

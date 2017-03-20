@@ -35,7 +35,7 @@
         "dimension": ""
       }},
       "name": "ConstructorsFilter",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/jtwig/ConstructorsFilter"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/jtwig/ConstructorsFilter"
     },
     {
       "data": {"info": {
@@ -72,7 +72,7 @@
         "dimension": ""
       }},
       "name": "MethodsFilter",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/jtwig/MethodsFilter"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/jtwig/MethodsFilter"
     },
     {
       "data": {"info": {
@@ -109,7 +109,7 @@
         "dimension": ""
       }},
       "name": "FieldsFilter",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/jtwig/FieldsFilter"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/jtwig/FieldsFilter"
     },
     {
       "data": {"info": {
@@ -146,7 +146,7 @@
         "dimension": ""
       }},
       "name": "DirectSubclassesFilter",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/jtwig/DirectSubclassesFilter"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/jtwig/DirectSubclassesFilter"
     },
     {
       "data": {"info": {
@@ -177,7 +177,7 @@
         "dimension": ""
       }},
       "name": "JavadocPackagesGenerator",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/generators/JavadocPackagesGenerator"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/generators/JavadocPackagesGenerator"
     },
     {
       "data": {"info": {
@@ -208,7 +208,7 @@
         "dimension": ""
       }},
       "name": "JavadocClassesGenerator",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/generators/JavadocClassesGenerator"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/generators/JavadocClassesGenerator"
     },
     {
       "data": {"info": {
@@ -232,7 +232,7 @@
         "dimension": ""
       }},
       "name": "AnnotationParser",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/docParsers/AnnotationParser"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/docParsers/AnnotationParser"
     },
     {
       "data": {"info": {
@@ -256,7 +256,7 @@
         "dimension": ""
       }},
       "name": "TypeParser",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/docParsers/TypeParser"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/docParsers/TypeParser"
     },
     {
       "data": {"info": {
@@ -280,7 +280,7 @@
         "dimension": ""
       }},
       "name": "CommentParser",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/docParsers/CommentParser"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/docParsers/CommentParser"
     },
     {
       "data": {"info": {
@@ -304,7 +304,7 @@
         "dimension": ""
       }},
       "name": "ParameterParser",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/docParsers/ParameterParser"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/docParsers/ParameterParser"
     },
     {
       "data": {"info": {
@@ -328,7 +328,7 @@
         "dimension": ""
       }},
       "name": "ClassDocParser",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/docParsers/ClassDocParser"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/docParsers/ClassDocParser"
     },
     {
       "data": {"info": {
@@ -352,7 +352,7 @@
         "dimension": ""
       }},
       "name": "ParserUtils",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/docParsers/ParserUtils"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/docParsers/ParserUtils"
     },
     {
       "data": {"info": {
@@ -376,7 +376,7 @@
         "dimension": ""
       }},
       "name": "DeprecatedTag",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/tags/DeprecatedTag"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/tags/DeprecatedTag"
     },
     {
       "data": {"info": {
@@ -400,7 +400,7 @@
         "dimension": ""
       }},
       "name": "ExceptionTag",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/tags/ExceptionTag"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/tags/ExceptionTag"
     },
     {
       "data": {"info": {
@@ -424,7 +424,7 @@
         "dimension": ""
       }},
       "name": "LinkTag",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/tags/LinkTag"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/tags/LinkTag"
     },
     {
       "data": {"info": {
@@ -448,7 +448,7 @@
         "dimension": ""
       }},
       "name": "SeeTag",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/tags/SeeTag"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/tags/SeeTag"
     },
     {
       "data": {"info": {
@@ -472,7 +472,7 @@
         "dimension": ""
       }},
       "name": "SinceTag",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/tags/SinceTag"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/tags/SinceTag"
     },
     {
       "data": {"info": {
@@ -496,7 +496,7 @@
         "dimension": ""
       }},
       "name": "VersionTag",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/tags/VersionTag"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/tags/VersionTag"
     },
     {
       "data": {"info": {
@@ -520,7 +520,7 @@
         "dimension": ""
       }},
       "name": "AuthorTag",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/tags/AuthorTag"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/tags/AuthorTag"
     },
     {
       "data": {"info": {
@@ -544,7 +544,7 @@
         "dimension": ""
       }},
       "name": "ThrowsTag",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/tags/ThrowsTag"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/tags/ThrowsTag"
     },
     {
       "data": {"info": {
@@ -568,7 +568,7 @@
         "dimension": ""
       }},
       "name": "ReturnTag",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/impl/tags/ReturnTag"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/impl/tags/ReturnTag"
     },
     {
       "data": {"info": {
@@ -592,7 +592,7 @@
         "dimension": ""
       }},
       "name": "JavadocResourceSource",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/JavadocResourceSource"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/JavadocResourceSource"
     },
     {
       "data": {"info": {
@@ -616,7 +616,7 @@
         "dimension": ""
       }},
       "name": "JavadocModule",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/JavadocModule"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/JavadocModule"
     },
     {
       "data": {"info": {
@@ -640,7 +640,7 @@
         "dimension": ""
       }},
       "name": "FinalClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/FinalClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/FinalClass"
     },
     {
       "data": {"info": {
@@ -678,7 +678,7 @@
         "dimension": ""
       }},
       "name": "InterfacedClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/InterfacedClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/InterfacedClass"
     },
     {
       "data": {"info": {
@@ -702,7 +702,7 @@
         "dimension": ""
       }},
       "name": "AbstractClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/AbstractClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/AbstractClass"
     },
     {
       "data": {"info": {
@@ -726,7 +726,7 @@
         "dimension": ""
       }},
       "name": "AnnotatedClass.InnerClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/AnnotatedClass/InnerClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/AnnotatedClass/InnerClass"
     },
     {
       "data": {"info": {
@@ -750,7 +750,7 @@
         "dimension": ""
       }},
       "name": "AnnotatedClass.StaticInnerClass.DeeplyNestedClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/AnnotatedClass/StaticInnerClass/DeeplyNestedClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/AnnotatedClass/StaticInnerClass/DeeplyNestedClass"
     },
     {
       "data": {"info": {
@@ -774,7 +774,7 @@
         "dimension": ""
       }},
       "name": "AnnotatedClass.StaticInnerClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/AnnotatedClass/StaticInnerClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/AnnotatedClass/StaticInnerClass"
     },
     {
       "data": {"info": {
@@ -864,7 +864,7 @@
         "dimension": ""
       }},
       "name": "AnnotatedClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/AnnotatedClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/AnnotatedClass"
     },
     {
       "data": {"info": {
@@ -888,7 +888,7 @@
         "dimension": ""
       }},
       "name": "TemplatedClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/TemplatedClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/TemplatedClass"
     },
     {
       "data": {"info": {
@@ -912,7 +912,7 @@
         "dimension": ""
       }},
       "name": "EnumClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/EnumClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/EnumClass"
     },
     {
       "data": {"info": {
@@ -930,7 +930,7 @@
         "dimension": ""
       }},
       "name": "InterfaceClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/InterfaceClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/InterfaceClass"
     },
     {
       "data": {"info": {
@@ -954,7 +954,7 @@
         "dimension": ""
       }},
       "name": "OrdinaryClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/OrdinaryClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/OrdinaryClass"
     },
     {
       "data": {"info": {
@@ -978,7 +978,7 @@
         "dimension": ""
       }},
       "name": "AnnotationClass",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/tester/AnnotationClass"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/tester/AnnotationClass"
     },
     {
       "data": {"info": {
@@ -1010,7 +1010,7 @@
         "dimension": ""
       }},
       "name": "JavadocBlockTagHandler",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/api/JavadocBlockTagHandler"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/api/JavadocBlockTagHandler"
     },
     {
       "data": {"info": {
@@ -1042,74 +1042,74 @@
         "dimension": ""
       }},
       "name": "JavadocInlineTagHandler",
-      "url": "http://localhost:8080/javadoc/com/eden/orchid/javadoc/api/JavadocInlineTagHandler"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/javadoc/com/eden/orchid/javadoc/api/JavadocInlineTagHandler"
     }
   ],
   "assets": [
     {
       "data": {},
       "name": "bootstrap_theme",
-      "url": "http://localhost:8080/assets/css/bootstrap_theme.css"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/css/bootstrap_theme.css"
     },
     {
       "data": {},
       "name": "directoryListing",
-      "url": "http://localhost:8080/assets/css/directoryListing.css"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/css/directoryListing.css"
     },
     {
       "data": {},
       "name": "css",
-      "url": "http://localhost:8080/assets/svg/css.svg"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/svg/css.svg"
     },
     {
       "data": {},
       "name": "csv",
-      "url": "http://localhost:8080/assets/svg/csv.svg"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/svg/csv.svg"
     },
     {
       "data": {},
       "name": "folder",
-      "url": "http://localhost:8080/assets/svg/folder.svg"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/svg/folder.svg"
     },
     {
       "data": {},
       "name": "html",
-      "url": "http://localhost:8080/assets/svg/html.svg"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/svg/html.svg"
     },
     {
       "data": {},
       "name": "jpg",
-      "url": "http://localhost:8080/assets/svg/jpg.svg"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/svg/jpg.svg"
     },
     {
       "data": {},
       "name": "js",
-      "url": "http://localhost:8080/assets/svg/js.svg"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/svg/js.svg"
     },
     {
       "data": {},
       "name": "json",
-      "url": "http://localhost:8080/assets/svg/json.svg"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/svg/json.svg"
     },
     {
       "data": {},
       "name": "png",
-      "url": "http://localhost:8080/assets/svg/png.svg"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/svg/png.svg"
     },
     {
       "data": {},
       "name": "txt",
-      "url": "http://localhost:8080/assets/svg/txt.svg"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/svg/txt.svg"
     },
     {
       "data": {},
       "name": "xml",
-      "url": "http://localhost:8080/assets/svg/xml.svg"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/svg/xml.svg"
     },
     {
       "data": {},
       "name": "docs",
-      "url": "http://localhost:8080/assets/js/docs.js"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/assets/js/docs.js"
     }
   ],
   "pages": [
@@ -1119,7 +1119,7 @@
         "title": "All Orchid Projects"
       },
       "name": "All Orchid Projects",
-      "url": "http://localhost:8080/all_orchid_projects"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/all_orchid_projects"
     },
     {
       "data": {
@@ -1127,7 +1127,7 @@
         "title": "Contact"
       },
       "name": "Contact",
-      "url": "http://localhost:8080/contact"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/contact"
     },
     {
       "data": {
@@ -1136,7 +1136,7 @@
         "title": "About"
       },
       "name": "About",
-      "url": "http://localhost:8080/about"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/about"
     },
     {
       "data": {
@@ -1145,7 +1145,7 @@
         "title": "About"
       },
       "name": "About",
-      "url": "http://localhost:8080/aboutAd"
+      "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/aboutAd"
     }
   ],
   "posts": [{
@@ -1154,7 +1154,7 @@
       "page": 1
     },
     "name": "Archives (Page 1)",
-    "url": "http://localhost:8080/archive/1"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/archive/1"
   }],
   "home": [{
     "data": {
@@ -1162,6 +1162,6 @@
       "readme": "<h1 id=\"orchid\">Orchid<\/h1>\n<p><a href=\"https://travis-ci.org/JavaEden/Orchid\"><img src=\"https://travis-ci.org/JavaEden/Orchid.svg?branch=master\" alt=\"Build Status\" /><\/a><\/p>\n<p>Orchid is a modern, extensible, theme-ready Javadoc site generator.<\/p>\n"
     },
     "name": "Home",
-    "url": "http://localhost:8080/index.html"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Javadoc/index.html"
   }]
 }

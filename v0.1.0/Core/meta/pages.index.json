@@ -5,7 +5,7 @@
       "title": "All Orchid Projects"
     },
     "name": "All Orchid Projects",
-    "url": "http://localhost:8080/all_orchid_projects"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/all_orchid_projects"
   },
   {
     "data": {
@@ -13,7 +13,7 @@
       "title": "Contact"
     },
     "name": "Contact",
-    "url": "http://localhost:8080/contact"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/contact"
   },
   {
     "data": {
@@ -22,6 +22,6 @@
       "title": "About"
     },
     "name": "About",
-    "url": "http://localhost:8080/about"
+    "url": "https://javaeden.github.io/Orchid/v0.1.0/Core/about"
   }
 ]}
