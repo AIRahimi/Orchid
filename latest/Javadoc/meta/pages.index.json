@@ -1,0 +1,36 @@
+{"pages": [
+  {
+    "data": {
+      "root": true,
+      "title": "All Orchid Projects"
+    },
+    "name": "All Orchid Projects",
+    "url": "http://localhost:8080/all_orchid_projects"
+  },
+  {
+    "data": {
+      "root": true,
+      "title": "Contact"
+    },
+    "name": "Contact",
+    "url": "http://localhost:8080/contact"
+  },
+  {
+    "data": {
+      "layout": "geopattern2",
+      "root": true,
+      "title": "About"
+    },
+    "name": "About",
+    "url": "http://localhost:8080/about"
+  },
+  {
+    "data": {
+      "layout": "geopattern2",
+      "root": true,
+      "title": "About"
+    },
+    "name": "About",
+    "url": "http://localhost:8080/aboutAd"
+  }
+]}

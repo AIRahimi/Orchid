@@ -1,0 +1,37 @@
+{"wiki": [
+  {
+    "data": {},
+    "name": "Glossary",
+    "url": "http://localhost:8080/wiki/writing/glossary"
+  },
+  {
+    "data": {},
+    "name": "Summary",
+    "url": "http://localhost:8080/wiki/writing/summary"
+  },
+  {
+    "data": {},
+    "name": "Wiki Pages",
+    "url": "http://localhost:8080/wiki/writing/pages"
+  },
+  {
+    "data": {},
+    "name": "About",
+    "url": "http://localhost:8080/wiki/about"
+  },
+  {
+    "data": {},
+    "name": "Get Started",
+    "url": "http://localhost:8080/wiki/get_started"
+  },
+  {
+    "data": {},
+    "name": "Summary",
+    "url": "http://localhost:8080/wiki/summary"
+  },
+  {
+    "data": {},
+    "name": "Glossary",
+    "url": "http://localhost:8080/wiki/glossary"
+  }
+]}
