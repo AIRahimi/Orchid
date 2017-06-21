@@ -1,0 +1,164 @@
+{
+  "ownKey": "assets",
+  "childrenPages": {"assets": {
+    "ownKey": "assets",
+    "childrenPages": {
+      "css": {
+        "ownKey": "css",
+        "childrenPages": {"milligram": {
+          "ownKey": "milligram",
+          "ownPages": [{
+            "reference": {
+              "path": "assets/css/milligram",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "Test",
+              "extension": "css",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/css/milligram/Test.css"
+            },
+            "data": {}
+          }]
+        }},
+        "ownPages": [
+          {
+            "reference": {
+              "path": "assets/css",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "appStyles",
+              "extension": "css",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/css/appStyles.css"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/css",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "directoryListing",
+              "extension": "css",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/css/directoryListing.css"
+            },
+            "data": {}
+          }
+        ]
+      },
+      "svg": {
+        "ownKey": "svg",
+        "ownPages": [
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "css",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/svg/css.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "csv",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/svg/csv.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "folder",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/svg/folder.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "html",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/svg/html.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "jpg",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/svg/jpg.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "js",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/svg/js.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "json",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/svg/json.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "png",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/svg/png.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "txt",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/svg/txt.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts",
+              "fileName": "xml",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPosts/assets/svg/xml.svg"
+            },
+            "data": {}
+          }
+        ]
+      }
+    }
+  }}
+}

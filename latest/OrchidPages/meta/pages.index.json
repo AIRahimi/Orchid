@@ -1,0 +1,62 @@
+{
+  "ownKey": "pages",
+  "childrenPages": {
+    "get_started": {
+      "ownKey": "get_started",
+      "ownPages": [{
+        "reference": {
+          "path": "",
+          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPages",
+          "fileName": "get_started",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPages/get_started",
+          "title": "Get Started"
+        },
+        "data": {
+          "root": true,
+          "title": "Get Started"
+        },
+        "type": "page"
+      }]
+    },
+    "pages": {
+      "ownKey": "pages",
+      "ownPages": [{
+        "reference": {
+          "path": "",
+          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPages",
+          "fileName": "pages",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPages/pages",
+          "title": "Creating Pages"
+        },
+        "data": {
+          "root": true,
+          "title": "Creating Pages"
+        },
+        "type": "page"
+      }]
+    },
+    "about": {
+      "ownKey": "about",
+      "ownPages": [{
+        "reference": {
+          "path": "",
+          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPages",
+          "fileName": "about",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidPages/about",
+          "title": "About Orchid Pages"
+        },
+        "data": {
+          "root": true,
+          "title": "About Orchid Pages"
+        },
+        "type": "page"
+      }]
+    }
+  }
+}
