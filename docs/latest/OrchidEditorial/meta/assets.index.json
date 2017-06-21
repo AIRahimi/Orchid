@@ -1,0 +1,191 @@
+{
+  "ownKey": "assets",
+  "childrenPages": {"assets": {
+    "ownKey": "assets",
+    "childrenPages": {
+      "css": {
+        "ownKey": "css",
+        "childrenPages": {"milligram": {
+          "ownKey": "milligram",
+          "ownPages": [{
+            "reference": {
+              "path": "assets/css/milligram",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "Test",
+              "extension": "css",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/css/milligram/Test.css"
+            },
+            "data": {}
+          }]
+        }},
+        "ownPages": [
+          {
+            "reference": {
+              "path": "assets/css",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "directoryListing",
+              "extension": "css",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/css/directoryListing.css"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/css",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "main",
+              "extension": "css",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/css/main.css"
+            },
+            "data": {}
+          }
+        ]
+      },
+      "svg": {
+        "ownKey": "svg",
+        "ownPages": [
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "css",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/svg/css.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "csv",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/svg/csv.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "folder",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/svg/folder.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "html",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/svg/html.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "jpg",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/svg/jpg.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "js",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/svg/js.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "json",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/svg/json.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "png",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/svg/png.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "txt",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/svg/txt.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "xml",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/svg/xml.svg"
+            },
+            "data": {}
+          }
+        ]
+      },
+      "js": {
+        "ownKey": "js",
+        "ownPages": [
+          {
+            "reference": {
+              "path": "assets/js",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "main",
+              "extension": "js",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/js/main.js"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/js",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidEditorial",
+              "fileName": "util",
+              "extension": "js",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidEditorial/assets/js/util.js"
+            },
+            "data": {}
+          }
+        ]
+      }
+    }
+  }}
+}
