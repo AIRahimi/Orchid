@@ -1,0 +1,164 @@
+{
+  "ownKey": "assets",
+  "childrenPages": {"assets": {
+    "ownKey": "assets",
+    "childrenPages": {
+      "css": {
+        "ownKey": "css",
+        "childrenPages": {"milligram": {
+          "ownKey": "milligram",
+          "ownPages": [{
+            "reference": {
+              "path": "assets/css/milligram",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "Test",
+              "extension": "css",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/css/milligram/Test.css"
+            },
+            "data": {}
+          }]
+        }},
+        "ownPages": [
+          {
+            "reference": {
+              "path": "assets/css",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "appStyles",
+              "extension": "css",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/css/appStyles.css"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/css",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "directoryListing",
+              "extension": "css",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/css/directoryListing.css"
+            },
+            "data": {}
+          }
+        ]
+      },
+      "svg": {
+        "ownKey": "svg",
+        "ownPages": [
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "css",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/css.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "csv",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/csv.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "folder",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/folder.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "html",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/html.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "jpg",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/jpg.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "js",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/js.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "json",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/json.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "png",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/png.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "txt",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/txt.svg"
+            },
+            "data": {}
+          },
+          {
+            "reference": {
+              "path": "assets/svg",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "xml",
+              "extension": "svg",
+              "usePrettyUrl": false,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/xml.svg"
+            },
+            "data": {}
+          }
+        ]
+      }
+    }
+  }}
+}

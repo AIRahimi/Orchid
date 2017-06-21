@@ -1,0 +1,913 @@
+{
+  "ownKey": "internal",
+  "childrenPages": {
+    "assets": {
+      "ownKey": "assets",
+      "childrenPages": {
+        "css": {
+          "ownKey": "css",
+          "childrenPages": {"milligram": {
+            "ownKey": "milligram",
+            "ownPages": [{
+              "reference": {
+                "path": "assets/css/milligram",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "Test",
+                "extension": "css",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/css/milligram/Test.css"
+              },
+              "data": {}
+            }]
+          }},
+          "ownPages": [
+            {
+              "reference": {
+                "path": "assets/css",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "appStyles",
+                "extension": "css",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/css/appStyles.css"
+              },
+              "data": {}
+            },
+            {
+              "reference": {
+                "path": "assets/css",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "directoryListing",
+                "extension": "css",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/css/directoryListing.css"
+              },
+              "data": {}
+            }
+          ]
+        },
+        "svg": {
+          "ownKey": "svg",
+          "ownPages": [
+            {
+              "reference": {
+                "path": "assets/svg",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "css",
+                "extension": "svg",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/css.svg"
+              },
+              "data": {}
+            },
+            {
+              "reference": {
+                "path": "assets/svg",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "csv",
+                "extension": "svg",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/csv.svg"
+              },
+              "data": {}
+            },
+            {
+              "reference": {
+                "path": "assets/svg",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "folder",
+                "extension": "svg",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/folder.svg"
+              },
+              "data": {}
+            },
+            {
+              "reference": {
+                "path": "assets/svg",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "html",
+                "extension": "svg",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/html.svg"
+              },
+              "data": {}
+            },
+            {
+              "reference": {
+                "path": "assets/svg",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "jpg",
+                "extension": "svg",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/jpg.svg"
+              },
+              "data": {}
+            },
+            {
+              "reference": {
+                "path": "assets/svg",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "js",
+                "extension": "svg",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/js.svg"
+              },
+              "data": {}
+            },
+            {
+              "reference": {
+                "path": "assets/svg",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "json",
+                "extension": "svg",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/json.svg"
+              },
+              "data": {}
+            },
+            {
+              "reference": {
+                "path": "assets/svg",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "png",
+                "extension": "svg",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/png.svg"
+              },
+              "data": {}
+            },
+            {
+              "reference": {
+                "path": "assets/svg",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "txt",
+                "extension": "svg",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/txt.svg"
+              },
+              "data": {}
+            },
+            {
+              "reference": {
+                "path": "assets/svg",
+                "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                "fileName": "xml",
+                "extension": "svg",
+                "usePrettyUrl": false,
+                "link": "http://localhost:8080/v0.2.0/OrchidCore/assets/svg/xml.svg"
+              },
+              "data": {}
+            }
+          ]
+        }
+      }
+    },
+    "pages": {
+      "ownKey": "pages",
+      "childrenPages": {
+        "all_orchid_projects": {
+          "ownKey": "all_orchid_projects",
+          "ownPages": [{
+            "reference": {
+              "path": "pages",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "all_orchid_projects",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/pages/all_orchid_projects",
+              "title": "All Orchid Projects"
+            },
+            "data": {"title": "All Orchid Projects"},
+            "type": "page"
+          }]
+        },
+        "contact": {
+          "ownKey": "contact",
+          "ownPages": [{
+            "reference": {
+              "path": "pages",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "contact",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/pages/contact",
+              "title": "Contact"
+            },
+            "data": {"title": "Contact"},
+            "type": "page"
+          }]
+        },
+        "about": {
+          "ownKey": "about",
+          "ownPages": [{
+            "reference": {
+              "path": "pages",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "about",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/pages/about",
+              "title": "About"
+            },
+            "data": {
+              "layout": "geopattern2",
+              "title": "About"
+            },
+            "type": "page"
+          }]
+        }
+      },
+      "ownPages": [{
+        "reference": {
+          "path": "pages",
+          "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+          "fileName": "",
+          "extension": "DS_Store",
+          "usePrettyUrl": true,
+          "link": "http://localhost:8080/v0.2.0/OrchidCore/pages/",
+          "title": ""
+        },
+        "data": {},
+        "type": "page"
+      }]
+    },
+    "wiki": {
+      "ownKey": "wiki",
+      "childrenPages": {
+        "summary": {
+          "ownKey": "summary",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "summary",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/summary",
+              "title": "Summary"
+            },
+            "data": {},
+            "type": "wiki"
+          }]
+        },
+        "glossary": {
+          "ownKey": "glossary",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+              "fileName": "glossary",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/glossary",
+              "title": "Glossary"
+            },
+            "data": {},
+            "type": "wiki"
+          }]
+        },
+        "getting_started": {
+          "ownKey": "getting_started",
+          "childrenPages": {
+            "overview": {
+              "ownKey": "overview",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "overview",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/overview",
+                  "title": "Orchid Overview"
+                },
+                "next": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "setup",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/setup",
+                  "title": "Setup"
+                },
+                "previous": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "index",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/index",
+                  "title": "Getting Started"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "themes": {
+              "ownKey": "themes",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "themes",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/themes",
+                  "title": "Picking Themes"
+                },
+                "next": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "publishing",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/publishing",
+                  "title": "Deploying Your Site"
+                },
+                "previous": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "extensions",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/extensions",
+                  "title": "Using Extensions"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "extensions": {
+              "ownKey": "extensions",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "extensions",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/extensions",
+                  "title": "Using Extensions"
+                },
+                "next": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "themes",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/themes",
+                  "title": "Picking Themes"
+                },
+                "previous": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "setup",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/setup",
+                  "title": "Setup"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "linking": {
+              "ownKey": "linking",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "linking",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/linking",
+                  "title": "Linking to Other Orchid Sites"
+                },
+                "next": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "index",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/index",
+                  "title": "Publishing Content"
+                },
+                "previous": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "publishing",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/publishing",
+                  "title": "Deploying Your Site"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "index": {
+              "ownKey": "index",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "index",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/index",
+                  "title": "Getting Started"
+                },
+                "next": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "overview",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/overview",
+                  "title": "Orchid Overview"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "setup": {
+              "ownKey": "setup",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "setup",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/setup",
+                  "title": "Setup"
+                },
+                "next": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "extensions",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/extensions",
+                  "title": "Using Extensions"
+                },
+                "previous": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "overview",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/overview",
+                  "title": "Orchid Overview"
+                },
+                "data": {"pluginVersion": "v0.1.7"},
+                "type": "wiki"
+              }]
+            },
+            "publishing": {
+              "ownKey": "publishing",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "publishing",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/publishing",
+                  "title": "Deploying Your Site"
+                },
+                "next": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "linking",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/linking",
+                  "title": "Linking to Other Orchid Sites"
+                },
+                "previous": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "themes",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/themes",
+                  "title": "Picking Themes"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            }
+          }
+        },
+        "publishing": {
+          "ownKey": "publishing",
+          "childrenPages": {
+            "javadoc": {
+              "ownKey": "javadoc",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "javadoc",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/javadoc",
+                  "title": "Javadoc"
+                },
+                "next": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "pages",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/pages",
+                  "title": "Static Pages"
+                },
+                "previous": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "index",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/index",
+                  "title": "Publishing Content"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "pages": {
+              "ownKey": "pages",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "pages",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/pages",
+                  "title": "Static Pages"
+                },
+                "next": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "blog",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/blog",
+                  "title": "Blog Posts"
+                },
+                "previous": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "javadoc",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/javadoc",
+                  "title": "Javadoc"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "wiki": {
+              "ownKey": "wiki",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "wiki",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/wiki",
+                  "title": "Custom Wiki"
+                },
+                "next": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "index",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/index",
+                  "title": "Extending Orchid"
+                },
+                "previous": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "blog",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/blog",
+                  "title": "Blog Posts"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "index": {
+              "ownKey": "index",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "index",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/index",
+                  "title": "Publishing Content"
+                },
+                "next": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "javadoc",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/javadoc",
+                  "title": "Javadoc"
+                },
+                "previous": {
+                  "path": "wiki/getting_started",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "linking",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/getting_started/linking",
+                  "title": "Linking to Other Orchid Sites"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "blog": {
+              "ownKey": "blog",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "blog",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/blog",
+                  "title": "Blog Posts"
+                },
+                "next": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "wiki",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/wiki",
+                  "title": "Custom Wiki"
+                },
+                "previous": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "pages",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/pages",
+                  "title": "Static Pages"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            }
+          }
+        },
+        "extending": {
+          "ownKey": "extending",
+          "childrenPages": {
+            "themes": {
+              "ownKey": "themes",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "themes",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/themes",
+                  "title": "Making Themes"
+                },
+                "next": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "project_local",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/project_local",
+                  "title": "Project-Local Extensions"
+                },
+                "previous": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "extensions",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/extensions",
+                  "title": "Writing Extensions"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "extensions": {
+              "ownKey": "extensions",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "extensions",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/extensions",
+                  "title": "Writing Extensions"
+                },
+                "next": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "themes",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/themes",
+                  "title": "Making Themes"
+                },
+                "previous": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "architecture",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/architecture",
+                  "title": "Understanding the Orchid Architecture"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "index": {
+              "ownKey": "index",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "index",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/index",
+                  "title": "Extending Orchid"
+                },
+                "next": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "architecture",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/architecture",
+                  "title": "Understanding the Orchid Architecture"
+                },
+                "previous": {
+                  "path": "wiki/publishing",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "wiki",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/publishing/wiki",
+                  "title": "Custom Wiki"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "core_development": {
+              "ownKey": "core_development",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "core_development",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/core_development",
+                  "title": "Contribute to Core"
+                },
+                "previous": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "project_local",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/project_local",
+                  "title": "Project-Local Extensions"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "architecture": {
+              "ownKey": "architecture",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "architecture",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/architecture",
+                  "title": "Understanding the Orchid Architecture"
+                },
+                "next": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "extensions",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/extensions",
+                  "title": "Writing Extensions"
+                },
+                "previous": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "index",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/index",
+                  "title": "Extending Orchid"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "project_local": {
+              "ownKey": "project_local",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "project_local",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/project_local",
+                  "title": "Project-Local Extensions"
+                },
+                "next": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "core_development",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/core_development",
+                  "title": "Contribute to Core"
+                },
+                "previous": {
+                  "path": "wiki/extending",
+                  "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+                  "fileName": "themes",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "http://localhost:8080/v0.2.0/OrchidCore/wiki/extending/themes",
+                  "title": "Making Themes"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            }
+          }
+        }
+      }
+    },
+    "archive": {
+      "ownKey": "archive",
+      "childrenPages": {"1": {
+        "ownKey": "1",
+        "ownPages": [{
+          "reference": {
+            "path": "archive",
+            "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+            "fileName": "1",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "http://localhost:8080/v0.2.0/OrchidCore/archive/1",
+            "title": "Archives (Page 1)"
+          },
+          "data": {},
+          "type": "postArchive"
+        }]
+      }}
+    }
+  },
+  "ownPages": [{
+    "reference": {
+      "path": "",
+      "baseUrl": "http://localhost:8080/v0.2.0/OrchidCore",
+      "fileName": "index",
+      "extension": "html",
+      "usePrettyUrl": false,
+      "link": "http://localhost:8080/v0.2.0/OrchidCore/index.html",
+      "title": "Home"
+    },
+    "data": {},
+    "type": "frontPage"
+  }]
+}
