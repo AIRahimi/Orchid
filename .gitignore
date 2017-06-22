@@ -32,3 +32,8 @@ proguard/
 
 # Google Analytics
 /**/templates/meta.twig
+
+docs/
+gradle/
+gradlew
+gradlew.bat
