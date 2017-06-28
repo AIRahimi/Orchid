@@ -1,11 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <!-- start:inject styles --><link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/assets/css/appStyles.css"/><link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/assets/css/directoryListing.css"/><link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/assets/css/milligram/Test.css"/><!-- end:inject styles -->
+    <meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="robots" content="index, follow">
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+
     <title>Home</title>
+
+
+
+    <meta name="description" content="A modern, extensible, theme-ready Javadoc site generator.">
+
+
+
+
+
+
+
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-54516992-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+    <!-- start:inject styles --><link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/assets/css/appStyles.css"/><link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/assets/css/directoryListing.css"/><link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/assets/css/milligram/Test.css"/><!-- end:inject styles -->
+    <style>
+        .container p > img {
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
 <header>
@@ -32,39 +64,71 @@
     </li>
 
     
+
+    
+        <li>
+            <a class='dropdown-button versions-dropdown btn' href='#'
+               data-activates='versionDropdown'>Currently: v0.2.0</a>
+            <ul id='versionDropdown' class='dropdown-content'></ul>
+        </li>
+
         
-            
-                <li class="bold"><a href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/pages/all_orchid_projects" class="waves-effect waves-teal truncate">All Orchid Projects</a></li>
-            
+            <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                var request = new XMLHttpRequest();
+                request.open('GET', 'https://javaeden.github.io/Orchid/latest/OrchidCore/meta/changelog.index.json', true);
+
+                request.onload = function () {
+                    if (request.status >= 200 && request.status < 400) {
+                        var versions = JSON.parse(request.responseText).childrenPages.versions.childrenPages;
+
+                        var dropdownVersions = document.getElementById('versionDropdown');
+                        dropdownVersions.innerHTML = '';
+
+                        for (var key in versions) {
+                            if (versions.hasOwnProperty(key)) {
+                                var li = document.createElement('li');
+                                var a = document.createElement('a');
+                                var linkText = document.createTextNode(versions[key].ownKey);
+                                a.appendChild(linkText);
+                                a.href = versions[key].ownPages[0].reference.link;
+                                li.appendChild(a);
+                                dropdownVersions.appendChild(li);
+                            }
+                        }
+
+                        $('.dropdown-button.versions-dropdown').sideNav({});
+                    }
+                };
+                request.send();
+            }, false);
+            </script>
         
     
-        
-            
-                <li class="bold"><a href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/pages/contact" class="waves-effect waves-teal truncate">Contact</a></li>
-            
-        
-    
-        
-            
-                <li class="bold"><a href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/pages/about" class="waves-effect waves-teal truncate">About</a></li>
-            
-        
-    
-        
-            <li><div class="divider"></div></li>
-            
-        
+
+
     
         
             <li class="no-padding">
                 <ul class="collapsible collapsible-accordion">
-                    <li class="bold"><a class="collapsible-header  truncate waves-effect">Summary</a>
+                    <li class="bold"><a
+                                class="collapsible-header  truncate waves-effect">Pages</a>
                         <div class="collapsible-body">
                             <ul>
                                 
                                     
                                         <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/summary">Summary</a></li>
+                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/pages/all_orchid_projects">All Orchid Projects</a></li>
+                                    
+                                
+                                    
+                                        <li class=" truncate"><a
+                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/pages/contact">Contact</a></li>
+                                    
+                                
+                                    
+                                        <li class=" truncate"><a
+                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/pages/about">About</a></li>
                                     
                                 
                             </ul>
@@ -75,154 +139,17 @@
         
     
         
-            <li class="no-padding">
-                <ul class="collapsible collapsible-accordion">
-                    <li class="bold"><a class="collapsible-header  truncate waves-effect">Glossary</a>
-                        <div class="collapsible-body">
-                            <ul>
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/glossary">Glossary</a></li>
-                                    
-                                
-                            </ul>
-                        </div>
-                    </li>
-                </ul>
-            </li>
+            
+                <li class="bold"><a href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/summary"
+                                    class="waves-effect waves-teal truncate">Summary</a></li>
+            
         
     
         
-            <li class="no-padding">
-                <ul class="collapsible collapsible-accordion">
-                    <li class="bold"><a class="collapsible-header  truncate waves-effect">Getting Started</a>
-                        <div class="collapsible-body">
-                            <ul>
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/getting_started/index">Getting Started</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/getting_started/overview">Orchid Overview</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/getting_started/setup">Setup</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/getting_started/extensions">Using Extensions</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/getting_started/themes">Picking Themes</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/getting_started/publishing">Deploying Your Site</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/getting_started/linking">Linking to Other Orchid Sites</a></li>
-                                    
-                                
-                            </ul>
-                        </div>
-                    </li>
-                </ul>
-            </li>
-        
-    
-        
-            <li class="no-padding">
-                <ul class="collapsible collapsible-accordion">
-                    <li class="bold"><a class="collapsible-header  truncate waves-effect">Publishing</a>
-                        <div class="collapsible-body">
-                            <ul>
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/publishing/index">Publishing Content</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/publishing/javadoc">Javadoc</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/publishing/pages">Static Pages</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/publishing/blog">Blog Posts</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/publishing/wiki">Custom Wiki</a></li>
-                                    
-                                
-                            </ul>
-                        </div>
-                    </li>
-                </ul>
-            </li>
-        
-    
-        
-            <li class="no-padding">
-                <ul class="collapsible collapsible-accordion">
-                    <li class="bold"><a class="collapsible-header  truncate waves-effect">Extending</a>
-                        <div class="collapsible-body">
-                            <ul>
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/extending/index">Extending Orchid</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/extending/architecture">Understanding the Orchid Architecture</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/extending/extensions">Writing Extensions</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/extending/themes">Making Themes</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/extending/project_local">Project-Local Extensions</a></li>
-                                    
-                                
-                                    
-                                        <li class=" truncate"><a
-                                                    href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/extending/core_development">Contribute to Core</a></li>
-                                    
-                                
-                            </ul>
-                        </div>
-                    </li>
-                </ul>
-            </li>
+            
+                <li class="bold"><a href="https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/wiki/gettingStarted"
+                                    class="waves-effect waves-teal truncate">Getting Started</a></li>
+            
         
     
 </ul>
@@ -234,10 +161,120 @@
         
 
     
-        <h1 id="orchidcore">OrchidCore</h1>
-<p><a href="https://travis-ci.org/JavaEden/Orchid"><img src="https://travis-ci.org/JavaEden/Orchid.svg?branch=master" alt="Build Status" /></a></p>
-<p>The core Orchid framework. Contains basic implementations needed to generate a site, but all meaningful implementations
-are contained within the various official Orchid projects.</p>
+        <h1 id="orchid">Orchid</h1>
+<p><a href="https://travis-ci.org/JavaEden/Orchid"><img src="https://travis-ci.org/JavaEden/Orchid.svg?branch=master" alt="Build Status" /></a> (Linux and Mac)
+<a href="https://ci.appveyor.com/project/cjbrooks12/orchid/branch/master"><img src="https://ci.appveyor.com/api/projects/status/0358qdkmfhbqedo1/branch/master?svg=true" alt="Build status" /></a> (Windows)
+<a href="http://www.gnu.org/licenses/lgpl-3.0"><img src="https://img.shields.io/badge/License-LGPL%20v3-blue.svg" alt="License: LGPL v3" /></a></p>
+<blockquote>
+<p>A beautiful and truly unique documentation engine and static site generator.</p>
+</blockquote>
+<p><img src="http://i.imgur.com/Fs3YFyY.png" alt="Example Orchid site" /></p>
+<p>Orchid is a general-purpose static site generator with a focus on extensibility, and aimed at developers looking to
+improve their technical documentation. Orchid was born out of a desire for better-looking Javadocs and frustration with
+how difficult is it to manage large Jekyll sites and keep it up-to-date with your code.</p>
+<p>Orchid supports a variety of plugins, including a wiki, static pages, blogs, and much more. It aims to have high
+compatibility with many of the existing static site generators, such as Jekyll, Gitbook, and Hugo, so that migration to
+Orchid is painless. And if you can't find a plugin to do what you need, Orchid provides an intuitive way to add your own
+private plugins and a rich API so you can make your site as beautiful and unique as an Orchid.</p>
+<p><a href="http://javaeden.github.io/orchid/latest/OrchidCore">View the full documentation</a> or see the quick-start below.</p>
+<h2 id="installation">Installation</h2>
+<p>Orchid integrates with any new or existing Gradle project. To get started, pick a Bundle (OrchidAll, OrchidBlog, or
+OrchidProduct) or manually choose your desired Orchid plugins. You may pick a bundle to start with and add any number of
+plugins afterward, both official and unofficial. Then, setup your project's <code>build.gradle</code> file like so:</p>
+<pre><code class="language-groovy">
+plugins {
+    // Add the official Orchid Gradle plugin so you can use Orchid with the custom DSL
+    id: 'io.github.javaeden.orchid:orchidPlugin:{version}'
+}
+
+repositories {
+    // Orchid uses dependencies from both Jcenter and Jitpack, so both must be included. jcenter also includes 
+    // everything available from MavenCentral, while Jitpack makes accessible any Github project.
+    jcenter() 
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    // Add an Orchid Bundle. OrchidAll comes with all official themes included.
+    // You must include a theme separately when using the OrchidBlog and OrchidProduct bundles 
+    orchidDocsCompile 'io.github.javaeden.orchid:OrchidAll:{version}'
+}
+
+orchid {
+    // Version, theme, and baseUrl are required
+    version = &quot;${project.version}&quot;
+    theme   = &quot;{theme class}&quot;
+    
+    // Add this is you are developing a theme or plugin to include its own `main module` sources in the Orchid build
+    includeMainConfiguration = true
+    
+    // The following properties are optional
+    
+    baseUrl = &quot;{baseUrl}&quot;                         // a baseUrl appended to all generated links. Defaults to '/'
+    srcDir  = &quot;path/to/new/source/directory&quot;      // defaults to 'src/orchidDocs/resources'
+    destDir = &quot;path/to/new/destination/directory&quot; // defaults to 'build/docs/javadoc'
+    runTask = &quot;build&quot;                             // specify a task to run with 'gradle orchidRun'
+}
+
+</code></pre>
+<p>You can now run Orchid in the following ways:</p>
+<ol>
+<li><code>./gradlew orchidRun</code> - Runs an Orchid task. The <code>runTask</code> should be specified in <code>build.gradle</code> or passed as a Gradle
+project property (<code>-PrunTask=build</code>). The task <code>listTasks</code> will show a list of all tasks that can be run given the
+plugins currently installed. Similarly, <code>listOptions</code> will list all options that can be set through Gradle.</li>
+<li><code>./gradlew orchidBuild</code> - Runs the Orchid build task a single time then exits. The resulting Orchid site will be in
+<code>build/docs/javadoc</code> unless the output directory has been changed.</li>
+<li><code>./gradlew orchidServe</code> - Sets up a development server and watches files for changes. Must have the <code>OrchidServer</code>
+plugin installed for this task to work, which is included in all the above bundles.</li>
+<li>If you are developing a Java application, Orchid replaces the standard Javadoc task with its own <code>build</code> task. In
+addition to running the standard Orchid build, when Orchid is run from Javadoc it will be able to create pages
+for all your project's classes and packages, just like you'd expect from a normal Javadoc site, but embedded within
+your chosen Orchid theme. You must have the <code>OrchidJavadoc</code> plugin installed for this to work properly.</li>
+</ol>
+<p><em>On windows, all the above commands need to be run with <code>gradlew</code> instead of <code>./gradlew</code>.</em></p>
+<p>The Orchid Gradle plugin adds a new configuration and content root to your project, in the <code>src/orchidDocs</code> directory
+(you may have to create this folder yourself). All your site content sits in <code>src/orchidDocs/resources</code>, and any
+additional classes you'd like to include as a private plugin can be placed in <code>src/orchidDocs/java</code>.</p>
+<h2 id="configuration">Configuration</h2>
+<p>You should create a <code>config.yml</code> file in your resources directory to customize your theme or configure your build. These
+values can then be used in all templates and when preprocessing your content files under the <code>options</code> variable.
+Alternatively, you may create a file in <code>data/</code> with your data which will be accessible at <code>options.[filename]</code>.</p>
+<h2 id="development-progress">Development Progress</h2>
+<p>Orchid is still in the early stages of development. While much of the public API is solid and not likely to change, I
+make no guarantees that any particular API will not change or be removed. In addition, themes are likely to change
+significantly, so any custom templates may not behave as expected after an Orchid update.</p>
+<p>The following table lists all Orchid packages currently in development:</p>
+<h4 id="core-packages">Core Packages</h4>
+<p>| Name                 | Version | Build Status |
+| -------------------- | ------- | ------------ |
+| Orchid Core          | v0.2.0  | Passing      |
+| Orchid Gradle Plugin | v0.2.0  | Passing      |</p>
+<h4 id="themes">Themes</h4>
+<p>| Name              | Version | Build Status |
+| ----------------- | ------- | ------------ |
+| OrchidBsDoc       | v0.2.0  | Passing      |
+| OrchidEditorial   | v0.2.0  | Passing      |
+| OrchidMaterialize | v0.2.0  | Passing      |</p>
+<h4 id="plugins">Plugins</h4>
+<p>| Name         | Version | Build Status |
+| ------------ | ------- | ------------ |
+| Changelog    | v0.2.0  | Passing      |
+| Javadoc      | v0.2.0  | Passing      |
+| LanguagePack | v0.2.0  | Passing      |
+| Pages        | v0.2.0  | Passing      |
+| Posts        | v0.2.0  | Passing      |
+| Server       | v0.2.0  | Passing      |
+| Wiki         | v0.2.0  | Passing      |</p>
+<h2 id="license">License</h2>
+<p>Orchid is open-source software licensed under the GNU Lesser General Public License (LGPL). See License.md for more
+information.</p>
+<h2 id="contributing">Contributing</h2>
+<p>This repository is comprised of many individual projects, which are all listed above. You can build and run any project
+with Gradle from the project root, such as <code>gradle :OrchidCore:assemble</code> or <code>gradle :plugins:OrchidServer:assemble</code>, or
+you may navigate to a particular project's subdirectory to run the Gradle commands directly.</p>
+<h2 id="contact">Contact</h2>
+<p>Orchid is being actively developed by Casey Brooks. Please open an issue here with questions or bug/feature requests, or
+you can reach me directly at cjbrooks12@gmail.com.</p>
 
     
 

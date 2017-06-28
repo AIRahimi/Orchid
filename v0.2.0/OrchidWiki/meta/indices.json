@@ -188,66 +188,59 @@
         },
         "data": {
           "ownKey": "pages",
-          "childrenPages": {
-            "all_orchid_projects": {
-              "ownKey": "all_orchid_projects",
-              "ownPages": [{
-                "reference": {
-                  "path": "",
-                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                  "fileName": "all_orchid_projects",
-                  "extension": "html",
-                  "usePrettyUrl": true,
-                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/all_orchid_projects",
-                  "title": "All Orchid Projects"
-                },
-                "data": {
-                  "root": true,
-                  "title": "All Orchid Projects"
-                },
-                "type": "page"
-              }]
-            },
-            "contact": {
-              "ownKey": "contact",
-              "ownPages": [{
-                "reference": {
-                  "path": "",
-                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                  "fileName": "contact",
-                  "extension": "html",
-                  "usePrettyUrl": true,
-                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/contact",
-                  "title": "Contact"
-                },
-                "data": {
-                  "root": true,
-                  "title": "Contact"
-                },
-                "type": "page"
-              }]
-            },
-            "about": {
-              "ownKey": "about",
-              "ownPages": [{
-                "reference": {
-                  "path": "",
-                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                  "fileName": "about",
-                  "extension": "html",
-                  "usePrettyUrl": true,
-                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/about",
-                  "title": "About"
-                },
-                "data": {
-                  "layout": "geopattern2",
-                  "root": true,
-                  "title": "About"
-                },
-                "type": "page"
-              }]
+          "childrenPages": {"pages": {
+            "ownKey": "pages",
+            "childrenPages": {
+              "all_orchid_projects": {
+                "ownKey": "all_orchid_projects",
+                "ownPages": [{
+                  "reference": {
+                    "path": "pages",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                    "fileName": "all_orchid_projects",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/pages/all_orchid_projects",
+                    "title": "All Orchid Projects"
+                  },
+                  "data": {"title": "All Orchid Projects"},
+                  "type": "page"
+                }]
+              },
+              "contact": {
+                "ownKey": "contact",
+                "ownPages": [{
+                  "reference": {
+                    "path": "pages",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                    "fileName": "contact",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/pages/contact",
+                    "title": "Contact"
+                  },
+                  "data": {"title": "Contact"},
+                  "type": "page"
+                }]
+              },
+              "about": {
+                "ownKey": "about",
+                "ownPages": [{
+                  "reference": {
+                    "path": "pages",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                    "fileName": "about",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/pages/about",
+                    "title": "About"
+                  },
+                  "data": {"title": "About"},
+                  "type": "page"
+                }]
+              }
             }
-          }
+          }}
         }
       },
       {
@@ -296,158 +289,26 @@
                   "type": "wiki"
                 }]
               },
-              "get_started": {
-                "ownKey": "get_started",
+              "overview": {
+                "ownKey": "overview",
                 "ownPages": [{
                   "reference": {
                     "path": "wiki",
                     "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                    "fileName": "get_started",
+                    "fileName": "overview",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/get_started",
-                    "title": "Get Started"
+                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/overview",
+                    "title": "Overview"
                   },
                   "next": {
-                    "path": "wiki",
+                    "path": "wiki/setup",
                     "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
                     "fileName": "setup",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup",
+                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/setup",
                     "title": "Setup"
-                  },
-                  "previous": {
-                    "path": "wiki",
-                    "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                    "fileName": "about",
-                    "extension": "html",
-                    "usePrettyUrl": true,
-                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/about",
-                    "title": "About"
-                  },
-                  "data": {},
-                  "type": "wiki"
-                }]
-              },
-              "writing": {
-                "ownKey": "writing",
-                "childrenPages": {
-                  "glossary": {
-                    "ownKey": "glossary",
-                    "ownPages": [{
-                      "reference": {
-                        "path": "wiki/writing",
-                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                        "fileName": "glossary",
-                        "extension": "html",
-                        "usePrettyUrl": true,
-                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/glossary",
-                        "title": "Glossary"
-                      },
-                      "next": {
-                        "path": "wiki/writing",
-                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                        "fileName": "summary",
-                        "extension": "html",
-                        "usePrettyUrl": true,
-                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/summary",
-                        "title": "Summary"
-                      },
-                      "previous": {
-                        "path": "wiki",
-                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                        "fileName": "setup",
-                        "extension": "html",
-                        "usePrettyUrl": true,
-                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup",
-                        "title": "Setup"
-                      },
-                      "data": {},
-                      "type": "wiki"
-                    }]
-                  },
-                  "summary": {
-                    "ownKey": "summary",
-                    "ownPages": [{
-                      "reference": {
-                        "path": "wiki/writing",
-                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                        "fileName": "summary",
-                        "extension": "html",
-                        "usePrettyUrl": true,
-                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/summary",
-                        "title": "Summary"
-                      },
-                      "next": {
-                        "path": "wiki/writing",
-                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                        "fileName": "pages",
-                        "extension": "html",
-                        "usePrettyUrl": true,
-                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/pages",
-                        "title": "Wiki Pages"
-                      },
-                      "previous": {
-                        "path": "wiki/writing",
-                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                        "fileName": "glossary",
-                        "extension": "html",
-                        "usePrettyUrl": true,
-                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/glossary",
-                        "title": "Glossary"
-                      },
-                      "data": {},
-                      "type": "wiki"
-                    }]
-                  },
-                  "pages": {
-                    "ownKey": "pages",
-                    "ownPages": [{
-                      "reference": {
-                        "path": "wiki/writing",
-                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                        "fileName": "pages",
-                        "extension": "html",
-                        "usePrettyUrl": true,
-                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/pages",
-                        "title": "Wiki Pages"
-                      },
-                      "previous": {
-                        "path": "wiki/writing",
-                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                        "fileName": "summary",
-                        "extension": "html",
-                        "usePrettyUrl": true,
-                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/summary",
-                        "title": "Summary"
-                      },
-                      "data": {},
-                      "type": "wiki"
-                    }]
-                  }
-                }
-              },
-              "about": {
-                "ownKey": "about",
-                "ownPages": [{
-                  "reference": {
-                    "path": "wiki",
-                    "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                    "fileName": "about",
-                    "extension": "html",
-                    "usePrettyUrl": true,
-                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/about",
-                    "title": "About"
-                  },
-                  "next": {
-                    "path": "wiki",
-                    "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                    "fileName": "get_started",
-                    "extension": "html",
-                    "usePrettyUrl": true,
-                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/get_started",
-                    "title": "Get Started"
                   },
                   "data": {},
                   "type": "wiki"
@@ -455,37 +316,101 @@
               },
               "setup": {
                 "ownKey": "setup",
-                "ownPages": [{
-                  "reference": {
-                    "path": "wiki",
-                    "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                    "fileName": "setup",
-                    "extension": "html",
-                    "usePrettyUrl": true,
-                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup",
-                    "title": "Setup"
+                "childrenPages": {
+                  "basic_usage": {
+                    "ownKey": "basic_usage",
+                    "ownPages": [{
+                      "reference": {
+                        "path": "wiki/setup",
+                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                        "fileName": "basic_usage",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/basic_usage",
+                        "title": "Basic Usage"
+                      },
+                      "next": {
+                        "path": "wiki/setup",
+                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                        "fileName": "extending",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/extending",
+                        "title": "Extending Orchid Javadoc"
+                      },
+                      "previous": {
+                        "path": "wiki/setup",
+                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                        "fileName": "setup",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/setup",
+                        "title": "Setup"
+                      },
+                      "data": {},
+                      "type": "wiki"
+                    }]
                   },
-                  "next": {
-                    "path": "wiki/writing",
-                    "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                    "fileName": "glossary",
-                    "extension": "html",
-                    "usePrettyUrl": true,
-                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/glossary",
-                    "title": "Glossary"
+                  "setup": {
+                    "ownKey": "setup",
+                    "ownPages": [{
+                      "reference": {
+                        "path": "wiki/setup",
+                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                        "fileName": "setup",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/setup",
+                        "title": "Setup"
+                      },
+                      "next": {
+                        "path": "wiki/setup",
+                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                        "fileName": "basic_usage",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/basic_usage",
+                        "title": "Basic Usage"
+                      },
+                      "previous": {
+                        "path": "wiki",
+                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                        "fileName": "overview",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/overview",
+                        "title": "Overview"
+                      },
+                      "data": {},
+                      "type": "wiki"
+                    }]
                   },
-                  "previous": {
-                    "path": "wiki",
-                    "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                    "fileName": "get_started",
-                    "extension": "html",
-                    "usePrettyUrl": true,
-                    "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/get_started",
-                    "title": "Get Started"
-                  },
-                  "data": {"pluginVersion": "v0.1.7"},
-                  "type": "wiki"
-                }]
+                  "extending": {
+                    "ownKey": "extending",
+                    "ownPages": [{
+                      "reference": {
+                        "path": "wiki/setup",
+                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                        "fileName": "extending",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/extending",
+                        "title": "Extending Orchid Javadoc"
+                      },
+                      "previous": {
+                        "path": "wiki/setup",
+                        "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                        "fileName": "basic_usage",
+                        "extension": "html",
+                        "usePrettyUrl": true,
+                        "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/basic_usage",
+                        "title": "Basic Usage"
+                      },
+                      "data": {},
+                      "type": "wiki"
+                    }]
+                  }
+                }
               }
             }
           }}
@@ -722,43 +647,58 @@
                 }
               }
             },
-            "all_orchid_projects": {
-              "ownKey": "all_orchid_projects",
-              "ownPages": [{
-                "reference": {
-                  "path": "",
-                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                  "fileName": "all_orchid_projects",
-                  "extension": "html",
-                  "usePrettyUrl": true,
-                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/all_orchid_projects",
-                  "title": "All Orchid Projects"
+            "pages": {
+              "ownKey": "pages",
+              "childrenPages": {
+                "all_orchid_projects": {
+                  "ownKey": "all_orchid_projects",
+                  "ownPages": [{
+                    "reference": {
+                      "path": "pages",
+                      "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                      "fileName": "all_orchid_projects",
+                      "extension": "html",
+                      "usePrettyUrl": true,
+                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/pages/all_orchid_projects",
+                      "title": "All Orchid Projects"
+                    },
+                    "data": {"title": "All Orchid Projects"},
+                    "type": "page"
+                  }]
                 },
-                "data": {
-                  "root": true,
-                  "title": "All Orchid Projects"
+                "contact": {
+                  "ownKey": "contact",
+                  "ownPages": [{
+                    "reference": {
+                      "path": "pages",
+                      "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                      "fileName": "contact",
+                      "extension": "html",
+                      "usePrettyUrl": true,
+                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/pages/contact",
+                      "title": "Contact"
+                    },
+                    "data": {"title": "Contact"},
+                    "type": "page"
+                  }]
                 },
-                "type": "page"
-              }]
-            },
-            "contact": {
-              "ownKey": "contact",
-              "ownPages": [{
-                "reference": {
-                  "path": "",
-                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                  "fileName": "contact",
-                  "extension": "html",
-                  "usePrettyUrl": true,
-                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/contact",
-                  "title": "Contact"
-                },
-                "data": {
-                  "root": true,
-                  "title": "Contact"
-                },
-                "type": "page"
-              }]
+                "about": {
+                  "ownKey": "about",
+                  "ownPages": [{
+                    "reference": {
+                      "path": "pages",
+                      "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                      "fileName": "about",
+                      "extension": "html",
+                      "usePrettyUrl": true,
+                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/pages/about",
+                      "title": "About"
+                    },
+                    "data": {"title": "About"},
+                    "type": "page"
+                  }]
+                }
+              }
             },
             "wiki": {
               "ownKey": "wiki",
@@ -795,158 +735,26 @@
                     "type": "wiki"
                   }]
                 },
-                "get_started": {
-                  "ownKey": "get_started",
+                "overview": {
+                  "ownKey": "overview",
                   "ownPages": [{
                     "reference": {
                       "path": "wiki",
                       "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                      "fileName": "get_started",
+                      "fileName": "overview",
                       "extension": "html",
                       "usePrettyUrl": true,
-                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/get_started",
-                      "title": "Get Started"
+                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/overview",
+                      "title": "Overview"
                     },
                     "next": {
-                      "path": "wiki",
+                      "path": "wiki/setup",
                       "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
                       "fileName": "setup",
                       "extension": "html",
                       "usePrettyUrl": true,
-                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup",
+                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/setup",
                       "title": "Setup"
-                    },
-                    "previous": {
-                      "path": "wiki",
-                      "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                      "fileName": "about",
-                      "extension": "html",
-                      "usePrettyUrl": true,
-                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/about",
-                      "title": "About"
-                    },
-                    "data": {},
-                    "type": "wiki"
-                  }]
-                },
-                "writing": {
-                  "ownKey": "writing",
-                  "childrenPages": {
-                    "glossary": {
-                      "ownKey": "glossary",
-                      "ownPages": [{
-                        "reference": {
-                          "path": "wiki/writing",
-                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                          "fileName": "glossary",
-                          "extension": "html",
-                          "usePrettyUrl": true,
-                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/glossary",
-                          "title": "Glossary"
-                        },
-                        "next": {
-                          "path": "wiki/writing",
-                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                          "fileName": "summary",
-                          "extension": "html",
-                          "usePrettyUrl": true,
-                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/summary",
-                          "title": "Summary"
-                        },
-                        "previous": {
-                          "path": "wiki",
-                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                          "fileName": "setup",
-                          "extension": "html",
-                          "usePrettyUrl": true,
-                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup",
-                          "title": "Setup"
-                        },
-                        "data": {},
-                        "type": "wiki"
-                      }]
-                    },
-                    "summary": {
-                      "ownKey": "summary",
-                      "ownPages": [{
-                        "reference": {
-                          "path": "wiki/writing",
-                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                          "fileName": "summary",
-                          "extension": "html",
-                          "usePrettyUrl": true,
-                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/summary",
-                          "title": "Summary"
-                        },
-                        "next": {
-                          "path": "wiki/writing",
-                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                          "fileName": "pages",
-                          "extension": "html",
-                          "usePrettyUrl": true,
-                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/pages",
-                          "title": "Wiki Pages"
-                        },
-                        "previous": {
-                          "path": "wiki/writing",
-                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                          "fileName": "glossary",
-                          "extension": "html",
-                          "usePrettyUrl": true,
-                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/glossary",
-                          "title": "Glossary"
-                        },
-                        "data": {},
-                        "type": "wiki"
-                      }]
-                    },
-                    "pages": {
-                      "ownKey": "pages",
-                      "ownPages": [{
-                        "reference": {
-                          "path": "wiki/writing",
-                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                          "fileName": "pages",
-                          "extension": "html",
-                          "usePrettyUrl": true,
-                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/pages",
-                          "title": "Wiki Pages"
-                        },
-                        "previous": {
-                          "path": "wiki/writing",
-                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                          "fileName": "summary",
-                          "extension": "html",
-                          "usePrettyUrl": true,
-                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/summary",
-                          "title": "Summary"
-                        },
-                        "data": {},
-                        "type": "wiki"
-                      }]
-                    }
-                  }
-                },
-                "about": {
-                  "ownKey": "about",
-                  "ownPages": [{
-                    "reference": {
-                      "path": "wiki",
-                      "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                      "fileName": "about",
-                      "extension": "html",
-                      "usePrettyUrl": true,
-                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/about",
-                      "title": "About"
-                    },
-                    "next": {
-                      "path": "wiki",
-                      "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                      "fileName": "get_started",
-                      "extension": "html",
-                      "usePrettyUrl": true,
-                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/get_started",
-                      "title": "Get Started"
                     },
                     "data": {},
                     "type": "wiki"
@@ -954,59 +762,103 @@
                 },
                 "setup": {
                   "ownKey": "setup",
-                  "ownPages": [{
-                    "reference": {
-                      "path": "wiki",
-                      "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                      "fileName": "setup",
-                      "extension": "html",
-                      "usePrettyUrl": true,
-                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup",
-                      "title": "Setup"
+                  "childrenPages": {
+                    "basic_usage": {
+                      "ownKey": "basic_usage",
+                      "ownPages": [{
+                        "reference": {
+                          "path": "wiki/setup",
+                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                          "fileName": "basic_usage",
+                          "extension": "html",
+                          "usePrettyUrl": true,
+                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/basic_usage",
+                          "title": "Basic Usage"
+                        },
+                        "next": {
+                          "path": "wiki/setup",
+                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                          "fileName": "extending",
+                          "extension": "html",
+                          "usePrettyUrl": true,
+                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/extending",
+                          "title": "Extending Orchid Javadoc"
+                        },
+                        "previous": {
+                          "path": "wiki/setup",
+                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                          "fileName": "setup",
+                          "extension": "html",
+                          "usePrettyUrl": true,
+                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/setup",
+                          "title": "Setup"
+                        },
+                        "data": {},
+                        "type": "wiki"
+                      }]
                     },
-                    "next": {
-                      "path": "wiki/writing",
-                      "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                      "fileName": "glossary",
-                      "extension": "html",
-                      "usePrettyUrl": true,
-                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/writing/glossary",
-                      "title": "Glossary"
+                    "setup": {
+                      "ownKey": "setup",
+                      "ownPages": [{
+                        "reference": {
+                          "path": "wiki/setup",
+                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                          "fileName": "setup",
+                          "extension": "html",
+                          "usePrettyUrl": true,
+                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/setup",
+                          "title": "Setup"
+                        },
+                        "next": {
+                          "path": "wiki/setup",
+                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                          "fileName": "basic_usage",
+                          "extension": "html",
+                          "usePrettyUrl": true,
+                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/basic_usage",
+                          "title": "Basic Usage"
+                        },
+                        "previous": {
+                          "path": "wiki",
+                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                          "fileName": "overview",
+                          "extension": "html",
+                          "usePrettyUrl": true,
+                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/overview",
+                          "title": "Overview"
+                        },
+                        "data": {},
+                        "type": "wiki"
+                      }]
                     },
-                    "previous": {
-                      "path": "wiki",
-                      "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                      "fileName": "get_started",
-                      "extension": "html",
-                      "usePrettyUrl": true,
-                      "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/get_started",
-                      "title": "Get Started"
-                    },
-                    "data": {"pluginVersion": "v0.1.7"},
-                    "type": "wiki"
-                  }]
+                    "extending": {
+                      "ownKey": "extending",
+                      "ownPages": [{
+                        "reference": {
+                          "path": "wiki/setup",
+                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                          "fileName": "extending",
+                          "extension": "html",
+                          "usePrettyUrl": true,
+                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/extending",
+                          "title": "Extending Orchid Javadoc"
+                        },
+                        "previous": {
+                          "path": "wiki/setup",
+                          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
+                          "fileName": "basic_usage",
+                          "extension": "html",
+                          "usePrettyUrl": true,
+                          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/wiki/setup/basic_usage",
+                          "title": "Basic Usage"
+                        },
+                        "data": {},
+                        "type": "wiki"
+                      }]
+                    }
+                  }
                 }
               }
-            },
-            "about": {
-              "ownKey": "about",
-              "ownPages": [{
-                "reference": {
-                  "path": "",
-                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki",
-                  "fileName": "about",
-                  "extension": "html",
-                  "usePrettyUrl": true,
-                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidWiki/about",
-                  "title": "About"
-                },
-                "data": {
-                  "layout": "geopattern2",
-                  "root": true,
-                  "title": "About"
-                },
-                "type": "page"
-              }]
             },
             "archive": {
               "ownKey": "archive",

@@ -162,83 +162,218 @@
         }
       }
     },
-    "all_orchid_projects": {
-      "ownKey": "all_orchid_projects",
-      "ownPages": [{
-        "reference": {
-          "path": "",
-          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
-          "fileName": "all_orchid_projects",
-          "extension": "html",
-          "usePrettyUrl": true,
-          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/all_orchid_projects",
-          "title": "All Orchid Projects"
+    "pages": {
+      "ownKey": "pages",
+      "childrenPages": {
+        "all_orchid_projects": {
+          "ownKey": "all_orchid_projects",
+          "ownPages": [{
+            "reference": {
+              "path": "pages",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+              "fileName": "all_orchid_projects",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/pages/all_orchid_projects",
+              "title": "All Orchid Projects"
+            },
+            "data": {"title": "All Orchid Projects"},
+            "type": "page"
+          }]
         },
-        "data": {
-          "root": true,
-          "title": "All Orchid Projects"
+        "contact": {
+          "ownKey": "contact",
+          "ownPages": [{
+            "reference": {
+              "path": "pages",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+              "fileName": "contact",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/pages/contact",
+              "title": "Contact"
+            },
+            "data": {"title": "Contact"},
+            "type": "page"
+          }]
         },
-        "type": "page"
-      }]
+        "about": {
+          "ownKey": "about",
+          "ownPages": [{
+            "reference": {
+              "path": "pages",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+              "fileName": "about",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/pages/about",
+              "title": "About"
+            },
+            "data": {"title": "About"},
+            "type": "page"
+          }]
+        }
+      }
     },
-    "contact": {
-      "ownKey": "contact",
-      "ownPages": [{
-        "reference": {
-          "path": "",
-          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
-          "fileName": "contact",
-          "extension": "html",
-          "usePrettyUrl": true,
-          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/contact",
-          "title": "Contact"
+    "wiki": {
+      "ownKey": "wiki",
+      "childrenPages": {
+        "summary": {
+          "ownKey": "summary",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+              "fileName": "summary",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/summary",
+              "title": "Summary"
+            },
+            "data": {},
+            "type": "wiki"
+          }]
         },
-        "data": {
-          "root": true,
-          "title": "Contact"
+        "glossary": {
+          "ownKey": "glossary",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+              "fileName": "glossary",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/glossary",
+              "title": "Glossary"
+            },
+            "data": {},
+            "type": "wiki"
+          }]
         },
-        "type": "page"
-      }]
-    },
-    "about": {
-      "ownKey": "about",
-      "ownPages": [{
-        "reference": {
-          "path": "",
-          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
-          "fileName": "about",
-          "extension": "html",
-          "usePrettyUrl": true,
-          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/about",
-          "title": "About"
+        "overview": {
+          "ownKey": "overview",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+              "fileName": "overview",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/overview",
+              "title": "Overview"
+            },
+            "next": {
+              "path": "wiki/setup",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+              "fileName": "setup",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/setup/setup",
+              "title": "Setup"
+            },
+            "data": {},
+            "type": "wiki"
+          }]
         },
-        "data": {
-          "layout": "geopattern2",
-          "root": true,
-          "title": "About"
-        },
-        "type": "page"
-      }]
-    },
-    "aboutAd": {
-      "ownKey": "aboutAd",
-      "ownPages": [{
-        "reference": {
-          "path": "",
-          "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
-          "fileName": "aboutAd",
-          "extension": "html",
-          "usePrettyUrl": true,
-          "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/aboutAd",
-          "title": "About"
-        },
-        "data": {
-          "layout": "geopattern2",
-          "root": true,
-          "title": "About"
-        },
-        "type": "page"
-      }]
+        "setup": {
+          "ownKey": "setup",
+          "childrenPages": {
+            "basic_usage": {
+              "ownKey": "basic_usage",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/setup",
+                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+                  "fileName": "basic_usage",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/setup/basic_usage",
+                  "title": "Basic Usage"
+                },
+                "next": {
+                  "path": "wiki/setup",
+                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+                  "fileName": "extending",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/setup/extending",
+                  "title": "Extending Orchid Javadoc"
+                },
+                "previous": {
+                  "path": "wiki/setup",
+                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+                  "fileName": "setup",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/setup/setup",
+                  "title": "Setup"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "setup": {
+              "ownKey": "setup",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/setup",
+                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+                  "fileName": "setup",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/setup/setup",
+                  "title": "Setup"
+                },
+                "next": {
+                  "path": "wiki/setup",
+                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+                  "fileName": "basic_usage",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/setup/basic_usage",
+                  "title": "Basic Usage"
+                },
+                "previous": {
+                  "path": "wiki",
+                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+                  "fileName": "overview",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/overview",
+                  "title": "Overview"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            },
+            "extending": {
+              "ownKey": "extending",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/setup",
+                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+                  "fileName": "extending",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/setup/extending",
+                  "title": "Extending Orchid Javadoc"
+                },
+                "previous": {
+                  "path": "wiki/setup",
+                  "baseUrl": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog",
+                  "fileName": "basic_usage",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidChangelog/wiki/setup/basic_usage",
+                  "title": "Basic Usage"
+                },
+                "data": {},
+                "type": "wiki"
+              }]
+            }
+          }
+        }
+      }
     },
     "archive": {
       "ownKey": "archive",

@@ -47,10 +47,7 @@
             "link": "https://javaeden.github.io/Orchid/v0.2.0/OrchidCore/pages/about",
             "title": "About"
           },
-          "data": {
-            "layout": "geopattern2",
-            "title": "About"
-          },
+          "data": {"title": "About"},
           "type": "page"
         }]
       }
