@@ -2871,3 +2871,7 @@ button:disabled,
 
 code {
   display: inline-block; }
+
+#sidebar .inner {
+  height: 100%;
+  overflow-y: scroll; }
