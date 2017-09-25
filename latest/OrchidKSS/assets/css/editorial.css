@@ -2875,3 +2875,9 @@ code {
 #sidebar .inner {
   height: 100%;
   overflow-y: scroll; }
+
+p img {
+  width: 100%; }
+
+p a img {
+  width: initial; }
