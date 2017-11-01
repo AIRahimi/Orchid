@@ -42,21 +42,6 @@
                     "description": ""
                   }]
                 },
-                "CodeFilter": {
-                  "ownKey": "CodeFilter",
-                  "ownPages": [{
-                    "reference": {
-                      "path": "com/eden/orchid/languages/impl",
-                      "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidLanguagePack",
-                      "fileName": "CodeFilter",
-                      "extension": "html",
-                      "usePrettyUrl": true,
-                      "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidLanguagePack/com/eden/orchid/languages/impl/CodeFilter"
-                    },
-                    "data": {},
-                    "description": ""
-                  }]
-                },
                 "AbsApiKeyFlag": {
                   "ownKey": "AbsApiKeyFlag",
                   "ownPages": [{
@@ -67,6 +52,21 @@
                       "extension": "html",
                       "usePrettyUrl": true,
                       "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidLanguagePack/com/eden/orchid/languages/impl/AbsApiKeyFlag"
+                    },
+                    "data": {},
+                    "description": ""
+                  }]
+                },
+                "CodeFilter": {
+                  "ownKey": "CodeFilter",
+                  "ownPages": [{
+                    "reference": {
+                      "path": "com/eden/orchid/languages/impl",
+                      "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidLanguagePack",
+                      "fileName": "CodeFilter",
+                      "extension": "html",
+                      "usePrettyUrl": true,
+                      "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidLanguagePack/com/eden/orchid/languages/impl/CodeFilter"
                     },
                     "data": {},
                     "description": ""

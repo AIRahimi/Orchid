@@ -1,0 +1,42 @@
+{
+  "ownKey": "javadoc",
+  "childrenPages": {"com": {
+    "ownKey": "com",
+    "childrenPages": {"eden": {
+      "ownKey": "eden",
+      "childrenPages": {"orchid": {
+        "ownKey": "orchid",
+        "childrenPages": {"presentations": {
+          "ownKey": "presentations",
+          "childrenPages": {"PluginDocsModule": {
+            "ownKey": "PluginDocsModule",
+            "ownPages": [{
+              "reference": {
+                "path": "com/eden/orchid/presentations",
+                "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPluginDocs",
+                "fileName": "PluginDocsModule",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPluginDocs/com/eden/orchid/presentations/PluginDocsModule"
+              },
+              "data": {},
+              "description": ""
+            }]
+          }},
+          "ownPages": [{
+            "reference": {
+              "path": "com/eden/orchid",
+              "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPluginDocs",
+              "fileName": "presentations",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPluginDocs/com/eden/orchid/presentations"
+            },
+            "data": {},
+            "description": ""
+          }]
+        }}
+      }}
+    }}
+  }}
+}

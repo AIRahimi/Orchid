@@ -425,21 +425,6 @@
                                 "description": ""
                               }]
                             },
-                            "MonthNamePathType": {
-                              "ownKey": "MonthNamePathType",
-                              "ownPages": [{
-                                "reference": {
-                                  "path": "com/eden/orchid/posts/permalink/pathTypes",
-                                  "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPosts",
-                                  "fileName": "MonthNamePathType",
-                                  "extension": "html",
-                                  "usePrettyUrl": true,
-                                  "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPosts/com/eden/orchid/posts/permalink/pathTypes/MonthNamePathType"
-                                },
-                                "data": {},
-                                "description": ""
-                              }]
-                            },
                             "DataPropertyPathType": {
                               "ownKey": "DataPropertyPathType",
                               "ownPages": [{
@@ -450,6 +435,21 @@
                                   "extension": "html",
                                   "usePrettyUrl": true,
                                   "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPosts/com/eden/orchid/posts/permalink/pathTypes/DataPropertyPathType"
+                                },
+                                "data": {},
+                                "description": ""
+                              }]
+                            },
+                            "MonthNamePathType": {
+                              "ownKey": "MonthNamePathType",
+                              "ownPages": [{
+                                "reference": {
+                                  "path": "com/eden/orchid/posts/permalink/pathTypes",
+                                  "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPosts",
+                                  "fileName": "MonthNamePathType",
+                                  "extension": "html",
+                                  "usePrettyUrl": true,
+                                  "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPosts/com/eden/orchid/posts/permalink/pathTypes/MonthNamePathType"
                                 },
                                 "data": {},
                                 "description": ""
@@ -1239,21 +1239,6 @@
                                   "description": ""
                                 }]
                               },
-                              "MonthNamePathType": {
-                                "ownKey": "MonthNamePathType",
-                                "ownPages": [{
-                                  "reference": {
-                                    "path": "com/eden/orchid/posts/permalink/pathTypes",
-                                    "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPosts",
-                                    "fileName": "MonthNamePathType",
-                                    "extension": "html",
-                                    "usePrettyUrl": true,
-                                    "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPosts/com/eden/orchid/posts/permalink/pathTypes/MonthNamePathType"
-                                  },
-                                  "data": {},
-                                  "description": ""
-                                }]
-                              },
                               "DataPropertyPathType": {
                                 "ownKey": "DataPropertyPathType",
                                 "ownPages": [{
@@ -1264,6 +1249,21 @@
                                     "extension": "html",
                                     "usePrettyUrl": true,
                                     "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPosts/com/eden/orchid/posts/permalink/pathTypes/DataPropertyPathType"
+                                  },
+                                  "data": {},
+                                  "description": ""
+                                }]
+                              },
+                              "MonthNamePathType": {
+                                "ownKey": "MonthNamePathType",
+                                "ownPages": [{
+                                  "reference": {
+                                    "path": "com/eden/orchid/posts/permalink/pathTypes",
+                                    "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPosts",
+                                    "fileName": "MonthNamePathType",
+                                    "extension": "html",
+                                    "usePrettyUrl": true,
+                                    "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPosts/com/eden/orchid/posts/permalink/pathTypes/MonthNamePathType"
                                   },
                                   "data": {},
                                   "description": ""

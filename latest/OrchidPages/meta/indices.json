@@ -53,21 +53,6 @@
                         "description": ""
                       }]
                     },
-                    "PagesGenerator": {
-                      "ownKey": "PagesGenerator",
-                      "ownPages": [{
-                        "reference": {
-                          "path": "com/eden/orchid/pages",
-                          "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPages",
-                          "fileName": "PagesGenerator",
-                          "extension": "html",
-                          "usePrettyUrl": true,
-                          "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPages/com/eden/orchid/pages/PagesGenerator"
-                        },
-                        "data": {},
-                        "description": ""
-                      }]
-                    },
                     "menu": {
                       "ownKey": "menu",
                       "childrenPages": {
@@ -110,6 +95,21 @@
                           "extension": "html",
                           "usePrettyUrl": true,
                           "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPages/com/eden/orchid/pages/menu"
+                        },
+                        "data": {},
+                        "description": ""
+                      }]
+                    },
+                    "PagesGenerator": {
+                      "ownKey": "PagesGenerator",
+                      "ownPages": [{
+                        "reference": {
+                          "path": "com/eden/orchid/pages",
+                          "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPages",
+                          "fileName": "PagesGenerator",
+                          "extension": "html",
+                          "usePrettyUrl": true,
+                          "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPages/com/eden/orchid/pages/PagesGenerator"
                         },
                         "data": {},
                         "description": ""
@@ -454,21 +454,6 @@
                           "description": ""
                         }]
                       },
-                      "PagesGenerator": {
-                        "ownKey": "PagesGenerator",
-                        "ownPages": [{
-                          "reference": {
-                            "path": "com/eden/orchid/pages",
-                            "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPages",
-                            "fileName": "PagesGenerator",
-                            "extension": "html",
-                            "usePrettyUrl": true,
-                            "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPages/com/eden/orchid/pages/PagesGenerator"
-                          },
-                          "data": {},
-                          "description": ""
-                        }]
-                      },
                       "menu": {
                         "ownKey": "menu",
                         "childrenPages": {
@@ -511,6 +496,21 @@
                             "extension": "html",
                             "usePrettyUrl": true,
                             "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPages/com/eden/orchid/pages/menu"
+                          },
+                          "data": {},
+                          "description": ""
+                        }]
+                      },
+                      "PagesGenerator": {
+                        "ownKey": "PagesGenerator",
+                        "ownPages": [{
+                          "reference": {
+                            "path": "com/eden/orchid/pages",
+                            "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPages",
+                            "fileName": "PagesGenerator",
+                            "extension": "html",
+                            "usePrettyUrl": true,
+                            "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidPages/com/eden/orchid/pages/PagesGenerator"
                           },
                           "data": {},
                           "description": ""

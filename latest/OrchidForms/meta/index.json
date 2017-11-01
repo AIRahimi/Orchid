@@ -70,6 +70,21 @@
                   "description": ""
                 }]
               },
+              "FormsModule": {
+                "ownKey": "FormsModule",
+                "ownPages": [{
+                  "reference": {
+                    "path": "com/eden/orchid/presentations",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidForms",
+                    "fileName": "FormsModule",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidForms/com/eden/orchid/presentations/FormsModule"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
               "fields": {
                 "ownKey": "fields",
                 "childrenPages": {"TextField": {
@@ -110,21 +125,6 @@
                     "extension": "html",
                     "usePrettyUrl": true,
                     "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidForms/com/eden/orchid/presentations/FormsResourceSource"
-                  },
-                  "data": {},
-                  "description": ""
-                }]
-              },
-              "FormsModule": {
-                "ownKey": "FormsModule",
-                "ownPages": [{
-                  "reference": {
-                    "path": "com/eden/orchid/presentations",
-                    "baseUrl": "https://javaeden.github.io/Orchid/v0.3.12/OrchidForms",
-                    "fileName": "FormsModule",
-                    "extension": "html",
-                    "usePrettyUrl": true,
-                    "link": "https://javaeden.github.io/Orchid/v0.3.12/OrchidForms/com/eden/orchid/presentations/FormsModule"
                   },
                   "data": {},
                   "description": ""
