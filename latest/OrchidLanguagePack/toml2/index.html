@@ -1,15 +1,11 @@
-<!DOCTYPE HTML>
-<!--
-    Editorial by HTML5 UP
-    html5up.net | @ajlkn
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
-<meta name="generator" content="Orchid v0.4.1" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="robots" content="index, follow">
 
 
     <title>TOML Example</title>
@@ -22,16 +18,19 @@
 
 
 
-    <!-- start:inject styles -->
 
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
 
-    
-        <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/assets/css/editorial_main.css"/>
-    
-        <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/assets/css/editorial_orchidCustomizations.css"/>
-    
+<link href="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css" rel="stylesheet" />
 
-<!-- end:inject styles -->
+<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.3.0/bootbox.min.js"></script>
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -42,47 +41,96 @@
     ga('send', 'pageview');
 
 </script>
+    <!-- start:inject styles -->
+
+
+    
+        <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack/assets/css/bsdoc.css"/>
+    
+
+<!-- end:inject styles -->
 </head>
-<body class="is-loading">
+<body>
 
-<!-- Wrapper -->
-<div id="wrapper">
+<a class="github-fork-ribbon left-top"
+   href="https://github.com//"
+   title="Fork me on GitHub">Fork me on GitHub</a>
 
-    <!-- Main -->
-    <div id="main">
-        <div class="inner">
-
-            <!-- Header -->
-            <header id="header">
-    <a href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack" class="logo"></a>
-    <ul class="icons">
-        
-            
-                <li><a href="https://github.com/" class="icon fa-github"><span class="label">Github</span></a></li>
-            
-            
-                <li><a href="" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-            
-            
-                <li><a href="" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-            
-            
-                <li><a href="" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-            
-            
-                <li><a href="" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
-            
-        
-    </ul>
+<header class="navbar navbar-fixed-top bs-docs-nav">
+    <div class="container">
+        <div class="navbar-header" role="banner">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack"></a>
+        </div>
+        <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+            <ul class="nav navbar-nav navbar-right">
+                
+                    
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Pages<span class="caret"></span></a>
+                            <ul class="dropdown-menu scrollable-menu">
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack/toml1">TOML Example</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack/all_orchid_projects">All Orchid Projects</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack/contact">Contact</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack/about">About</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack/toml2">TOML Example</a></li>
+                                
+                            </ul>
+                        </li>
+                    
+                
+                    
+                        <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack/wiki/overview">Overview</a></li>
+                    
+                
+                    
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">setup<span class="caret"></span></a>
+                            <ul class="dropdown-menu scrollable-menu">
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack/wiki/setup/setup">Setup</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack/wiki/setup/basic_usage">Basic Usage</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack/wiki/setup/extending">Extending Orchid Javadoc</a></li>
+                                
+                            </ul>
+                        </li>
+                    
+                
+            </ul>
+        </nav>
+    </div>
 </header>
 
+<div id="top"></div>
+
+
+    <div class="bs-docs-masthead" id="jumbotron">
+        <div class="container">
+            <h1 class="home-title">TOML Example</h1>
+        </div>
+    </div>
+
+
+<div class="container bs-docs-container">
+    <div class="row">
+        <div class="col-md-9" role="main">
+            
+
             
             
-            
-                <section id="pageContent">
-                    <header class="major"><h2>TOML Example</h2></header>
-                    <article>
-                        
+                
     <!-- start:inject components -->
     
         
@@ -103,160 +151,87 @@
     <!-- end:inject components -->
 
 
-                    </article>
-                </section>
             
         </div>
-        <hr>
 
-        <!-- Page Sidebar -->
-        <div class="inner">
-    <footer id="footer text-center">
-        <div class="clearfix">
-            
-            
+        <!-- Page navigation
+        =========================================== -->
+        <div class="col-md-3" role="complementary">
+            <div class="bs-docs-sidebar hidden-print">
+    <ul class="nav bs-docs-sidenav">
+        
+    </ul>
+
+    
+    <!-- start:inject components -->
+    
+    <!-- end:inject components -->
+
+
+
+    <a class="back-to-top" href="#top">
+        <i class="glyphicon glyphicon-chevron-up"></i> Back to top
+    </a>
+</div>
+
         </div>
-    </footer>
-</div>
-
-    </div>
-
-    <!-- Sidebar -->
-    <div id="sidebar">
-    <div class="inner">
-
-        <!-- Search -->
-        <section id="search" class="alt">
-            <form method="post" action="#">
-                <input type="text" name="query" id="query" placeholder="Search"/>
-            </form>
-        </section>
-
-        <!-- Menu -->
-        <nav id="siteNav" class="menu">
-            <header class="major">
-                <h2>TOML Example</h2>
-            </header>
-            <ul class="top-level">
-                
-                    
-    <li>
-        <span class="opener">Pages</span>
-        <ul>
-            
-                
-    
-        <li><a href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/toml1">TOML Example</a></li>
-    
-
-            
-                
-    
-        <li><a href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/all_orchid_projects">All Orchid Projects</a></li>
-    
-
-            
-                
-    
-        <li><a href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/contact">Contact</a></li>
-    
-
-            
-                
-    
-        <li><a href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/about">About</a></li>
-    
-
-            
-                
-    
-        <li><a href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/toml2">TOML Example</a></li>
-    
-
-            
-        </ul>
-    </li>
-
-                
-                    
-    <li>
-        <span class="opener">Wiki</span>
-        <ul>
-            
-                
-    
-        <li><a href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/wiki/overview">Overview</a></li>
-    
-
-            
-                
-    <li>
-        <span class="opener">Setup</span>
-        <ul>
-            
-                
-    
-        <li><a href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/wiki/setup/setup">Setup</a></li>
-    
-
-            
-                
-    
-        <li><a href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/wiki/setup/basic_usage">Basic Usage</a></li>
-    
-
-            
-                
-    
-        <li><a href="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/wiki/setup/extending">Extending Orchid Javadoc</a></li>
-    
-
-            
-        </ul>
-    </li>
-
-            
-        </ul>
-    </li>
-
-                
-            </ul>
-
-            
-
-            
-        </nav>
-
-        <!-- Section -->
-        <section>
-            <p class="text-center">
-                Currently v0.4.1. Created with <a href="https://github.com/JavaEden/Orchid">Orchid </a> and <b>Orchid Editorial Theme</b>.
-            </p>
-        </section>
-
-        <!-- Footer -->
-        <footer id="footer">
-            <p class="copyright text-center">&copy; JavaEden. All rights reserved.<br>Design by <a href="https://html5up.net">HTML5 UP</a></p>
-        </footer>
-
     </div>
 </div>
+
+<br><br><br>
+<hr>
+
+<div class="container bs-docs-container">
+    <footer class="bs-docs-footer" role="contentinfo">
+    <div class="row">
+        <div class="col-xs-12">
+            <nav aria-label="navigateClasses">
+                <ul class="pager">
+                    
+
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <br>
+
+    <p>
+        Documentation template based on the
+        <a href="https://github.com/mistic100/jekyll-bootstrap-doc">Jekyll Bootstrap Doc</a>
+        Jekyll theme by the <a href="http://getbootstrap.com">Bootstrap team</a>. Site created with
+        <a href="https://github.com/JavaEden/Orchid">Orchid</a>
+    </p>
+
+    <ul class="bs-docs-footer-links muted">
+        <li>Currently v0.4.2</li>
+    </ul>
+</footer>
 </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.1.2/trianglify.min.js"></script>
+
 
 <!-- start:inject scripts -->
 
 
     
-        <script src="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    
-        <script src="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/ajax/libs/skel/3.0.1/skel.min.js"></script>
-    
-        <script src="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/assets/js/editorial_util.js"></script>
-    
-        <script src="https://javaeden.github.io/Orchid/v0.4.1/OrchidLanguagePack/assets/js/editorial_main.js"></script>
+        <script src="https://javaeden.github.io/Orchid/v0.4.2/OrchidLanguagePack/assets/js/bsdoc.js"></script>
     
 
 <!-- end:inject scripts -->
+
+<script>
+    $(function () {
+        window.colors = ['#4C376C', '#000000'];
+        
+    trianglify();
+
+        buildNav();
+    });
+</script>
 
 </body>
 </html>

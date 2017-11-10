@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="robots" content="index, follow">
+
+
+    <title>Generators</title>
+
+
+
+    <meta name="description" content="">
+
+
+
+    <link rel="prev" href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/building-blocks/themes">
+
+
+
+    <link rel="next" href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/building-blocks/menus">
+
+
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+
+<link href="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css" rel="stylesheet" />
+
+<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.3.0/bootbox.min.js"></script>
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-54516992-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+    <!-- start:inject styles -->
+
+
+    
+        <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/assets/css/bsdoc.css"/>
+    
+
+<!-- end:inject styles -->
+</head>
+<body>
+
+<a class="github-fork-ribbon left-top"
+   href="https://github.com//"
+   title="Fork me on GitHub">Fork me on GitHub</a>
+
+<header class="navbar navbar-fixed-top bs-docs-nav">
+    <div class="container">
+        <div class="navbar-header" role="banner">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore">OrchidCore</a>
+        </div>
+        <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+            <ul class="nav navbar-nav navbar-right">
+                
+                    
+                        <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore">Home</a></li>
+                    
+                
+                    
+                        <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/summary">User Manual</a></li>
+                    
+                
+                    
+                        <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/developersGuide/summary">Developers Guide</a></li>
+                    
+                
+                    
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Plugins<span class="caret"></span></a>
+                            <ul class="dropdown-menu scrollable-menu">
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidPages">OrchidPages</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidPosts">OrchidPosts</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidWiki">OrchidWiki</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidJavadoc">OrchidJavadoc</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidKSS">OrchidKSS</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidChangelog">OrchidChangelog</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidPresentations">OrchidPresentations</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidLanguagePack">OrchidLanguagePack</a></li>
+                                
+                            </ul>
+                        </li>
+                    
+                
+                    
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Themes<span class="caret"></span></a>
+                            <ul class="dropdown-menu scrollable-menu">
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidBsDoc">OrchidBsDoc</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidEditorial">OrchidEditorial</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidFutureImperfect">OrchidFutureImperfect</a></li>
+                                
+                                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/v0.4.2/OrchidMaterialize">OrchidMaterialize</a></li>
+                                
+                            </ul>
+                        </li>
+                    
+                
+                    
+                        <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/archive/1">News</a></li>
+                    
+                
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<div id="top"></div>
+
+
+    <div class="bs-docs-masthead" id="jumbotron">
+        <div class="container">
+            <h1 class="home-title">Generators</h1>
+        </div>
+    </div>
+
+
+<div class="container bs-docs-container">
+    <div class="row">
+        <div class="col-md-9" role="main">
+            
+
+            
+            
+                
+    <!-- start:inject components -->
+    
+        
+            
+                
+                    
+<p>Generators are the work-horses of Orchid. They have two jobs: to decide what Pages should exist for a particular section
+of the site, and how we need to process content to create that page. Generators work in two phases: the Indexing phase,
+and the Generation phase:</p>
+<h2 id="indexing-phase">Indexing Phase</h2>
+<p>During the Indexing phase, Orchid asks each Generator, in turn, for a list of Pages it intends to produce. The methods
+that each generator uses to determine these pages is irrelevant; all Orchid cares about is the end result, which is that
+there are some Pages that need to be rendered into the output site.</p>
+<p>It is common for Generators to create Pages that correspond directly to a source file, such as with Blog posts, Static
+Pages, or the Wiki you're currently reading. Another common occurrence is for some external program to parse a content
+model from source code, which is then integrated into Orchid. Such is the case with the Orchid Javadoc and KSS plugins.</p>
+<p>Generators may also index content that is not intended to be a page in the output, but as the content for a component or
+menu. Such content is typically smaller in scope but used on many pages. An example would be the Orchid Forms and
+Presentations plugins. Each Form has a non-trivial configuration, and a single form may be used across many pages. By
+indexing the form definition in a Generator, we can be sure that all forms of a given type are always kept in sync
+throughout the site, and are immune to changes not propagating.</p>
+<h2 id="generating-phase">Generating Phase</h2>
+<p>After all Generators have finished indexing their content, Orchid does some processing on these output Pages before
+passing them back to their source Generator to be rendered. Pages can be rendered in several ways: into a Layout
+template resource, into a String layout, as raw content, and as a binary stream.</p>
+<p><strong>Rendering as Layout</strong></p>
+<p>When rendering a page as a template, Orchid asks the Page what layout it should use. Orchid then attempts to locate that
+layout in the theme or in the local resources directory, which takes precedence over the theme-defined layouts and allow
+for themes to be customized without needing access to the theme files itself.</p>
+<p><strong>Rendering as String</strong></p>
+<p>Rendering a stream is similar to rendering as a layout, except that the template definition comes as a static String
+rather than an override-able resource. This is typically more useful in testing, but may be used in specific situations
+if the Generator calls for a very specific layout and doesn't want to allow it to be changed.</p>
+<p><strong>Rendering Raw</strong></p>
+<p>Many types of pages should not be rendered into a layout but should still have its content processed, such as compiling
+SCSS into CSS. The content of these Pages is loaded and processed as a String.</p>
+<p><strong>Render Binary</strong></p>
+<p>Other pages will become corrupted if the source content is loaded as a String, and must be treated as a stream of bytes,
+such as images, videos, or PDF files. The content of these pages are not processed at all, and are simply copied
+directly from the source to the destination.</p>
+<p>Pages may be set as a draft, which will skip the rendering of these pages. This is done behind the scenes and is not
+a concern of the Generator. The Generator should simply render all pages passed to it as if it should be rendered.</p>
+<p>Generators can also set a new theme to be used just for its own pages, which completely changes the layouts, CSS/JS,
+menus, etc. that are loaded for these pages.</p>
+
+                
+            
+        
+    
+    <!-- end:inject components -->
+
+
+            
+        </div>
+
+        <!-- Page navigation
+        =========================================== -->
+        <div class="col-md-3" role="complementary">
+            <div class="bs-docs-sidebar hidden-print">
+    <ul class="nav bs-docs-sidenav">
+        
+            
+                
+                    <li><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/quickstart">Quick-Start</a></li>
+                
+            
+        
+            
+                <li class="has-children active">
+                    <a>Building Blocks</a>
+                    <ul class="nav">
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/building-blocks/foundations">Foundations</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/building-blocks/pages">Pages</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/building-blocks/themes">Themes</a></li>
+                            
+                        
+                            
+                                <li class="active"><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/building-blocks/generators">Generators</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/building-blocks/menus">Menus</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/building-blocks/components">Components</a></li>
+                            
+                        
+                    </ul>
+                </li>
+            
+        
+            
+                <li class="has-children ">
+                    <a>Content</a>
+                    <ul class="nav">
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/content/front-matter">Front Matter</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/content/writing-pages">Writing Pages</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/content/compiling-pages">Compiling Pages</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/content/drafts">Drafts</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/content/static-pages">Static Pages</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/content/blogs">Blog Posts</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/content/wikis">Wikis</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/content/assets">Assets</a></li>
+                            
+                        
+                    </ul>
+                </li>
+            
+        
+            
+                <li class="has-children ">
+                    <a>Configuration</a>
+                    <ul class="nav">
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/configuration/directory-structure">Directory Structure</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/configuration/site-config">Site Configuration</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/configuration/page-config">Page Configuration</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/configuration/advanced-customization">Advanced Customization</a></li>
+                            
+                        
+                    </ul>
+                </li>
+            
+        
+            
+                <li class="has-children ">
+                    <a>Personalization</a>
+                    <ul class="nav">
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/personalization/twig">Templating with Twig</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/personalization/themes">Themes</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/personalization/theme-overrides">Overriding Theme Templates</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/personalization/layouts">Layouts</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/personalization/page-templates">Page Templates</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/personalization/component-templates">Component Templates</a></li>
+                            
+                        
+                            
+                                <li class=""><a
+                                            href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/personalization/menus">Menus</a></li>
+                            
+                        
+                    </ul>
+                </li>
+            
+        
+    </ul>
+
+    
+    <!-- start:inject components -->
+    
+    <!-- end:inject components -->
+
+
+
+    <a class="back-to-top" href="#top">
+        <i class="glyphicon glyphicon-chevron-up"></i> Back to top
+    </a>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<br><br><br>
+<hr>
+
+<div class="container bs-docs-container">
+    <footer class="bs-docs-footer" role="contentinfo">
+    <div class="row">
+        <div class="col-xs-12">
+            <nav aria-label="navigateClasses">
+                <ul class="pager">
+                    
+                        <li class="previous"><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/building-blocks/themes"><span
+                                        aria-hidden="true">&larr;</span> Themes</a></li>
+                    
+
+                    
+                        <li class="next"><a href="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/wiki/userManual/building-blocks/menus">Menus <span
+                                        aria-hidden="true">&rarr;</span></a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <br>
+
+    <p>
+        Documentation template based on the
+        <a href="https://github.com/mistic100/jekyll-bootstrap-doc">Jekyll Bootstrap Doc</a>
+        Jekyll theme by the <a href="http://getbootstrap.com">Bootstrap team</a>. Site created with
+        <a href="https://github.com/JavaEden/Orchid">Orchid</a>
+    </p>
+
+    <ul class="bs-docs-footer-links muted">
+        <li>Currently v0.4.2</li>
+    </ul>
+</footer>
+</div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.1.2/trianglify.min.js"></script>
+
+
+<!-- start:inject scripts -->
+
+
+    
+        <script src="https://javaeden.github.io/Orchid/v0.4.2/OrchidCore/assets/js/bsdoc.js"></script>
+    
+
+<!-- end:inject scripts -->
+
+<script>
+    $(function () {
+        window.colors = ['#ffa033', '#000000'];
+        
+    trianglify();
+
+        buildNav();
+    });
+</script>
+
+</body>
+</html>
