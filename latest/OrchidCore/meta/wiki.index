@@ -1,0 +1,1365 @@
+{
+  "ownKey": "wiki",
+  "childrenPages": {"wiki": {
+    "ownKey": "wiki",
+    "childrenPages": {
+      "userManual": {
+        "ownKey": "userManual",
+        "childrenPages": {
+          "summary": {
+            "ownKey": "summary",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/userManual",
+                "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                "fileName": "summary",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/summary"
+              },
+              "data": {},
+              "description": ""
+            }]
+          },
+          "personalization": {
+            "ownKey": "personalization",
+            "childrenPages": {
+              "themes": {
+                "ownKey": "themes",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/themes"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "theme-overrides",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/theme-overrides"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "pebble",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/pebble"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "component-templates": {
+                "ownKey": "component-templates",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "component-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/component-templates"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/menus"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "page-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/page-templates"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "pebble": {
+                "ownKey": "pebble",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "pebble",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/pebble"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/themes"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "advanced-customization",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/advanced-customization"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "page-templates": {
+                "ownKey": "page-templates",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "page-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/page-templates"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "component-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/component-templates"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "layouts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/layouts"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "theme-overrides": {
+                "ownKey": "theme-overrides",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "theme-overrides",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/theme-overrides"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "layouts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/layouts"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/themes"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "menus": {
+                "ownKey": "menus",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/menus"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "component-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/component-templates"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "layouts": {
+                "ownKey": "layouts",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "layouts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/layouts"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "page-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/page-templates"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "theme-overrides",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/theme-overrides"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              }
+            }
+          },
+          "quickstart": {
+            "ownKey": "quickstart",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/userManual",
+                "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                "fileName": "quickstart",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/quickstart"
+              },
+              "next": {
+                "path": "wiki/userManual/building-blocks",
+                "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                "fileName": "pages",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/pages"
+              },
+              "previous": {
+                "path": "wiki/userManual",
+                "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                "fileName": "intro",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/intro"
+              },
+              "data": {},
+              "description": ""
+            }]
+          },
+          "building-blocks": {
+            "ownKey": "building-blocks",
+            "childrenPages": {
+              "themes": {
+                "ownKey": "themes",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/themes"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/generators"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/pages"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "components": {
+                "ownKey": "components",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/components"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "front-matter",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/front-matter"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/menus"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "pages": {
+                "ownKey": "pages",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/pages"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/themes"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "quickstart",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/quickstart"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "generators": {
+                "ownKey": "generators",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/generators"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/menus"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/themes"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "menus": {
+                "ownKey": "menus",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/menus"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/components"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/generators"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              }
+            }
+          },
+          "configuration": {
+            "ownKey": "configuration",
+            "childrenPages": {
+              "advanced-customization": {
+                "ownKey": "advanced-customization",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "advanced-customization",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/advanced-customization"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "pebble",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/personalization/pebble"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "page-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/page-config"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "site-config": {
+                "ownKey": "site-config",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "site-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/site-config"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "page-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/page-config"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "directory-structure",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/directory-structure"
+                  },
+                  "data": {"components": [
+                    {"type": "pageContent"},
+                    {
+                      "languages": [
+                        "yaml",
+                        "java",
+                        "groovy",
+                        "markdown"
+                      ],
+                      "theme": "twilight",
+                      "type": "prism"
+                    }
+                  ]},
+                  "description": ""
+                }]
+              },
+              "page-config": {
+                "ownKey": "page-config",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "page-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/page-config"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "advanced-customization",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/advanced-customization"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "site-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/site-config"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "directory-structure": {
+                "ownKey": "directory-structure",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "directory-structure",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/directory-structure"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "site-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/site-config"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/assets"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              }
+            }
+          },
+          "intro": {
+            "ownKey": "intro",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/userManual",
+                "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                "fileName": "intro",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/intro"
+              },
+              "next": {
+                "path": "wiki/userManual",
+                "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                "fileName": "quickstart",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/quickstart"
+              },
+              "data": {},
+              "description": ""
+            }]
+          },
+          "content": {
+            "ownKey": "content",
+            "childrenPages": {
+              "compiling-pages": {
+                "ownKey": "compiling-pages",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "compiling-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/compiling-pages"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "drafts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/drafts"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "writing-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/writing-pages"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "assets": {
+                "ownKey": "assets",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/assets"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "directory-structure",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/configuration/directory-structure"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "wikis",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/wikis"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "blogs": {
+                "ownKey": "blogs",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "blogs",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/blogs"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "wikis",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/wikis"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "static-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/static-pages"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "front-matter": {
+                "ownKey": "front-matter",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "front-matter",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/front-matter"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "writing-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/writing-pages"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/building-blocks/components"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "drafts": {
+                "ownKey": "drafts",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "drafts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/drafts"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "static-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/static-pages"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "compiling-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/compiling-pages"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "writing-pages": {
+                "ownKey": "writing-pages",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "writing-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/writing-pages"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "compiling-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/compiling-pages"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "front-matter",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/front-matter"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "wikis": {
+                "ownKey": "wikis",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "wikis",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/wikis"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/assets"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "blogs",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/blogs"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "static-pages": {
+                "ownKey": "static-pages",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "static-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/static-pages"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "blogs",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/blogs"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "drafts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/userManual/content/drafts"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              }
+            }
+          }
+        }
+      },
+      "developersGuide": {
+        "ownKey": "developersGuide",
+        "childrenPages": {
+          "summary": {
+            "ownKey": "summary",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/developersGuide",
+                "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                "fileName": "summary",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/summary"
+              },
+              "data": {},
+              "description": ""
+            }]
+          },
+          "themes": {
+            "ownKey": "themes",
+            "childrenPages": {
+              "components": {
+                "ownKey": "components",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/components"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "overview",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/options/overview"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/menus"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "assets": {
+                "ownKey": "assets",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/assets"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "options",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/options"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/templates"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "templates": {
+                "ownKey": "templates",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/templates"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/assets"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "tasks",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/tasks"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "options": {
+                "ownKey": "options",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "options",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/options"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/menus"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/assets"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "menus": {
+                "ownKey": "menus",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/menus"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/components"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "options",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/options"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              }
+            }
+          },
+          "getting-started": {
+            "ownKey": "getting-started",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/developersGuide",
+                "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                "fileName": "getting-started",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/getting-started"
+              },
+              "next": {
+                "path": "wiki/developersGuide/plugins",
+                "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                "fileName": "overview",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/overview"
+              },
+              "data": {},
+              "description": ""
+            }]
+          },
+          "plugins": {
+            "ownKey": "plugins",
+            "childrenPages": {
+              "overview": {
+                "ownKey": "overview",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "overview",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/overview"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/generators"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "getting-started",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/getting-started"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "themes": {
+                "ownKey": "themes",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/themes"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/components"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "compilers",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/compilers"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "components": {
+                "ownKey": "components",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/components"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "tasks",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/tasks"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/themes"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "generators": {
+                "ownKey": "generators",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/generators"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "compilers",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/compilers"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "overview",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/overview"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "compilers": {
+                "ownKey": "compilers",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "compilers",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/compilers"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/themes"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/generators"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "tasks": {
+                "ownKey": "tasks",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "tasks",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/tasks"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/templates"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/plugins/components"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              }
+            }
+          },
+          "options": {
+            "ownKey": "options",
+            "childrenPages": {
+              "overview": {
+                "ownKey": "overview",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "overview",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/options/overview"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "extracting",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/options/extracting"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/themes/components"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "string-formatting": {
+                "ownKey": "string-formatting",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "string-formatting",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/options/string-formatting"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "type-coercion",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/options/type-coercion"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "extracting": {
+                "ownKey": "extracting",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "extracting",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/options/extracting"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "type-coercion",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/options/type-coercion"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "overview",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/options/overview"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              },
+              "type-coercion": {
+                "ownKey": "type-coercion",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "type-coercion",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/options/type-coercion"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "string-formatting",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/options/string-formatting"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore",
+                    "fileName": "extracting",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/v0.5.0/OrchidCore/wiki/developersGuide/options/extracting"
+                  },
+                  "data": {},
+                  "description": ""
+                }]
+              }
+            }
+          }
+        }
+      }
+    }
+  }}
+}
