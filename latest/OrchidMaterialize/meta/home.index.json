@@ -1,0 +1,17 @@
+{
+  "ownKey": "home",
+  "ownPages": [{
+    "reference": {
+      "path": "",
+      "baseUrl": "https://javaeden.github.io/Orchid/0.7.6/OrchidMaterialize",
+      "fileName": "index",
+      "extension": "html",
+      "usePrettyUrl": false,
+      "link": "https://javaeden.github.io/Orchid/0.7.6/OrchidMaterialize/index.html",
+      "title": "Home"
+    },
+    "description": "",
+    "title": "index",
+    "content": ""
+  }]
+}

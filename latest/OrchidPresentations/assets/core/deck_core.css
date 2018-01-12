@@ -1,0 +1,47 @@
+.component.component-presentation html, .component.component-presentation body {
+  height: 100%;
+  padding: 0;
+  margin: 0; }
+
+.component.component-presentation .deck-container {
+  position: relative;
+  min-height: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  overflow-y: auto; }
+  .js .component.component-presentation .deck-container {
+    visibility: hidden; }
+  .ready .component.component-presentation .deck-container {
+    visibility: visible; }
+  .touch .component.component-presentation .deck-container {
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none; }
+
+.component.component-presentation .deck-loading {
+  display: none; }
+
+.component.component-presentation .slide {
+  width: auto;
+  min-height: 100%;
+  position: relative; }
+
+.component.component-presentation .deck-before, .component.component-presentation .deck-previous, .component.component-presentation .deck-next, .component.component-presentation .deck-after {
+  position: absolute;
+  left: -999em;
+  top: -999em; }
+
+.component.component-presentation .deck-current {
+  z-index: 2; }
+
+.component.component-presentation .slide .slide {
+  visibility: hidden;
+  position: static;
+  min-height: 0; }
+
+.component.component-presentation .deck-child-current {
+  position: static;
+  z-index: 2; }
+  .component.component-presentation .deck-child-current .slide {
+    visibility: hidden; }
+  .component.component-presentation .deck-child-current .deck-previous, .component.component-presentation .deck-child-current .deck-before, .component.component-presentation .deck-child-current .deck-current {
+    visibility: visible; }
