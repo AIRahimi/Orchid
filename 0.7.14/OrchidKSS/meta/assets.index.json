@@ -1,0 +1,22 @@
+{
+  "ownKey": "assets",
+  "childrenPages": {"assets": {
+    "ownKey": "assets",
+    "childrenPages": {"css": {
+      "ownKey": "css",
+      "ownPages": [{
+        "reference": {
+          "path": "assets/css",
+          "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidKSS",
+          "fileName": "index",
+          "extension": "css",
+          "usePrettyUrl": false,
+          "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidKSS/assets/css/index.css"
+        },
+        "description": "",
+        "title": "index",
+        "content": ""
+      }]
+    }}
+  }}
+}

@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+<meta name="generator" content="Orchid 0.7.14"/>
+
+<meta name="robots" content="nofollow">
+
+<title>Orchid Presentations</title>
+<meta name="description" content="Embed slide presentations with deck.js">
+
+
+<script>
+    window.site = {"orchidVersion":"0.7.14","baseUrl":"https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations","environment":"debug","version":"0.7.14"};
+</script>
+
+<!-- start:inject styles -->
+            <link rel="stylesheet" type="text/css" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+            <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css"/>
+            <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+            <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/css/bsdoc.css"/>
+            <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/core/deck_core.css"/>
+            <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/extensions/goto/deck_goto.css"/>
+            <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/extensions/menu/deck_menu.css"/>
+            <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/extensions/navigation/deck_navigation.css"/>
+            <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/extensions/status/deck_status.css"/>
+            <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/extensions/scale/deck_scale.css"/>
+            <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/themes/style/web-2_0.css"/>
+            <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/themes/transition/horizontal-slide.css"/>
+    <!-- end:inject styles --></head>
+<body>
+
+<a class="github-fork-ribbon left-top"
+   href="https://github.com/JavaEden/Orchid"
+   title="Fork me on GitHub">Fork me on GitHub</a>
+
+<header class="navbar navbar-fixed-top bs-docs-nav">
+    <div class="container">
+        <div class="navbar-header" role="banner">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations">Orchid Presentations</a>
+        </div>
+        <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+            <ul class="nav navbar-nav navbar-right">
+                            </ul>
+        </nav>
+    </div>
+</header>
+<div id="top"></div>
+
+    <div class="bs-docs-masthead" id="jumbotron">
+        <div class="container">
+            <h1 class="home-title">Orchid Presentations</h1>
+            <p class="lead">Embed slide presentations with deck.js</p>
+                            <p class="lead">
+                    <a href="https://github.com/JavaEden/Orchid"
+                       class="btn btn-outline-inverse btn-lg">Download</a>
+                </p>
+                        <p class="version">Currently 0.7.14</p>
+        </div>
+    </div>
+
+<div class="container bs-docs-container">
+    <div class="row">
+        <div class="col-md-9" role="main">
+        
+                                <!-- start:inject components -->
+                                                                                    <div class="component component-readme component-order-0">
+                            <h1 id="orchid-presentations">Orchid Presentations</h1>
+<hr />
+<p>Orchid Presentations allows one to embed slide presentations as Orchid Components.</p>
+                        </div>
+                                                                                                                                <div class="component component-presentation component-order-0">
+                            <div class="deck-container" style="height: 400px;" id="presentation-demo2">
+
+    <!-- Begin slides. Just make elements with a class of slide. -->
+            <section class="slide" id="presentation-demo2-slide3">
+            <p>Demo 2 - Slide 1 (id=slide3)</p>
+        </section>
+            <section class="slide" id="presentation-demo2-slide1">
+            <p>Demo 2 - Slide 2 (id=slide1)</p>
+        </section>
+            <section class="slide" id="presentation-demo2-slide2">
+            <p>Demo 2 - Slide 3 (id=slide2)</p>
+        </section>
+        <!-- End slides. -->
+
+    <!-- Begin extension snippets. Add or remove as needed. -->
+
+    <!-- deck.navigation snippet -->
+    <div aria-role="navigation">
+        <a href="#" class="deck-prev-link" title="Previous">&#8592;</a>
+        <a href="#" class="deck-next-link" title="Next">&#8594;</a>
+    </div>
+
+    <!-- deck.status snippet -->
+    <p class="deck-status" aria-role="status">
+        <span class="deck-status-current"></span>
+        /
+        <span class="deck-status-total"></span>
+    </p>
+
+    <!-- deck.goto snippet -->
+    <form action="." method="get" class="goto-form">
+        <label for="goto-slide">Go to slide:</label>
+        <input type="text" name="slidenum" id="goto-slide" list="goto-datalist">
+        <datalist id="goto-datalist"></datalist>
+        <input type="submit" value="Go">
+    </form>
+
+    <!-- End extension snippets. -->
+</div>
+<br><br>
+                        </div>
+                                                                                                                                <div class="component component-pluginDocs component-order-0">
+                            
+    
+    <h2>PresentationsGenerator</h2>
+    <hr>
+
+                    <div>
+            <h3 class="mb-0">allData</h3>
+            <p><b>Type:</b> <code>JSONElement</code></p>
+            <p><b>Default Value:</b> <i>{}</i></p>
+            <p><b>Description:</b> All options passed to this object.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">baseDir</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>&quot;presentations&quot;</i></p>
+            <p><b>Description:</b> The base directory to look for presentation slides in.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">layout</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> Set the default layout to be used for all Pages from this Generator. Pages can specify their own layouts, which take precedence over the Generator layout.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">parallel</h3>
+            <p><b>Type:</b> <code>boolean</code></p>
+            <p><b>Default Value:</b> <i>false</i></p>
+            <p><b>Description:</b> Improve site generation performance by rendering the pages from this Generator in parallel. (There are currently thread-safety issues that may cause deadlocks, and this should be left false until these issues can be addressed.)</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">theme</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> Set a theme to be used only when rendering pages from this Generator.</p>
+        </div>
+        <br>
+        
+    <h2>PresentationComponent</h2>
+    <hr>
+
+                    <div>
+            <h3 class="mb-0">allData</h3>
+            <p><b>Type:</b> <code>JSONElement</code></p>
+            <p><b>Default Value:</b> <i>{}</i></p>
+            <p><b>Description:</b> All options passed to this object.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">deckTheme</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>&quot;web-2_0&quot;</i></p>
+            <p><b>Description:</b> The Deck.js presentation theme to use. Should be one of [&#39;neon&#39;, &#39;swiss&#39;, &#39;web-2_0&#39;]</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">extraCss</h3>
+            <p><b>Type:</b> <code>String[]</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> An array of CSS Resources to add along with this Component.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">extraJs</h3>
+            <p><b>Type:</b> <code>String[]</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> An array of JS Resources to add along with this Component.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">hidden</h3>
+            <p><b>Type:</b> <code>boolean</code></p>
+            <p><b>Default Value:</b> <i>false</i></p>
+            <p><b>Description:</b> When true, this component will not have a template rendered on the page. Useful for Components that only add extra CSS or JS, or for temporarily removing a component from the page.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">noWrapper</h3>
+            <p><b>Type:</b> <code>boolean</code></p>
+            <p><b>Default Value:</b> <i>false</i></p>
+            <p><b>Description:</b> When true, this component will not be wrapped in a wrapper element. The wrapper element is determinedby the theme, and it is up to the theme to ensure this is implemented properly.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">order</h3>
+            <p><b>Type:</b> <code>int</code></p>
+            <p><b>Default Value:</b> <i>0</i></p>
+            <p><b>Description:</b> By default, components are rendered in the order in which they are declared, but the ordering can be changed by setting the order on any individual component. A higher value for order will render that component earlier in the list.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">presentationKey</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> The key of the Presentation to display.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">templates</h3>
+            <p><b>Type:</b> <code>String[]</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> Specify a list of templates to use when rendering this component. The first template that exists will be chosen for this component.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">transitionTheme</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>&quot;horizontal-slide&quot;</i></p>
+            <p><b>Description:</b> The Deck.js transition theme to use. Should be one of [&#39;fade&#39;, &#39;horizontal-slide&#39;, &#39;vertical-slide&#39;]</p>
+        </div>
+        <br>
+                            </div>
+                                                                <!-- end:inject components -->
+                </div>
+
+        <!-- Page navigation
+        =========================================== -->
+        <div class="col-md-3" role="complementary">
+        <div class="bs-docs-sidebar hidden-print">
+    <ul class="nav bs-docs-sidenav">
+            </ul>
+
+        <!-- start:inject components -->
+        <!-- end:inject components -->
+
+    <a class="back-to-top" href="#top">
+        <i class="glyphicon glyphicon-chevron-up"></i> Back to top
+    </a>
+</div>
+        </div>
+    </div>
+</div>
+
+<br><br><br>
+<hr>
+
+<div class="container bs-docs-container">
+<footer class="bs-docs-footer" role="contentinfo">
+    <div class="row">
+        <div class="col-xs-12">
+            <nav aria-label="navigateClasses">
+                <ul class="pager">
+                    
+                                    </ul>
+            </nav>
+        </div>
+    </div>
+    <br>
+
+    <p>
+        Documentation template based on the
+        <a href="https://github.com/mistic100/jekyll-bootstrap-doc">Jekyll Bootstrap Doc</a>
+        Jekyll theme by the <a href="http://getbootstrap.com">Bootstrap team</a>. Site created with
+        <a href="https://github.com/JavaEden/Orchid">Orchid</a>
+    </p>
+
+    <ul class="bs-docs-footer-links muted">
+        <li>Currently 0.7.14</li>
+    </ul>
+</footer></div>
+
+<!-- start:inject scripts -->
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+            <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.3.0/bootbox.min.js"></script>
+            <script src="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/js/bsdoc.js"></script>
+            <script src="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/vendor/modernizr_custom.js"></script>
+            <script src="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/core/deck_core.js"></script>
+            <script src="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/extensions/menu/deck_menu.js"></script>
+            <script src="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/extensions/goto/deck_goto.js"></script>
+            <script src="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/extensions/status/deck_status.js"></script>
+            <script src="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/extensions/navigation/deck_navigation.js"></script>
+            <script src="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/extensions/scale/deck_scale.js"></script>
+            <script src="https://javaeden.github.io/Orchid/0.7.14/OrchidPresentations/assets/initDeck.js"></script>
+    <!-- end:inject scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.1.2/trianglify.min.js"></script>
+
+<script>
+    $(function () {
+        window.colors = ['#559999', '#000000'];
+                      trianglify();
+        buildNav();
+    });
+</script>
+
+</body>
+</html>

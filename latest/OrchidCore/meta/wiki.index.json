@@ -1,0 +1,1365 @@
+{
+  "ownKey": "wiki",
+  "childrenPages": {"wiki": {
+    "ownKey": "wiki",
+    "childrenPages": {
+      "userManual": {
+        "ownKey": "userManual",
+        "childrenPages": {
+          "personalization": {
+            "ownKey": "personalization",
+            "childrenPages": {
+              "themes": {
+                "ownKey": "themes",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/themes"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "pebble",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/pebble"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/assets"
+                  },
+                  "description": "",
+                  "title": "18. Themes",
+                  "content": "<p>Front Matter<\/p>\n"
+                }]
+              },
+              "component-templates": {
+                "ownKey": "component-templates",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "component-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/component-templates"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/menus"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "page-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/page-templates"
+                  },
+                  "description": "",
+                  "title": "23. Component Templates",
+                  "content": "<p>Front Matter<\/p>\n"
+                }]
+              },
+              "pebble": {
+                "ownKey": "pebble",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "pebble",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/pebble"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "theme-overrides",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/theme-overrides"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/themes"
+                  },
+                  "description": "",
+                  "title": "19. Templating with Pebble",
+                  "content": "<p>Front Matter<\/p>\n"
+                }]
+              },
+              "page-templates": {
+                "ownKey": "page-templates",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "page-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/page-templates"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "component-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/component-templates"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "layouts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/layouts"
+                  },
+                  "description": "",
+                  "title": "22. Page Templates",
+                  "content": "<p>Front Matter<\/p>\n"
+                }]
+              },
+              "theme-overrides": {
+                "ownKey": "theme-overrides",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "theme-overrides",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/theme-overrides"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "layouts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/layouts"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "pebble",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/pebble"
+                  },
+                  "description": "",
+                  "title": "20. Overriding Theme Templates",
+                  "content": "<p>Front Matter<\/p>\n"
+                }]
+              },
+              "menus": {
+                "ownKey": "menus",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/menus"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "component-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/component-templates"
+                  },
+                  "description": "",
+                  "title": "24. Menus",
+                  "content": ""
+                }]
+              },
+              "layouts": {
+                "ownKey": "layouts",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "layouts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/layouts"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "page-templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/page-templates"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "theme-overrides",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/theme-overrides"
+                  },
+                  "description": "",
+                  "title": "21. Layouts",
+                  "content": "<p>Front Matter<\/p>\n"
+                }]
+              }
+            }
+          },
+          "quickstart": {
+            "ownKey": "quickstart",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/userManual",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "quickstart",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/quickstart"
+              },
+              "next": {
+                "path": "wiki/userManual/building-blocks",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "pages",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/pages"
+              },
+              "previous": {
+                "path": "wiki/userManual",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "intro",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/intro"
+              },
+              "description": "",
+              "title": "2. Quick-Start",
+              "content": "<h2 id=\"start-a-new-orchid-project\">Start a new Orchid project<\/h2>\n<p>The simplest way to get started with Orchid is to use the Orchid Starter repo as a base.<\/p>\n<ol>\n<li><span><code>git clone https://github.com/JavaEden/OrchidStarter.git<\/code><\/span>\n<ul>\n<li><span>Clone the Starter repo anywhere you want on your system<\/span><\/li>\n<\/ul>\n<\/li>\n<li><span><code>cd OrchidStarter<\/code><\/span>\n<ul>\n<li><span>Navigate into the directory containing the Starter repo<\/span><\/li>\n<\/ul>\n<\/li>\n<li><span><code>./gradlew orchidServe<\/code><\/span>\n<ul>\n<li><span>Run Orchid using the included Gradle wrapper. No complicated and brittle gemfiles, NPM packages, or anything else\nrequired. As long as you have a Java JDK installed, Orchid works right out-of-the-box without any configuration or\nsystem packages to install.<\/span><\/li>\n<li><span>All available commands:<\/span>\n<ul>\n<li><span><code>gradle orchidBuild<\/code> - Build Orchid once then exit<\/span><\/li>\n<li><span><code>gradle orchidWatch<\/code> - Watch Orchid for changes, rebuilding whenever a file changes.<\/span><\/li>\n<li><span><code>gradle orchidServe<\/code> - Start a local development server to view your output site. Also watches Orchid for changes, rebuilding whenever a file changes.<\/span><\/li>\n<li><span><code>gradle assemble<\/code> - Not strictly an Orchid command, but if you are set up with the OrchidJavadoc plugin, this will run Orchid from the Javadoc tool instead of generating the standard Javadocs.<\/span><\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<\/li>\n<\/ol>\n<h2 id=\"deploy-to-netlify\">Deploy to Netlify<\/h2>\n<p>Alternatively, you can simply click the &quot;Deploy to Netlify&quot; button below to automatically clone, build, and deploy the\nStarter repo to the Netlify CDN.<\/p>\n<p><a href=\"https://app.netlify.com/start/deploy?repository=https://github.com/JavaEden/OrchidStarter\"><img src=\"https://www.netlify.com/img/deploy/button.svg\" alt=\"Deploy to Netlify\" /><\/a><\/p>\n<h2 id=\"integrate-orchid-into-an-existing-gradle-project\">Integrate Orchid into an existing Gradle project<\/h2>\n<p>The Starter repo is great if you are setting up Orchid as a standalone website, but Orchid was designed to be integrated\ninto any project. Here's how to add Orchid to an existing Gradle project and use it to start building really, really,\nridiculously good-looking Javadocs, wikis, and more.<\/p>\n<p><strong>Step 1<\/strong><\/p>\n<p>Add the <a href=\"https://plugins.gradle.org/plugin/com.eden.orchidPlugin\">Orchid Gradle Plugin<\/a> to your <code>build.gradle<\/code><\/p>\n<p>The plugin adds several new tasks to run Orchid in various modes, along with replacing the Javadoc task with Orchid. It\nalso opens up a configuration block where you can set options such as the theme and input/output directories of Orchid.\nThe plugin is explained in more detail in the <a href=\"#\">Advanced Configuration<\/a> section.<\/p>\n<p><strong>Step 2<\/strong><\/p>\n<p>Add the following lines to your <code>dependencies<\/code> block:<\/p>\n<pre><code class=\"language-groovy\">dependencies {\n    compile &quot;io.github.javaeden.orchid:OrchidCore:0.7.14&quot;\n    orchidCompile &quot;io.github.javaeden.orchid:OrchidAll:0.7.14&quot;\n}\n<\/code><\/pre>\n<p>The dependency in <code>orchidCompile<\/code> adds all official Orchid core packages, themes, and plugins for ease of setup. You\nmay instead choose which specific packages you want to install, which are listed on the <a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore\">homepage<\/a>.<\/p>\n<p>The dependency in <code>compile<\/code> is optional, but is needed if you intend to create plugins specifically for this project.<\/p>\n<p><strong>Step 3<\/strong><\/p>\n<p>Add the following block to the top-level of your <code>build.gradle<\/code>:<\/p>\n<pre><code class=\"language-groovy\">orchid {\n    version = &quot;${project.version}&quot; \n    theme = &quot;FutureImperfect&quot; // or whatever theme you choose\n    baseUrl = &quot;http://localhost:8080&quot; // you may want to change this when deploying to production\n}\n<\/code><\/pre>\n<p><strong>Step 4<\/strong><\/p>\n<p>Add the following folder in your project: <code>src/orchid/resources<\/code>. This is where all your site configuration and\ncontent lives.<\/p>\n<p><strong>Step 5<\/strong><\/p>\n<p>Add a <code>config.yml<\/code> file inside <code>src/orchid/resources<\/code>.<\/p>\n<p>And that's it! You can now run Orchid using any of the commands listed above. You should now refer to the documentation\nfor your theme, all your plugins, and the OrchidCore to see what you can configure with your specific build, and how to\nadd content to your plugins.<\/p>\n"
+            }]
+          },
+          "SUMMARY": {
+            "ownKey": "SUMMARY",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/userManual",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "SUMMARY",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/SUMMARY"
+              },
+              "description": "",
+              "title": "User Manual",
+              "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/intro\">Introduction<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/quickstart\">Quick-Start<\/a><\/span><\/li> \n  <\/ul> \n  <h2 id=\"building-blocks\">Building Blocks<\/h2> \n  <ul> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/pages\">Pages<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/themes\">Themes<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/generators\">Generators<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/menus\">Menus<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/components\">Components<\/a><\/span><\/li> \n  <\/ul> \n  <h2 id=\"configuration\">Configuration<\/h2> \n  <ul> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/directory-structure\">Directory Structure<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/site-config\">Site Configuration<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/page-config\">Page Configuration<\/a><\/span><\/li> \n  <\/ul> \n  <h2 id=\"writing-content\">Writing Content<\/h2> \n  <ul> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/writing-pages\">Writing Pages<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/compiling-pages\">Compiling Pages<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/drafts\">Drafts<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/static-pages\">Static Pages<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/blogs\">Blog Posts<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/wikis\">Wikis<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/assets\">Assets<\/a><\/span><\/li> \n  <\/ul> \n  <h2 id=\"personalization\">Personalization<\/h2> \n  <ul> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/themes\">Themes<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/pebble\">Templating with Pebble<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/theme-overrides\">Overriding Theme Templates<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/layouts\">Layouts<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/page-templates\">Page Templates<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/component-templates\">Component Templates<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/menus\">Menus<\/a><\/span><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+            }]
+          },
+          "building-blocks": {
+            "ownKey": "building-blocks",
+            "childrenPages": {
+              "themes": {
+                "ownKey": "themes",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/themes"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/generators"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/pages"
+                  },
+                  "description": "",
+                  "title": "4. Themes",
+                  "content": "<h1 id=\"themes-overview\">Themes Overview<\/h1>\n<p>Themes in Orchid serve many functions. They provide layouts, define menus, pick the primary CSS and Javascript used on\na page, and in general provide a full webpage to hold Page content.<\/p>\n<p>Orchid themes are designed to be swapped out seamlessly, so that, in many cases, you don't need to change any\nconfiguration at all to give your site a completely different design. You can even use multiple themes, a new one for\neach Generator, allowing you to pick the best theme for each type of content.<\/p>\n<p>Unlike many other static site generators, Orchid themes are not contained within your Orchid project, so at no point are\nyou locked into using one theme forever, or requiring a ton of work to change themes.<\/p>\n"
+                }]
+              },
+              "components": {
+                "ownKey": "components",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/components"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "directory-structure",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/directory-structure"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/menus"
+                  },
+                  "description": "",
+                  "title": "7. Components",
+                  "content": "<p>Components are single, logical blocks of content within a Page. They typically represent the main content area of a\nPage, with many components being rendered sequentially into that one area. In fact, the Page Content you are currently\nreading is not a static part of the page layout, but is just a Component which renders the page content.<\/p>\n<p>Components are also commonly used to implement sidebars, footers, and other &quot;widget areas&quot; within a layout, and as such\ncan be defined by the theme. There is no difference in whether a Component is attached to a Page or a Theme.<\/p>\n<p><strong>A Word about Page Content<\/strong><\/p>\n<p>Most pages include a Component that represents the intrinsic content of that Page. For example, a Blog post comes from a\nsingle source file and produces a single Page whose &quot;content&quot; is simply the text content of that file. This component is\nadded to Pages by default, unless the Generator or Page says otherwise. If you specify custom components to use on a\nPage and want to include the Page content, make sure to add the &quot;pageContent&quot; component.<\/p>\n<p>When rendering Page Content, it is common for the pages produced by different Generators to have different requirements\nin rendering. For example, a Page produces by the OrchidPages may want to show a list of tags and its author, while a\nPage produced by the Wiki may want to highlight the Wiki section currently being read. To support this, Page Content\ncomponents load a &quot;page template&quot; in a similar way to how a page Layout template is chosen, but is just for that one,\nlogical block of content within a page, rather than the entire page.<\/p>\n<p>This even allows plugins to create simple, yet semantic, HTML page templates that look good in any theme, but that\nThemes can then override to make much more custom or bring more fully in-line with its own styling. These page templates\nthen always look the same for a given page type, regardless of the layout chosen, which aids in maintainability of a\ntheme.<\/p>\n"
+                }]
+              },
+              "pages": {
+                "ownKey": "pages",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/pages"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/themes"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "quickstart",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/quickstart"
+                  },
+                  "description": "",
+                  "title": "3. Pages",
+                  "content": "<h1 id=\"pages-overview\">Pages Overview<\/h1>\n<p>Pages are the most fundamental unit of content in an Orchid site. A Page represents a single HTML file in the output of\nyour site, and the rest of Orchid revolves around the Page. The following outlines the key players in an Orchid site\nand how they all interact:<\/p>\n<ul>\n<li><span>Orchid asks Generators to know which Pages they intend to produce.<\/span><\/li>\n<li><span>Orchid adds these Pages to a single Index.<\/span><\/li>\n<li><span>Orchid passes these pages back to their respective Generators to be rendered.<\/span><\/li>\n<li><span>During rendering, a Page asks the Theme how the final output should look. This involves the creation and display of\nMenus and Components. Pages, Themes, Generators, or anything else can request Menus or Components be displayed.<\/span><\/li>\n<li><span>Menus use the Index to decide which items end up in the menu, which is displayed within the Page.<\/span><\/li>\n<li><span>Components are small sections of the Page which are relatively isolated in scope, but may request data that has been\nIndexed, either as a requirement or for simplified usage.<\/span><\/li>\n<\/ul>\n<p>As an object in Orchid, the page is quite small, with not much to say about it. Conceptually, however, the Page is the\nlargest and most important player in Orchid, and the following pages in this section of the Wiki will go through each of\nthe remaining players one-by-one, to show how they all interact.<\/p>\n"
+                }]
+              },
+              "generators": {
+                "ownKey": "generators",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/generators"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/menus"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/themes"
+                  },
+                  "description": "",
+                  "title": "5. Generators",
+                  "content": "<h1 id=\"generators-overview\">Generators Overview<\/h1>\n<p>Generators are the work-horses of Orchid. They have two jobs: to decide what Pages should exist for a particular section\nof the site, and how we need to process content to create that page. Generators work in two phases: the Indexing phase,\nand the Generation phase:<\/p>\n<h2 id=\"indexing-phase\">Indexing Phase<\/h2>\n<p>During the Indexing phase, Orchid asks each Generator, in turn, for a list of Pages it intends to produce. The methods\nthat each generator uses to determine these pages is irrelevant; all Orchid cares about is the end result, which is that\nthere are some Pages that need to be rendered into the output site.<\/p>\n<p>It is common for Generators to create Pages that correspond directly to a source file, such as with Blog posts, Static\nPages, or the Wiki you're currently reading. Another common occurrence is for some external program to parse a content\nmodel from source code, which is then integrated into Orchid. Such is the case with the Orchid Javadoc and KSS plugins.<\/p>\n<p>Generators may also index content that is not intended to be a page in the output, but as the content for a component or\nmenu. Such content is typically smaller in scope but used on many pages. An example would be the Orchid Forms and\nPresentations plugins. Each Form has a non-trivial configuration, and a single form may be used across many pages. By\nindexing the form definition in a Generator, we can be sure that all forms of a given type are always kept in sync\nthroughout the site, and are immune to changes not propagating.<\/p>\n<h2 id=\"generating-phase\">Generating Phase<\/h2>\n<p>After all Generators have finished indexing their content, Orchid does some processing on these output Pages before\npassing them back to their source Generator to be rendered. Pages can be rendered in several ways: into a Layout\ntemplate resource, into a String layout, as raw content, and as a binary stream.<\/p>\n<p><strong>Rendering as Layout<\/strong><\/p>\n<p>When rendering a page as a template, Orchid asks the Page what layout it should use. Orchid then attempts to locate that\nlayout in the theme or in the local resources directory, which takes precedence over the theme-defined layouts and allow\nfor themes to be customized without needing access to the theme files itself.<\/p>\n<p><strong>Rendering as String<\/strong><\/p>\n<p>Rendering a stream is similar to rendering as a layout, except that the template definition comes as a static String\nrather than an override-able resource. This is typically more useful in testing, but may be used in specific situations\nif the Generator calls for a very specific layout and doesn't want to allow it to be changed.<\/p>\n<p><strong>Rendering Raw<\/strong><\/p>\n<p>Many types of pages should not be rendered into a layout but should still have its content processed, such as compiling\nSCSS into CSS. The content of these Pages is loaded and processed as a String.<\/p>\n<p><strong>Render Binary<\/strong><\/p>\n<p>Other pages will become corrupted if the source content is loaded as a String, and must be treated as a stream of bytes,\nsuch as images, videos, or PDF files. The content of these pages are not processed at all, and are simply copied\ndirectly from the source to the destination.<\/p>\n<p>Pages may be set as a draft, which will skip the rendering of these pages. This is done behind the scenes and is not\na concern of the Generator. The Generator should simply render all pages passed to it as if it should be rendered.<\/p>\n<p>Generators can also set a new theme to be used just for its own pages, which completely changes the layouts, CSS/JS,\nmenus, etc. that are loaded for these pages.<\/p>\n"
+                }]
+              },
+              "menus": {
+                "ownKey": "menus",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/menus"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/components"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/generators"
+                  },
+                  "description": "",
+                  "title": "6. Menus",
+                  "content": "<h1 id=\"menus-overview\">Menus Overview<\/h1>\n<p>Menus are typically defined by the Theme and by the Page, and it is common for both kinds of menus to appear on a single\noutput Page's layout. Menus typically pull pages from the Index to dynamically generate the menu items, so all that\nis required to keep a menu up-to-date is to choose the appropriate menu item types.<\/p>\n<p>It is common for plugins to define their own menu item types, especially ones that correspond directly to the Pages a\nGenerator in the plugin creates. The exact methods of pulling indexed pages into a menu item are left up to the plugin,\nand may be as opinionated as showing the latest blog posts in a single category, or as generic as simply asking for a\nURL to link to.<\/p>\n"
+                }]
+              }
+            }
+          },
+          "configuration": {
+            "ownKey": "configuration",
+            "childrenPages": {
+              "site-config": {
+                "ownKey": "site-config",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "site-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/site-config"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "page-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/page-config"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "directory-structure",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/directory-structure"
+                  },
+                  "description": "",
+                  "title": "9. Site Configuration",
+                  "content": "<p>Orchid provides a powerful, yet simple and intuitive way to configure your site. It expects that large and complex sites\nmay have lots of options set in a many-layered hierarchy, but does not sacrifice simplicity for power with smaller\nsites. To fully understand all that can be configured with the site config, you should refer to <em>the Options section of\nthe developer guide<\/em>. A basic description follows.<\/p>\n<ul>\n<li><a href=\"#the-basics\">The Basics<\/a><\/li>\n<li><a href=\"#basic-site-config\">Basic Site Config<\/a><\/li>\n<li><a href=\"#advanced-site-config\">Advanced Site Config<\/a><\/li>\n<li><a href=\"#how-these-options-get-used\">How these options get used<\/a><\/li>\n<\/ul>\n<h2 id=\"the-basics\">The Basics<\/h2>\n<hr />\n<p>All Orchid sites must have a config file in the root of the resources directory, called <code>config.yml<\/code>, which serves as\nthe root of all site options. The entire site can be fully described in this one file, but if you have lots of options\nand want to make it easier to manage it all, you may add any options files you want to <code>data/<\/code> (more on this below).\nOrchid merges the options in <code>data/<\/code> with those in <code>config.yml<\/code>, which are then made available to all parts of the\nOrchid build.<\/p>\n<p>In addition to <code>config<\/code> and <code>data<\/code> files, Orchid also supports setup via command-line flags. These are used for\noptions that must be in place before we can load the <code>config<\/code> and <code>data<\/code> files, such as the directory these files reside\nin.<\/p>\n<blockquote class=\"alert alert-info\">\n<p>NOTE: Orchid supports many data languages, including TOML. You may name your config file <code>config.tml<\/code> to parse it as\nTOML rather than YAML, or <code>config.json<\/code> to parse as JSON. The same goes for all files in <code>data/<\/code>. You may also\nmix-and-match parser types as needed, or even add your own.<\/p>\n<\/blockquote>\n<p><\/p>\n<p>Orchid parses options before every build when running <code>watch<\/code> or <code>serve<\/code> tasks, and so support rapid changes in\ndevelopment and prototyping. In contrast, command-line flags are parsed once, before the main Orchid starts up, and\ncannot be changed during the Orchid runtime. Command-line flags are typically the kind of options that are needed to\neven parse <code>config.yml<\/code> or support other project-wide configuration, such as the input and output directories, or\nsetting the default theme.<\/p>\n<h2 id=\"basic-site-config\">Basic Site Config<\/h2>\n<hr />\n<pre class=\"line-numbers\"><code class=\"language-yaml line-numbers\">Editorial: # (1)\n  menu: \n    - type: 'readme' \n    - type: 'license' \nwiki: # (2) \n  sections:\n    - 'userManual'\n    - 'developersGuide'\nservices: # (3)\n  generators:\n    disabled:\n      - 'javadoc'\n      - 'posts'\n      \nallPosts: # (4)\n  layout: single\n<\/code><\/pre>\n<p><\/p>\n<ol>\n<li><span>Theme options come from <code>theme<\/code> or from an object at the theme's <code>key<\/code>. When using multiple themes, you may want to\nuse individual theme keys to configure each theme independently, but <code>theme<\/code> is generally easier to quickly try out\ndifferent themes.<\/span><\/li>\n<li><span>Generator options come from an object at that Generators's key<\/span><\/li>\n<li><span>Services are all scoped under the <code>services<\/code> object, and are used to configure the behavior of the Orchid framework.<\/span><\/li>\n<li><span>In addition to the options defined in a page's FrontMatter, you may have a set of shared options that <em>all<\/em> pages, or\nspecific sub-sets of pages should have in common. Each plugin declared these archetypal options in their own way,\nso consult each plugin's documentation for full site configuration.<\/span><\/li>\n<\/ol>\n<blockquote class=\"alert alert-warning\">\n<p>NOTE: By convention, Themes' keys are in <code>PascalCase<\/code> while Generators' keys are in <code>camelCase<\/code>. Options passed to\nServices are all contained under the <code>services<\/code> object, each at their key within <code>services<\/code>. This all helps prevent\ncollisions between theme, generator, and service configuration options.<\/p>\n<\/blockquote>\n<p><\/p>\n<blockquote class=\"alert alert-info\">\n<p>NOTE: Theme options may also be set at the 'theme' top-level object. If you are using multiple themes which are all\nexpected to use the same configuration (a common occurrence), this is preferred over the theme-specific object.\nHowever, if both the theme's key and <code>theme<\/code> are defined, the theme-specific object will take precedence.<\/p>\n<\/blockquote>\n<p><\/p>\n<h2 id=\"advanced-site-config\">Advanced Site Config<\/h2>\n<hr />\n<p>For larger and more complex sites, a single <code>config.yml<\/code> file will get messy very quickly. You may break up your\nmonolithic <code>config.yml<\/code> into as many smaller files as you need, simply by adding a file in the <code>data/<\/code> directory, whose\nfilename corresponds to its options key. This process is recursive, and you can further break up <em>those<\/em> files by\ncreating directories within <code>data/<\/code>, and so on. You may also specify a filename <em>and<\/em> and folder, and the two will be\nmerged into one single options object, where the options in the file take precedence over the folder.<\/p>\n<p>For example, the following YAML configs are equivalent:<\/p>\n<p><strong>Config in one single config.yml<\/strong><\/p>\n<pre><code class=\"language-yaml\"># config.yml\ntheme:\n  siteName: 'My Site'\n  components:\n    - type: pageContent\n    - type: readme\n    - type: license\n  menu:\n    - type: page\n      page: 'home'\n    - type: link\n      title: 'Contact'\n      url: '/contact'\n<\/code><\/pre>\n<p><strong>Config broken into several files<\/strong><\/p>\n<pre><code class=\"language-yaml\"># config.yml\n<\/code><\/pre>\n<pre><code class=\"language-yaml\"># data/theme.yml\nsiteName: 'My Site'\n<\/code><\/pre>\n<pre><code class=\"language-yaml\"># data/theme/components.yml\n- type: pageContent\n- type: readme\n- type: license\n<\/code><\/pre>\n<pre><code class=\"language-yaml\"># data/theme/menu.yml\n- type: page\n  page: 'home'\n- type: link\n  title: 'Contact'\n  url: '/contact'\n<\/code><\/pre>\n<h2 id=\"how-these-options-get-used\">How these options get used<\/h2>\n<hr />\n<p>Now that all our options have been loaded, Orchid will start distributing them to any parts of the build that need them.\nThe basic process goes like this:<\/p>\n<ol>\n<li><span>Build starts<\/span><\/li>\n<li><span>Load all options<\/span><\/li>\n<li><span>Pass appropriate options to the Theme in the following order, falling to the next if that object doesn't exist:<\/span>\n<ul>\n<li><span><code>config.{theme key}<\/code> (in PascalCase)<\/span><\/li>\n<li><span><code>config.theme<\/code><\/span><\/li>\n<li><span><code>config<\/code><\/span><\/li>\n<\/ul>\n<\/li>\n<li><span>Pass appropriate options from the <code>config.services.{service key}<\/code> object to internal services (compiler service,\nrender service, etc.). This is how the behavior of the full Orchid program is configured.<\/span><\/li>\n<li><span>Index each generator, passing appropriate options from the <code>config.{generator key}<\/code> (in camelCase)<\/span><\/li>\n<li><span>Generate pages each generator. If the Generator specified a theme as one of its options during the Indexing step,\nswitch to that theme, loading <em>that<\/em> theme's options in the same manner as in step 3, before rendering the pages from\nthat generator.<\/span><\/li>\n<\/ol>\n"
+                }]
+              },
+              "page-config": {
+                "ownKey": "page-config",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "page-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/page-config"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "writing-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/writing-pages"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "site-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/site-config"
+                  },
+                  "description": "",
+                  "title": "10. Page Configuration",
+                  "content": "<p>Pages in Orchid are configured in a similar way to most other Static Site Generators, using Front Matter. Front Matter\nis typically as a block of YAML between pairs of triple-dashed lines, but other configuration formats are also supported\n(described below). Orchid also extends page configuration with Archetypes, which allow common configurations for pages\nto be shared and controlled from a centralized location.<\/p>\n<ul>\n<li><a href=\"#front-matter\">Front Matter<\/a><\/li>\n<li><a href=\"#archetypes\">Archetypes<\/a><\/li>\n<\/ul>\n<h2 id=\"front-matter\">Front Matter<\/h2>\n<hr />\n<p>Front Matter allows you to customize your Pages individually, adding components or menus to just that page, changing the\nlayout, or using configurations specific to the plugin it came from. The Front Matter is optional, but if used, it must\nbe the first thing in the file. Front Matter can use any of Orchid's parser languages, but YAML is the most common, and\ncomes between pairs of triple dashed lines, which is removed from the actual page output. Here's an example, which is\nthe actual Front Matter of this current page:<\/p>\n<pre><code class=\"language-yaml\">---\ntitle: Page Config\ncustomItems:\n    - 'Item One'\n    - 'Item Two'\n    - 'Item Three'\n---\n<\/code><\/pre>\n<p>Front Matter can use different languages in two ways: by specifying the language's extension after the first set of\ndashes, or by using &quot;fences&quot; for that languages. As an example, TOML uses <code>+++<\/code> instead of <code>---<\/code>, and JSON uses <code>;;;<\/code>.\nThe following blocks of TOML front Matter are equivalent to the YAML Front Matter block above:<\/p>\n<pre><code class=\"language-toml\">---toml\ntitle = &quot;Page Config&quot;\ncustomItems = [\n  &quot;Item One&quot;,\n  &quot;Item Two&quot;,\n  &quot;Item Three&quot;\n]\n---\n<\/code><\/pre>\n<pre><code class=\"language-toml\">+++\ntitle = &quot;Page Config&quot;\ncustomItems = [\n  &quot;Item One&quot;,\n  &quot;Item Two&quot;,\n  &quot;Item Three&quot;\n]\n+++\n<\/code><\/pre>\n<p>The data defined in Front Matter is then included into the page, and can be accessed as template variables anywhere on\nthe page, including components, layouts, included templates, or pre-rendered into the page content. As an example, the\nfollowing are all rendered dynamically based on this page's Front Matter, shown above:<\/p>\n<p><strong>title<\/strong>: ``<\/p>\n<p><strong>customItems<\/strong>:<\/p>\n<ul>\n<li><span><code>Item One<\/code><\/span><\/li>\n<li><span><code>Item Two<\/code><\/span><\/li>\n<li><span><code>Item Three<\/code><\/span><\/li>\n<\/ul>\n<h2 id=\"archetypes\">Archetypes<\/h2>\n<hr />\n<p>Most pages have configurations that are intended to be the same across all pages of that type. Front Matter allows you\nto customize the data for that single page, and some other Static Site Generators offer capabilities for generating new\npages with that common format already set up, but ultimately they offer no guarantee that ALL pages of a certain type\nALL share the same options. This is where Orchid's Archetypes come in handy, and really begin to show the power and\nflexibility that Orchid offers with its options management.<\/p>\n<p>Archetypes inject data from a common source into each Page matching that Archetype, that common source typically being\nyour <code>config.yml<\/code>. These additional options are then merged with the page's Front Matter options (with options in the\nFront Matter taking precedence over the Archetypal options). Certain data types may even have multiple Archetypes,\ngiving you hierarchical control over your page configuration.<\/p>\n<blockquote class=\"alert alert-info\">\n<p>NOTE: Archetypes are completely configurable in code, and aren't just limited to Pages. Some plugins may include data\ntypes which include their own Archetypes, and may even set up methods for pulling Archetypal data from sources other\nthan your <code>config.yml<\/code>. See your plugin's documentation to find out more, and consult the Developers Guide to learn\nabout configuring your own Archetypes.<\/p>\n<\/blockquote>\n<p><\/p>\n<p>As an example, I have the following snippet in this site's <code>config.yml<\/code>:<\/p>\n<pre><code class=\"language-yaml\">\nallPages:\n  layout: single\n\nwikiPages:\n  layout: geopattern2\n\n<\/code><\/pre>\n<p>The resulting layout for this page is <code>geopattern2<\/code>.<\/p>\n<p>This page was created by the Wiki plugin, which decided that there exists a <code>wikiPages<\/code> archetype for all Wiki pages. So\nI can set the layout for <em>every<\/em> page in the Wiki from a single location in <code>config.yml<\/code>, instead of having to copy the\n<code>layout<\/code> option into every Wiki source page. But the page also belongs to the <code>allPages<\/code> Archetype, and will inherit\nthose properties as well. Archetypes are hierarchical, and in this case the <code>wikiPages<\/code> Archetype will take precedence\nover <code>allPages<\/code> in the case that both define the same property.<\/p>\n<p>And best of all, since all pages read from one location, it makes it trivial to change the layout across the theme,\nsince I only have to change it once to see it reflected everywhere.<\/p>\n<p>It is worth noting that there is fundamentally no difference with whether the data came from Front Matter or from the\nArchetype. When options are loaded into the Page, it is completely transparent from which source it came, so you can\nsimply work with the data without worrying that you've missed the Archetypes.<\/p>\n"
+                }]
+              },
+              "directory-structure": {
+                "ownKey": "directory-structure",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "directory-structure",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/directory-structure"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "site-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/site-config"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/building-blocks",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/building-blocks/components"
+                  },
+                  "description": "",
+                  "title": "8. Directory Structure",
+                  "content": "<p>Orchid is designed to be used with Gradle, and it works best when integrated directly in your existing Java projects.\nThe standard Orchid directory structure is just a normal Maven project, where the Orchid source content is in\n<code>src/orchid<\/code> instead of <code>src/main<\/code>.<\/p>\n<p>Within <code>src/main/resources<\/code> exists your content: your static pages, blog posts, wikis, site config, etc. It can also\ncontain additional templates to use either in place of or alongside your theme. The Resources directoy is covered in\nmore detail below.<\/p>\n<p>In addition to providing resources, the <code>orchid<\/code> Gradle configuration can also supply code to the Orchid runtime. Any\nJVM-compatible (Java, Kotlin, Scala, etc.) code can be included, and Gradle will compile it and include it when running\nOrchid. Internally, Orchid uses <a href=\"https://github.com/google/guice\">Guice<\/a> for dependency-injection, and there are\nnumerous extension points to include your custom code. There is fundamentally no difference between code that is\nincluded from a plugin and code that is included locally, which removes the burden of requiring packaged plugins that is\ncommon for many frameworks, and allows you to create closed-source Orchid plugins for your private use.<\/p>\n<blockquote class=\"alert alert-info\">\n<p>Note that Orchid is licensed under the GNU Lesser General Public License v3 (LGPL-3.0), so any modifications to the\ncore and any plugins intended for distribution must be open-sourced under the LGPL. However, you are free to include\nOrchid as a library in your private or proprietary projects or create closed-source Orchid plugins for private use\nwithout having to disclose your source code.<\/p>\n<\/blockquote>\n<p><\/p>\n<ul>\n<li><a href=\"#directory-overview\">Directory Overview<\/a><\/li>\n<li><a href=\"#plugin-directory-structures\">Plugin Directory Structures<\/a>\n<ul>\n<li><a href=\"#posts\">Posts<\/a><\/li>\n<li><a href=\"#pages\">Pages<\/a><\/li>\n<li><a href=\"#wiki\">Wiki<\/a><\/li>\n<li><a href=\"#forms\">Forms<\/a><\/li>\n<li><a href=\"#presentations\">Presentations<\/a><\/li>\n<li><a href=\"#changelog\">Changelog<\/a><\/li>\n<\/ul>\n<\/li>\n<\/ul>\n<h2 id=\"directory-overview\">Directory Overview<\/h2>\n<hr />\n<p>A typical Orchid resources directory is structured something like the following. Each item in the resources is described\nbriefly here, but is explained in much more detail in later pages of this User Manual.<\/p>\n<p><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" contentScriptType=\"application/ecmascript\" contentStyleType=\"text/css\" height=\"207px\" preserveAspectRatio=\"none\" style=\"width:134px;height:207px;\" version=\"1.1\" viewBox=\"0 0 134 207\" width=\"134px\" zoomAndPan=\"magnify\"><defs/><g><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"111\" x=\"16\" y=\"17.1387\">/ (resources root)<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"62\" x=\"26\" y=\"31.1074\">config.yml<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"90\" x=\"26\" y=\"45.0762\">homepage.md<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"46\" x=\"26\" y=\"59.0449\">assets/<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"25\" x=\"36\" y=\"73.0137\">css/<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"14\" x=\"36\" y=\"86.9824\">js/<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"49\" x=\"36\" y=\"100.9512\">images/<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"33\" x=\"26\" y=\"114.9199\">data/<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"67\" x=\"26\" y=\"128.8887\">templates/<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"49\" x=\"36\" y=\"142.8574\">layouts/<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"43\" x=\"36\" y=\"156.8262\">pages/<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"82\" x=\"36\" y=\"170.7949\">components/<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"56\" x=\"36\" y=\"184.7637\">includes/<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"60\" x=\"46\" y=\"198.7324\">meta.peb<\/text><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"9\" y=\"11.9844\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"10\" y1=\"14.9844\" y2=\"26.9531\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"18\" y1=\"26.9531\" y2=\"26.9531\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"10\" y1=\"14.9844\" y2=\"40.9219\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"18\" y1=\"40.9219\" y2=\"40.9219\"/><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"19\" y=\"53.8906\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"10\" y1=\"14.9844\" y2=\"54.8906\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"18\" y1=\"54.8906\" y2=\"54.8906\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"56.8906\" y2=\"68.8594\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"68.8594\" y2=\"68.8594\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"56.8906\" y2=\"82.8281\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"82.8281\" y2=\"82.8281\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"56.8906\" y2=\"96.7969\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"96.7969\" y2=\"96.7969\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"10\" y1=\"14.9844\" y2=\"110.7656\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"18\" y1=\"110.7656\" y2=\"110.7656\"/><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"19\" y=\"123.7344\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"10\" y1=\"14.9844\" y2=\"124.7344\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"18\" y1=\"124.7344\" y2=\"124.7344\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"126.7344\" y2=\"138.7031\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"138.7031\" y2=\"138.7031\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"126.7344\" y2=\"152.6719\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"152.6719\" y2=\"152.6719\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"126.7344\" y2=\"166.6406\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"166.6406\" y2=\"166.6406\"/><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"29\" y=\"179.6094\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"126.7344\" y2=\"180.6094\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"180.6094\" y2=\"180.6094\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"30\" x2=\"30\" y1=\"182.6094\" y2=\"194.5781\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"30\" x2=\"38\" y1=\"194.5781\" y2=\"194.5781\"/><\/g><\/svg><\/p>\n<ul>\n<li><span><code>config.yml<\/code> (required) - The main site configuration<\/span><\/li>\n<li><span><code>homepage.md<\/code> - The content for your site's root page. If no homepage is found, one will be created with your\nproject's README and LICENSE automatically included.<\/span><\/li>\n<li><span><code>assets/<\/code> - The typical location for user-provided assets. The exact directory can be changed in your <code>config.yml<\/code>,\nand files in the directory will be compiled and copied over as raw static assets.<\/span><\/li>\n<li><span><code>assets/css/<\/code> - When compiling SCSS to CSS, <code>@import<\/code> statements are all resolved local to this directory. It is not\nnecessary to put all SCSS files within this one directory, but it is encouraged.<\/span><\/li>\n<li><span><code>assets/js/<\/code> - The typical location for included JS.<\/span><\/li>\n<li><span><code>assets/images/<\/code> - The typical location for uploaded images.<\/span><\/li>\n<li><span><code>data/<\/code> - The data files in this location are merged into <code>config.yml<\/code> before being passed to the rest of the site<\/span><\/li>\n<li><span><code>templates/<\/code> - Contains additional templates you define. Typically, your theme will provide a fairly robust set of\nlayouts, page templates, includes, etc, but you may want to make minor tweaks to make your site unique. Simply drop\na template in here with the same name and it will be chosen instead of the theme's template. You can even add\nadditional templates that your theme doesn't ship with to really make your site your own.<\/span><\/li>\n<li><span><code>templates/layouts/<\/code> - Layouts are the root templates that get chosen when rendering a page with a template.<\/span><\/li>\n<li><span><code>templates/pages/<\/code> - Page content is not an intrinsic part of the layout, but rather is included as a Component. Each\npage type is capable of providing its own template to differentiate the different types of pages. You are free to\nadd additional page templates not normally supported by the plugin or theme, or override those that are.<\/span><\/li>\n<li><span><code>templates/components/<\/code> - Pages typically have several Components, each with their own templates. You can override\nComponent templates here or add new ones for specific circumstances.<\/span><\/li>\n<li><span><code>templates/includes/<\/code> - Generic templates that are included elsewhere.<\/span><\/li>\n<li><span><code>templates/includes/meta.peb<\/code> - Inject tracking scripts or other meta information into the <code>head<\/code> of every page. Every\ntheme should support this, and many themes also support other <code>meta<\/code>-like templates. All official Orchid themes also\nsupport <code>trackingHeadStart<\/code>, <code>trackingHeadEnd<\/code>, <code>trackingBodyStart<\/code>, and <code>trackingBodyEnd<\/code>.<\/span><\/li>\n<\/ul>\n<h2 id=\"plugin-directory-structures\">Plugin Directory Structures<\/h2>\n<hr />\n<p>In addition to the directory structure above, individual plugins may add more content to your site based on other, more\nstructured directories. The Orchid plugins that have some kind of special resource directory structure is described\nbriefly below. All these plugins are optional, but are included in the <code>OrchidAll<\/code> bundle, and you should visit each\nplugin's own documentation to see the full usage and discover all configuration options.<\/p>\n<h3 id=\"posts\">Posts<\/h3>\n<p>Posts follow a structure similar to Jekyll, but altered slightly to better accommodate very large blogs. Posts from from\nthe <code>posts/<\/code> directory, and each file must have a filename format like <code>YYYY-MM-DD-post-slug<\/code>. However, you may group\nposts into subdirectories representing the dates if it is more convenient (a post's full directory and filename just has\nits path separators replaced with <code>-<\/code>, and that is checked against the above format).<\/p>\n<p>Posts can also be grouped into categories, which must be listed in <code>config.yml<\/code>. These categories use the base directory\nof <code>posts/:category<\/code>, from which individual post entries are found the same as before. Posts can also have any number of\ntags, and paginated archives are generated for all categories and tags.<\/p>\n<h3 id=\"pages\">Pages<\/h3>\n<p>Pages is more similar to a lightweight version of Hugo's &quot;content&quot; than Jekyll's static pages, in that is it expected\nthat the files in Pages reflect their structure in the resulting site. All files in the <code>pages/<\/code> directory are compiled\nand copied over into a layout with the same folder structure with which they exist in the source directory. It is not\nrequired that any page has Front Matter in order to be compiled (like in Jekyll), and these pages are given a &quot;pretty&quot;\nURL by default.<\/p>\n<h3 id=\"wiki\">Wiki<\/h3>\n<p>The Wiki was inspired by Gitbook, and its files live in <code>wiki/<\/code>. Like Posts, Wikis can have multiple sections defined in\n<code>config.yml<\/code> which sets the base directory to <code>wiki/:section<\/code>.<\/p>\n<p>Each Wiki section (or the root <code>wiki/<\/code> directory if there are no sections) should have a <code>SUMMARY.md<\/code> file. This file\ncan include whatever content you wish, but any links within the SUMMARY page are used to determine the entries and the\nordering of pages in the Wiki.<\/p>\n<h3 id=\"forms\">Forms<\/h3>\n<p>The Forms plugin offers a novel solution to accepting user input, inspired by OctoberCMS and Netlify's form handling\nservice. Forms are defined in YAML using a structure closely resembling the admin forms in OctoberCMS (but much more\nlimited). These form definitions come from the <code>forms/<\/code> directory, and can even be loaded from plugins, so you could\ncreate a third-party plugin with lots of common Form formats. Forms are then displayed on a page with a Form Component,\nwhich reference a filename in the <code>forms/<\/code> directory.<\/p>\n<p>Forms can also be defined in the Front Matter of a content page (such as Markdown or Asciidoc). In this case, the form\ndefinition should be in the <code>form<\/code> key of the page's Front Matter (instead of at the root), and the content of the page\nwill be rendered to the final site as a confirmation page for the form. The target page's URL is set as the form\n<code>action<\/code> (if one isn't already supplied), which Netlify will understand as the confirmation page. The confirmation\npage's URL is also added to the form as a hidden field so any backend can redirect to that page after a successful\nsubmission.<\/p>\n<h3 id=\"presentations\">Presentations<\/h3>\n<p>Presentations group multiple content files as individual slides for a Deck.js presentation. Slides are defined as a\nsubfolder within the <code>presentations/<\/code> directory, and files within that subfolder are set as the slides of a presentation\nin the order they are read from the file system. To manually order slides, you may prepend a number before a dash to the\nfilename, which will be removed from the slide ID as it is rendered into the presentation deck.<\/p>\n<h3 id=\"changelog\">Changelog<\/h3>\n<p>The Changelog allows you to track changes across your application by simply dropping a file in the <code>changelog<\/code>\ndirectory. The filenames don't matter as they are just used to render a Changelog component, but the version should be\nset within the Front Matter, and arbitrary content as the release notes. A JSON file is also rendered in the output site\ncontaining the names and links to all project versions, so that version-pickers can be implemented in Javascript and\nusers of older versions become aware of newer versions.<\/p>\n<p>One helpful trick to ensuring all release versions are accounted for (used for the Orchid release notes), is to include\na check in your CI process to ensure the existence of this file at the current release tag. If you force this file to\nexist before releasing any update, you can be sure that all releases have notes available immediately.<\/p>\n"
+                }]
+              }
+            }
+          },
+          "intro": {
+            "ownKey": "intro",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/userManual",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "intro",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/intro"
+              },
+              "next": {
+                "path": "wiki/userManual",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "quickstart",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/quickstart"
+              },
+              "description": "",
+              "title": "1. Introduction",
+              "content": "<blockquote>\n<p>Orchid: A beautiful and truly unique documentation engine and static site generator<\/p>\n<\/blockquote>\n<p>When the World Wide Web was first created, web pages were nothing more than a document sitting in a web server. URLs\npointed directly to files on a remote filesystem, and servers would return those files from across the Internet. Life\nwas simpler back then, and web development was easy. Just drop a file on your server and you were done.<\/p>\n<p>In time, world began to demand more from web sites. Rather than just hosting static content, websites needed to be\ndynamic. People needed to be able to update their website without going through the hassle of logging into their server\nand changing files, and server languages like PHP started to read data from a database and construct the webpage when\nrequested, rather than having the page already created.<\/p>\n<p>Today, nearly every webpage you visit is dynamic in some fashion. There is simply too much content out there to manage\nyour website as a static collection of HTML and CSS. The problem with this comes in the fact that, with so much content,\nservers are forced to process extraordinarily large amounts of data in a fraction of a second, which simply doesn't\nscale. This can be mitigated with advanced caching, but implementing your cache layer just-right is a time-intensive,\nerror-prone, and difficult journey.<\/p>\n<p>Kinda makes you miss the good-old-days, when men were men, and webpages were just text files.<\/p>\n<p>Orchid brings together these two worlds: dynamic and ever-changing content, but the simplicity of your site simply being\nHTML and CSS. But rather than creating your dynamic webpages on the server when requested, Orchid generates <em>every<\/em>\npage for your <em>entire<\/em> site all at once, and after Orchid has done its job, you simply drop it all on a server.<\/p>\n<p>Done. Simple. Secure.<\/p>\n<p>Orchid certainly isn't the first tool that does this, there are hundreds of alternatives out there. Static Site\ngenerators have gained great popularity in recent years, especially with Github's integration of Jekyll into Github\nPages, for all the reasons stated above. But there is a serious gap in the market of SSGs that fundamentally limits\ntheir usefulness, which Orchid was designed specifically to solve.<\/p>\n<p>Nearly every SSG trademarks itself as being &quot;blog-ready&quot;, but in reality this just means that its content model is\nfundamentally limited, and locked into the Wordpress-like model of blog posts and static pages. While many people\nchoose to use these tools for blogs, a much larger share of static sites go toward generating documentation for\nopen-source projects. It is precisely this reason that Github even created Github Pages and maintains Jekyll, and yet,\nfor most of these projects, the documentation is not much different from the first webpages.<\/p>\n<p>Orchid is the first Static Site Generator targeted specifically at generating the best, most flexible, and most\nbeautiful documentation pages available. Rather than limiting itself to a single content model like a blog or wiki,\nOrchid starts by taking one step back, and asking users what kind of content <em>they<\/em> want to produce. Does it come from\nfiles structured in a certain way? Does it come by reading comments in your source code, or hooking into tools that\nproduce an intelligent model of your code, such as Javadoc? Does the data from from a headless CMS over an API? It\ndoesn't matter, Orchid can handle it all.<\/p>\n<p>Orchid indexes every page in your site, and is then able to do really cool stuff that other tools simply cannot handle:\nproducing dynamic menus, generating sitemaps, transparently linking to other Orchid sites as if it were your own, all\nwhile giving you the freedom and creativity offered by simple, yet powerful, themeing capabilities. Orchid was inspired\nby the best features of these other tools, filling in the missing gaps and removing the clutter, bringing you a tool\nthat is at once familiar yet completely new.<\/p>\n<p>If you've worked with tools like Jekyll, GitBook, or Hugo, you will feel right at home with Orchid, and once you get\nfamiliar with it, you'll never want to go back. But if you're new to SSGs, you'll find that it's simpler than ever to\ncreate and maintain a site customized to exactly your needs, flexible enough to work with any kind of content, and\nable to maintain even the largest sites without the risk of feature- or theme- lock-in.<\/p>\n<p>Your project is unique and beautiful. It's time your website is too.<\/p>\n"
+            }]
+          },
+          "content": {
+            "ownKey": "content",
+            "childrenPages": {
+              "compiling-pages": {
+                "ownKey": "compiling-pages",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "compiling-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/compiling-pages"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "drafts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/drafts"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "writing-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/writing-pages"
+                  },
+                  "description": "",
+                  "title": "12. Compiling Pages",
+                  "content": "<p>Front Matter<\/p>\n"
+                }]
+              },
+              "assets": {
+                "ownKey": "assets",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/assets"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/personalization",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/personalization/themes"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "wikis",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/wikis"
+                  },
+                  "description": "",
+                  "title": "17. Assets",
+                  "content": "<p>Assets are the CSS, Javascript, and images needed for your site. By default, only the assets declared by your themes,\npages, or components are compiled into the final site. But there are several ways to add additional assets needed for\nspecific circumstances, outlined below:<\/p>\n<h2 id=\"method-one-asset-directories\">Method One: Asset Directories<\/h2>\n<p>If you wish to copy images, just give the Assets Generator the paths you want copied over. This is done with the\nfollowing snippet in your <code>config.yml<\/code>:<\/p>\n<pre class=\"line-numbers\"><code class=\"language-yaml line-numbers\">assets:\n  sourceDirs: \n    - 'assets/css'\n    - 'assets/js'\n<\/code><\/pre>\n<p><\/p>\n<p>The <code>sourceDirs<\/code> key of the <code>assets<\/code> generator configuration block defines a list of directories to copy assets from\ninto the output site. These directories are copyied recursively, and the assets are compiled against their file\nextension and given the same path as they exist on disk.<\/p>\n<p>This is useful for things like adding your own images and being able to host and reference them from the Orchid site.\nImages and other binary file types are copied directly without any modification, but any files that can be compiled will\nbe compiled before being copied to the output. Many binary file types are supported by default, but if you find a binary\nasset is being corrupted in the process, you can add its extension to the following configuration snippet in\n<code>config.yml<\/code>:<\/p>\n<pre class=\"line-numbers\"><code class=\"language-yaml line-numbers\">services:\n  compilers: \n    binaryExtensions: \n      - 'jpeg'\n<\/code><\/pre>\n<p><\/p>\n<p><code>binaryExtensions<\/code> should be an array with each item being the file extension which should be recognized as binary.<\/p>\n<h2 id=\"method-two-extra-css-and-js\">Method Two: Extra CSS and JS<\/h2>\n<p>While Method One is best for adding things like images or other assets that may be referenced on any given page, it is\nquite often the case that we want custom CSS or Javascript to be included on specific pages only. To accomplish this,\nyou can add &quot;extra CSS&quot; and &quot;extra JS&quot; to any Page or Component definition. Any extra files added in this way will be\nlooked up, compiled, and copied to the output site, in addition to being injected into the rendered page.<\/p>\n<p>For the following snippet can be included in a Page's front matter or within a component configuration, and will have\nthe same effect, which is to find and compile the referenced assets and add it the containing page:<\/p>\n<pre class=\"line-numbers\"><code class=\"language-yaml line-numbers\">extraCss:\n  - 'assets/css/custom.scss'\nextraJs:\n  - 'assets/js/custom.js'\n<\/code><\/pre>\n<p><\/p>\n<p>Extra CSS and JS may also be added to the Theme configuration, with the effect of being added to all pages using that\ntheme.<\/p>\n"
+                }]
+              },
+              "blogs": {
+                "ownKey": "blogs",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "blogs",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/blogs"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "wikis",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/wikis"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "static-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/static-pages"
+                  },
+                  "description": "",
+                  "title": "15. Blog Posts",
+                  "content": "<p>Front Matter<\/p>\n"
+                }]
+              },
+              "drafts": {
+                "ownKey": "drafts",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "drafts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/drafts"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "static-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/static-pages"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "compiling-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/compiling-pages"
+                  },
+                  "description": "",
+                  "title": "13. Drafts",
+                  "content": "<p>Front Matter<\/p>\n"
+                }]
+              },
+              "writing-pages": {
+                "ownKey": "writing-pages",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "writing-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/writing-pages"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "compiling-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/compiling-pages"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/configuration",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "page-config",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/configuration/page-config"
+                  },
+                  "description": "",
+                  "title": "11. Writing Pages",
+                  "content": "<p>Front Matter<\/p>\n"
+                }]
+              },
+              "wikis": {
+                "ownKey": "wikis",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "wikis",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/wikis"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/assets"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "blogs",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/blogs"
+                  },
+                  "description": "",
+                  "title": "16. Wikis",
+                  "content": "<p>An Orchid Wiki a collection of pages structured in a freeform hierarchy. Pages in a wiki are all related and ordered,\nwith one page linking directly to the next so a user can read the entire contents of the wiki from front-end simply by\nnavigating the page links. Orchid Wikis also create Menu items which display the full wiki tree in an easily navigable\nfashion.<\/p>\n<blockquote class=\"alert alert-info\">\n<p>The OrchidWiki plugin must be installed in order to use Wikis. It can be included on its own, or added as part of the\nfollowing bundles:<\/p>\n<ul>\n<li><span>OrchidAll<\/span><\/li>\n<\/ul>\n<\/blockquote>\n<p><\/p>\n<p>Wikis in Orchid are inspired by GitBook and are set up in a similar manner. To start, add a file named <code>SUMMARY.md<\/code> to\n<code>wiki/<\/code>. This file becomes the landing page for the wiki and can contain any kind of content, which gets displayed\nexactly as written. But it also gets converted to HTML and all links in this file become a page in the wiki.<\/p>\n<p>For example:<\/p>\n<pre class=\"line-numbers\"><code class=\"language-markdown line-numbers\">### Wiki Heading\n\n[Getting Started](getting-started.md)\n[Basic Setup](setup/basic.md)\n[Advanced Setup](setup/advanced.md)\n<\/code><\/pre>\n<p><\/p>\n<p>corresponds to the following directory structure:<\/p>\n<p><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" contentScriptType=\"application/ecmascript\" contentStyleType=\"text/css\" height=\"123px\" preserveAspectRatio=\"none\" style=\"width:161px;height:123px;\" version=\"1.1\" viewBox=\"0 0 161 123\" width=\"161px\" zoomAndPan=\"magnify\"><defs/><g><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"111\" x=\"16\" y=\"17.1387\">/ (resources root)<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"62\" x=\"26\" y=\"31.1074\">config.yml<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"26\" x=\"26\" y=\"45.0762\">/wiki<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"83\" x=\"36\" y=\"59.0449\">SUMMARY.md<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"118\" x=\"36\" y=\"73.0137\">getting-started.md<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"40\" x=\"36\" y=\"86.9824\">/setup<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"56\" x=\"46\" y=\"100.9512\">basic.md<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"84\" x=\"46\" y=\"114.9199\">advanced.md<\/text><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"9\" y=\"11.9844\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"10\" y1=\"14.9844\" y2=\"26.9531\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"18\" y1=\"26.9531\" y2=\"26.9531\"/><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"19\" y=\"39.9219\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"10\" y1=\"14.9844\" y2=\"40.9219\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"18\" y1=\"40.9219\" y2=\"40.9219\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"42.9219\" y2=\"54.8906\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"54.8906\" y2=\"54.8906\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"42.9219\" y2=\"68.8594\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"68.8594\" y2=\"68.8594\"/><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"29\" y=\"81.8281\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"42.9219\" y2=\"82.8281\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"82.8281\" y2=\"82.8281\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"30\" x2=\"30\" y1=\"84.8281\" y2=\"96.7969\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"30\" x2=\"38\" y1=\"96.7969\" y2=\"96.7969\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"30\" x2=\"30\" y1=\"84.8281\" y2=\"110.7656\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"30\" x2=\"38\" y1=\"110.7656\" y2=\"110.7656\"/><\/g><\/svg><\/p>\n<p>which produces the following output:<\/p>\n<p><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" contentScriptType=\"application/ecmascript\" contentStyleType=\"text/css\" height=\"151px\" preserveAspectRatio=\"none\" style=\"width:132px;height:151px;\" version=\"1.1\" viewBox=\"0 0 132 151\" width=\"132px\" zoomAndPan=\"magnify\"><defs/><g><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"26\" x=\"16\" y=\"17.1387\">/wiki<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"60\" x=\"26\" y=\"31.1074\">/summary<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"64\" x=\"36\" y=\"45.0762\">index.html<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"99\" x=\"26\" y=\"59.0449\">/getting-started<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"64\" x=\"36\" y=\"73.0137\">index.html<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"40\" x=\"26\" y=\"86.9824\">/setup<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"37\" x=\"36\" y=\"100.9512\">/basic<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"64\" x=\"46\" y=\"114.9199\">index.html<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"65\" x=\"36\" y=\"128.8887\">/advanced<\/text><text fill=\"#000000\" font-family=\"sans-serif\" font-size=\"12\" lengthAdjust=\"spacingAndGlyphs\" textLength=\"64\" x=\"46\" y=\"142.8574\">index.html<\/text><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"9\" y=\"11.9844\"/><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"19\" y=\"25.9531\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"10\" y1=\"14.9844\" y2=\"26.9531\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"18\" y1=\"26.9531\" y2=\"26.9531\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"28.9531\" y2=\"40.9219\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"40.9219\" y2=\"40.9219\"/><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"19\" y=\"53.8906\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"10\" y1=\"14.9844\" y2=\"54.8906\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"18\" y1=\"54.8906\" y2=\"54.8906\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"56.8906\" y2=\"68.8594\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"68.8594\" y2=\"68.8594\"/><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"19\" y=\"81.8281\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"10\" y1=\"14.9844\" y2=\"82.8281\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"10\" x2=\"18\" y1=\"82.8281\" y2=\"82.8281\"/><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"29\" y=\"95.7969\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"84.8281\" y2=\"96.7969\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"96.7969\" y2=\"96.7969\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"30\" x2=\"30\" y1=\"98.7969\" y2=\"110.7656\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"30\" x2=\"38\" y1=\"110.7656\" y2=\"110.7656\"/><rect fill=\"none\" height=\"2\" style=\"stroke: #888888; stroke-width: 1.0;\" width=\"2\" x=\"29\" y=\"123.7344\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"20\" y1=\"84.8281\" y2=\"124.7344\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"20\" x2=\"28\" y1=\"124.7344\" y2=\"124.7344\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"30\" x2=\"30\" y1=\"126.7344\" y2=\"138.7031\"/><line style=\"stroke: #888888; stroke-width: 1.0;\" x1=\"30\" x2=\"38\" y1=\"138.7031\" y2=\"138.7031\"/><\/g><\/svg>\nThe content of those wiki pages can be anything, and can be written in any language as long as there is a Compiler for\nit (just like any other page). Orchid also creates a new menu item type which links to every page in the wiki and is\ndisplayed recursively in the same hierarchy as the pages themselves.<\/p>\n<p>You can also customize the source directory of the wiki, and even set up multiple wiki sections which each have their\nown <code>SUMMARY.md<\/code>, pages, and menu items. The following snippet should go in your site's <code>config.yml<\/code>:<\/p>\n<pre class=\"line-numbers\" line-highlight=\"1,3,4\"><code class=\"language-yaml line-numbers\" line-highlight=\"1,3,4\">  baseDir: 'help'  # (1) \n  sections:\n    - 'userManual'  # (2)\n    - 'developerGuide'  # (3)\n<\/code><\/pre>\n<p><\/p>\n<ol>\n<li><span>Looks for the Wiki in /help instead of /wiki<\/span><\/li>\n<li><span baseDir=\"\">Creates a wiki based on /userManual/SUMMARY.md<\/span><\/li>\n<li><span baseDir=\"\">Creates a wiki based on /developerGuide/SUMMARY.md<\/span><\/li>\n<\/ol>\n"
+                }]
+              },
+              "static-pages": {
+                "ownKey": "static-pages",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "static-pages",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/static-pages"
+                  },
+                  "next": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "blogs",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/blogs"
+                  },
+                  "previous": {
+                    "path": "wiki/userManual/content",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "drafts",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/userManual/content/drafts"
+                  },
+                  "description": "",
+                  "title": "14. Static Pages",
+                  "content": "<p>Front Matter<\/p>\n"
+                }]
+              }
+            }
+          }
+        }
+      },
+      "developersGuide": {
+        "ownKey": "developersGuide",
+        "childrenPages": {
+          "themes": {
+            "ownKey": "themes",
+            "childrenPages": {
+              "components": {
+                "ownKey": "components",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/components"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "overview",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/overview"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/menus"
+                  },
+                  "description": "",
+                  "title": "13. Declaring Component Areas",
+                  "content": ""
+                }]
+              },
+              "assets": {
+                "ownKey": "assets",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/assets"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "options",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/options"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/templates"
+                  },
+                  "description": "",
+                  "title": "10. Adding Assets",
+                  "content": ""
+                }]
+              },
+              "templates": {
+                "ownKey": "templates",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/templates"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/assets"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "tasks",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/tasks"
+                  },
+                  "description": "",
+                  "title": "9. Layouts and Page Templates",
+                  "content": ""
+                }]
+              },
+              "options": {
+                "ownKey": "options",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "options",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/options"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/menus"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "assets",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/assets"
+                  },
+                  "description": "",
+                  "title": "11. Declaring Options",
+                  "content": ""
+                }]
+              },
+              "menus": {
+                "ownKey": "menus",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "menus",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/menus"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/components"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "options",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/options"
+                  },
+                  "description": "",
+                  "title": "12. Declaring Menus",
+                  "content": ""
+                }]
+              }
+            }
+          },
+          "getting-started": {
+            "ownKey": "getting-started",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/developersGuide",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "getting-started",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/getting-started"
+              },
+              "next": {
+                "path": "wiki/developersGuide",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "changelog",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/changelog"
+              },
+              "description": "",
+              "title": "1. Getting Started",
+              "content": ""
+            }]
+          },
+          "SUMMARY": {
+            "ownKey": "SUMMARY",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/developersGuide",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "SUMMARY",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/SUMMARY"
+              },
+              "description": "",
+              "title": "Developers Guide",
+              "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/getting-started\">Getting Started<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/changelog\">Changelog<\/a><\/span><\/li> \n  <\/ul> \n  <h3 id=\"overview\">Overview<\/h3> \n  <p>Learn the most common ways you can extend Orchid.<\/p> \n  <ul> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/overview\">Overview<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/generators\">Generators and Pages<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/compilers\">Parsers and Compilers<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/themes\">Themes<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/components\">Components<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/tasks\">Tasks<\/a><\/span><\/li> \n  <\/ul> \n  <h3 id=\"creating-themes\">Creating Themes<\/h3> \n  <p>Explore the ins-and-outs of building beautiful themes in Orchid.<\/p> \n  <ul> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/templates\">Layouts and Page Templates<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/assets\">Adding Assets<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/options\">Declaring Options<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/menus\">Declaring Menus<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/components\">Declaring Component Areas<\/a><\/span><\/li> \n  <\/ul> \n  <h3 id=\"working-with-options\">Working with Options<\/h3> \n  <p>Understanding the Orchid options framework will help your write self-documenting plugins and themes while simplifying your own development.<\/p> \n  <ul> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/overview\">Understanding Options<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/extracting\">Extracting Custom Objects<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/type-coercion\">Type Coercion in Extraction<\/a><\/span><\/li> \n   <li><span><a href=\"https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/string-formatting\">String Formatting<\/a><\/span><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+            }]
+          },
+          "plugins": {
+            "ownKey": "plugins",
+            "childrenPages": {
+              "overview": {
+                "ownKey": "overview",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "overview",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/overview"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/generators"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "changelog",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/changelog"
+                  },
+                  "description": "",
+                  "title": "3. Overview",
+                  "content": ""
+                }]
+              },
+              "themes": {
+                "ownKey": "themes",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/themes"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/components"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "compilers",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/compilers"
+                  },
+                  "description": "",
+                  "title": "6. Themes",
+                  "content": ""
+                }]
+              },
+              "components": {
+                "ownKey": "components",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/components"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "tasks",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/tasks"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/themes"
+                  },
+                  "description": "",
+                  "title": "7. Components",
+                  "content": ""
+                }]
+              },
+              "generators": {
+                "ownKey": "generators",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/generators"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "compilers",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/compilers"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "overview",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/overview"
+                  },
+                  "description": "",
+                  "title": "4. Generators and Pages",
+                  "content": ""
+                }]
+              },
+              "compilers": {
+                "ownKey": "compilers",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "compilers",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/compilers"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "themes",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/themes"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "generators",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/generators"
+                  },
+                  "description": "",
+                  "title": "5. Parsers and Compilers",
+                  "content": ""
+                }]
+              },
+              "tasks": {
+                "ownKey": "tasks",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "tasks",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/tasks"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "templates",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/templates"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/plugins",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/components"
+                  },
+                  "description": "",
+                  "title": "8. Tasks",
+                  "content": ""
+                }]
+              }
+            }
+          },
+          "options": {
+            "ownKey": "options",
+            "childrenPages": {
+              "overview": {
+                "ownKey": "overview",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "overview",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/overview"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "extracting",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/extracting"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/themes",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "components",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/themes/components"
+                  },
+                  "description": "",
+                  "title": "14. Understanding Options",
+                  "content": ""
+                }]
+              },
+              "string-formatting": {
+                "ownKey": "string-formatting",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "string-formatting",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/string-formatting"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "type-coercion",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/type-coercion"
+                  },
+                  "description": "",
+                  "title": "17. String Formatting",
+                  "content": ""
+                }]
+              },
+              "extracting": {
+                "ownKey": "extracting",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "extracting",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/extracting"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "type-coercion",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/type-coercion"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "overview",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/overview"
+                  },
+                  "description": "",
+                  "title": "15. Extracting Custom Objects",
+                  "content": ""
+                }]
+              },
+              "type-coercion": {
+                "ownKey": "type-coercion",
+                "ownPages": [{
+                  "reference": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "type-coercion",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/type-coercion"
+                  },
+                  "next": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "string-formatting",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/string-formatting"
+                  },
+                  "previous": {
+                    "path": "wiki/developersGuide/options",
+                    "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                    "fileName": "extracting",
+                    "extension": "html",
+                    "usePrettyUrl": true,
+                    "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/options/extracting"
+                  },
+                  "description": "",
+                  "title": "16. Type Coercion in Extraction",
+                  "content": ""
+                }]
+              }
+            }
+          },
+          "changelog": {
+            "ownKey": "changelog",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/developersGuide",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "changelog",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/changelog"
+              },
+              "next": {
+                "path": "wiki/developersGuide/plugins",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "overview",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/plugins/overview"
+              },
+              "previous": {
+                "path": "wiki/developersGuide",
+                "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore",
+                "fileName": "getting-started",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidCore/wiki/developersGuide/getting-started"
+              },
+              "description": "",
+              "title": "2. Changelog",
+              "content": ""
+            }]
+          }
+        }
+      }
+    }
+  }}
+}

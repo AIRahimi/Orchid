@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://javaeden.github.io/Orchid/0.7.14/OrchidBible/sitemap.xml

@@ -1,0 +1,16 @@
+{
+  "ownKey": "home",
+  "ownPages": [{
+    "reference": {
+      "path": "",
+      "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidPages",
+      "fileName": "index",
+      "extension": "html",
+      "usePrettyUrl": false,
+      "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidPages/index.html"
+    },
+    "description": "",
+    "title": "Orchid Pages",
+    "content": ""
+  }]
+}

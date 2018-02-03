@@ -1,0 +1,32 @@
+{
+  "ownKey": "index",
+  "childrenPages": {"meta": {
+    "ownKey": "meta",
+    "ownPages": [
+      {
+        "reference": {
+          "path": "meta",
+          "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidEditorial",
+          "fileName": "home.index",
+          "extension": "json",
+          "usePrettyUrl": false,
+          "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidEditorial/meta/home.index.json"
+        },
+        "description": "",
+        "title": "home.index"
+      },
+      {
+        "reference": {
+          "path": "meta",
+          "baseUrl": "https://javaeden.github.io/Orchid/0.7.14/OrchidEditorial",
+          "fileName": "all.index",
+          "extension": "json",
+          "usePrettyUrl": false,
+          "link": "https://javaeden.github.io/Orchid/0.7.14/OrchidEditorial/meta/all.index.json"
+        },
+        "description": "",
+        "title": "all.index"
+      }
+    ]
+  }}
+}

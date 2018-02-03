@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://javaeden.github.io/Orchid/0.7.14/OrchidWiki/wiki/SUMMARY</loc>
+        <lastmod>2018-02-03</lastmod>
+        <priority>0.0</priority>
+            </url>
+    <url>
+        <loc>https://javaeden.github.io/Orchid/0.7.14/OrchidWiki/wiki/section1/page3</loc>
+        <lastmod>2018-02-03</lastmod>
+        <priority>0.0</priority>
+            </url>
+    <url>
+        <loc>https://javaeden.github.io/Orchid/0.7.14/OrchidWiki/wiki/section1/page2</loc>
+        <lastmod>2018-02-03</lastmod>
+        <priority>0.0</priority>
+            </url>
+    <url>
+        <loc>https://javaeden.github.io/Orchid/0.7.14/OrchidWiki/wiki/section1/page1</loc>
+        <lastmod>2018-02-03</lastmod>
+        <priority>0.0</priority>
+            </url>
+    <url>
+        <loc>https://javaeden.github.io/Orchid/0.7.14/OrchidWiki/wiki/section2/page3</loc>
+        <lastmod>2018-02-03</lastmod>
+        <priority>0.0</priority>
+            </url>
+    <url>
+        <loc>https://javaeden.github.io/Orchid/0.7.14/OrchidWiki/wiki/section2/page2</loc>
+        <lastmod>2018-02-03</lastmod>
+        <priority>0.0</priority>
+            </url>
+    <url>
+        <loc>https://javaeden.github.io/Orchid/0.7.14/OrchidWiki/wiki/section2/page1</loc>
+        <lastmod>2018-02-03</lastmod>
+        <priority>0.0</priority>
+            </url>
+    </urlset>

@@ -1,0 +1,175 @@
+@charset "UTF-8";
+.component.component-presentation h1, .component.component-presentation h2, .component.component-presentation h3, .component.component-presentation h4, .component.component-presentation h5, .component.component-presentation h6 {
+  font-family: "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif; }
+
+.component.component-presentation h1 {
+  color: #08455f; }
+
+.component.component-presentation h2 {
+  color: #0b7495;
+  border-bottom: 0; }
+  .cssreflections .component.component-presentation h2 {
+    line-height: 1;
+    -webkit-box-reflect: below -0.5555em -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(0.3, transparent), color-stop(0.7, rgba(255, 255, 255, 0.1)), to(transparent));
+    -moz-box-reflect: below -0.5555em -moz-linear-gradient(top, transparent 0%, transparent 30%, rgba(255, 255, 255, 0.3) 100%); }
+
+.component.component-presentation h3 {
+  color: #000; }
+
+.component.component-presentation pre {
+  border-color: #cde;
+  background: #fff;
+  position: relative;
+  z-index: auto;
+  border-radius: 5px;
+  /* http://nicolasgallagher.com/css-drop-shadows-without-images/ */ }
+  .csstransforms.boxshadow .component.component-presentation pre > :first-child:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    background: #fff;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0; }
+  .csstransforms.boxshadow .component.component-presentation pre:before, .csstransforms.boxshadow .component.component-presentation pre:after {
+    content: "";
+    position: absolute;
+    z-index: -2;
+    bottom: 15px;
+    width: 50%;
+    height: 20%;
+    max-width: 300px;
+    box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7); }
+  .csstransforms.boxshadow .component.component-presentation pre:before {
+    left: 10px;
+    -webkit-transform: rotate(-3deg);
+    -ms-transform: rotate(-3deg);
+    transform: rotate(-3deg); }
+  .csstransforms.boxshadow .component.component-presentation pre:after {
+    right: 10px;
+    -webkit-transform: rotate(3deg);
+    -ms-transform: rotate(3deg);
+    transform: rotate(3deg); }
+
+.component.component-presentation code {
+  color: #789; }
+
+.component.component-presentation blockquote {
+  font-family: "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-size: 2em;
+  padding: 1em 2em .5em 2em;
+  color: #000;
+  background: #fff;
+  position: relative;
+  border: 1px solid #cde;
+  z-index: auto;
+  border-radius: 5px; }
+  .boxshadow .component.component-presentation blockquote > :first-child:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    background: #fff;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0; }
+  .boxshadow .component.component-presentation blockquote:after {
+    content: "";
+    position: absolute;
+    z-index: -2;
+    top: 10px;
+    bottom: 10px;
+    left: 0;
+    right: 50%;
+    -moz-border-radius: 10px / 100px;
+    border-radius: 10px / 100px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.6); }
+  .component.component-presentation blockquote p {
+    margin: 0; }
+  .component.component-presentation blockquote cite {
+    font-size: .5em;
+    font-style: normal;
+    font-weight: bold;
+    color: #888; }
+  .component.component-presentation blockquote:before {
+    content: "“";
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 5em;
+    line-height: 1;
+    color: #ccf0f0;
+    z-index: 1; }
+
+.component.component-presentation ::-moz-selection {
+  background: #08455f;
+  color: #fff; }
+
+.component.component-presentation ::selection {
+  background: #08455f;
+  color: #fff; }
+
+.component.component-presentation a, .component.component-presentation a:hover, .component.component-presentation a:focus, .component.component-presentation a:active, .component.component-presentation a:visited {
+  color: #599;
+  text-decoration: none; }
+
+.component.component-presentation a:hover, .component.component-presentation a:focus {
+  text-decoration: underline; }
+
+.component.component-presentation .deck-container {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  font-size: 1.75em;
+  background: #f4fafe;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #f4fafe 0%, #ccf0f0 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4fafe), color-stop(100%, #ccf0f0));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #f4fafe 0%, #ccf0f0 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #f4fafe 0%, #ccf0f0 100%);
+  /* Opera11.10+ */
+  background: -ms-linear-gradient(top, #f4fafe 0%, #ccf0f0 100%);
+  /* IE10+ */
+  background: linear-gradient(top, #f4fafe 0%, #ccf0f0 100%);
+  /* W3C */
+  background-attachment: fixed;
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5); }
+  .component.component-presentation .deck-container > .slide {
+    padding: 0 48px; }
+
+.component.component-presentation .slide .deck-before, .component.component-presentation .slide .deck-previous {
+  opacity: 0.4; }
+  .component.component-presentation .slide .deck-before:not(.deck-child-current) .deck-before, .component.component-presentation .slide .deck-before:not(.deck-child-current) .deck-previous, .component.component-presentation .slide .deck-previous:not(.deck-child-current) .deck-before, .component.component-presentation .slide .deck-previous:not(.deck-child-current) .deck-previous {
+    opacity: 1; }
+
+.component.component-presentation .slide .deck-child-current {
+  opacity: 1; }
+
+.component.component-presentation .deck-prev-link, .component.component-presentation .deck-next-link {
+  background: #fff;
+  opacity: 0.5; }
+  .component.component-presentation .deck-prev-link, .component.component-presentation .deck-prev-link:hover, .component.component-presentation .deck-prev-link:focus, .component.component-presentation .deck-prev-link:active, .component.component-presentation .deck-prev-link:visited, .component.component-presentation .deck-next-link, .component.component-presentation .deck-next-link:hover, .component.component-presentation .deck-next-link:focus, .component.component-presentation .deck-next-link:active, .component.component-presentation .deck-next-link:visited {
+    color: #599; }
+  .component.component-presentation .deck-prev-link:hover, .component.component-presentation .deck-prev-link:focus, .component.component-presentation .deck-next-link:hover, .component.component-presentation .deck-next-link:focus {
+    opacity: 1;
+    text-decoration: none; }
+
+.component.component-presentation .deck-status {
+  font-size: 0.6666em; }
+
+.component.component-presentation .deck-menu .slide {
+  background: transparent;
+  border-radius: 5px; }
+  .rgba .component.component-presentation .deck-menu .slide {
+    background: rgba(0, 0, 0, 0.1); }
+  .component.component-presentation .deck-menu .slide.deck-current, .rgba .component.component-presentation .deck-menu .slide.deck-current, .no-touch .component.component-presentation .deck-menu .slide:hover {
+    background: #fff; }
+
+.component.component-presentation .goto-form {
+  background: #fff;
+  border: 1px solid #cde;
+  border-radius: 5px; }
+  .boxshadow .component.component-presentation .goto-form {
+    box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset; }

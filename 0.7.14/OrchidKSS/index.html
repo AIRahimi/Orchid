@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+<meta name="generator" content="Orchid 0.7.14"/>
+
+<meta name="robots" content="nofollow">
+
+<title>Orchid KSS</title>
+<meta name="description" content="Generate a living styleguide from annotated CSS, Sass, Scss, or LESS">
+
+
+<script>
+    window.site = {"orchidVersion":"0.7.14","baseUrl":"https://javaeden.github.io/Orchid/0.7.14/OrchidKSS","environment":"debug","version":"0.7.14"};
+</script>
+
+<!-- start:inject styles -->
+            <link rel="stylesheet" type="text/css" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+            <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css"/>
+            <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+            <link rel="stylesheet" type="text/css" href="https://javaeden.github.io/Orchid/0.7.14/OrchidKSS/assets/css/bsdoc.css"/>
+    <!-- end:inject styles --></head>
+<body>
+
+<a class="github-fork-ribbon left-top"
+   href="https://github.com/JavaEden/Orchid"
+   title="Fork me on GitHub">Fork me on GitHub</a>
+
+<header class="navbar navbar-fixed-top bs-docs-nav">
+    <div class="container">
+        <div class="navbar-header" role="banner">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://javaeden.github.io/Orchid/0.7.14/OrchidKSS">Orchid KSS</a>
+        </div>
+        <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+            <ul class="nav navbar-nav navbar-right">
+                                                            <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Styleguide<span class="caret"></span></a>
+                            <ul class="dropdown-menu scrollable-menu">
+                                                                    <li><a href="https://javaeden.github.io/Orchid/0.7.14/OrchidKSS/styleguide/1">Section 1 - Buttons 1</a></li>
+                                                                    <li><a href="https://javaeden.github.io/Orchid/0.7.14/OrchidKSS/styleguide/2">Section 2 - Buttons 8</a></li>
+                                                            </ul>
+                        </li>
+                                                                                <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Styleguide Pages<span class="caret"></span></a>
+                            <ul class="dropdown-menu scrollable-menu">
+                                                                    <li><a href="">Section 1 - Buttons 1</a></li>
+                                                                    <li><a href="">Section 2 - Buttons 8</a></li>
+                                                            </ul>
+                        </li>
+                                                </ul>
+        </nav>
+    </div>
+</header>
+<div id="top"></div>
+
+    <div class="bs-docs-masthead" id="jumbotron">
+        <div class="container">
+            <h1 class="home-title">Orchid KSS</h1>
+            <p class="lead">Generate a living styleguide from annotated CSS, Sass, Scss, or LESS</p>
+                            <p class="lead">
+                    <a href="https://github.com/JavaEden/Orchid"
+                       class="btn btn-outline-inverse btn-lg">Download</a>
+                </p>
+                        <p class="version">Currently 0.7.14</p>
+        </div>
+    </div>
+
+<div class="container bs-docs-container">
+    <div class="row">
+        <div class="col-md-9" role="main">
+        
+                                <!-- start:inject components -->
+                                                                                    <div class="component component-readme component-order-0">
+                            <h1 id="orchid-kss">Orchid KSS</h1>
+<hr />
+<p>Generate a living styleguide from annotated CSS, Sass, Scss, or LESS</p>
+                        </div>
+                                                                                                                                <div class="component component-pluginDocs component-order-0">
+                            
+    
+    <h2>KssGenerator</h2>
+    <hr>
+
+                    <div>
+            <h3 class="mb-0">allData</h3>
+            <p><b>Type:</b> <code>JSONElement</code></p>
+            <p><b>Default Value:</b> <i>{}</i></p>
+            <p><b>Description:</b> All options passed to this object.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">baseDir</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>&quot;assets/css&quot;</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">layout</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> Set the default layout to be used for all Pages from this Generator. Pages can specify their own layouts, which take precedence over the Generator layout.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">parallel</h3>
+            <p><b>Type:</b> <code>boolean</code></p>
+            <p><b>Default Value:</b> <i>false</i></p>
+            <p><b>Description:</b> Improve site generation performance by rendering the pages from this Generator in parallel. (There are currently thread-safety issues that may cause deadlocks, and this should be left false until these issues can be addressed.)</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">sections</h3>
+            <p><b>Type:</b> <code>String[]</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">stylesheet</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">theme</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> Set a theme to be used only when rendering pages from this Generator.</p>
+        </div>
+        <br>
+        
+    <h2>KssPage</h2>
+    <hr>
+
+                    <div>
+            <h3 class="mb-0">allData</h3>
+            <p><b>Type:</b> <code>JSONElement</code></p>
+            <p><b>Default Value:</b> <i>{}</i></p>
+            <p><b>Description:</b> All options passed to this object.</p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">changeFrequency</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">components</h3>
+            <p><b>Type:</b> <code>ComponentHolder</code></p>
+            <p><b>Default Value:</b> <i>Empty ComponentHolder</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">description</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">draft</h3>
+            <p><b>Type:</b> <code>boolean</code></p>
+            <p><b>Default Value:</b> <i>false</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">expiryDate</h3>
+            <p><b>Type:</b> <code>LocalDate</code></p>
+            <p><b>Default Value:</b> <i>2018-02-03</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">extraCss</h3>
+            <p><b>Type:</b> <code>String[]</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">extraJs</h3>
+            <p><b>Type:</b> <code>String[]</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">lastModifiedDate</h3>
+            <p><b>Type:</b> <code>LocalDate</code></p>
+            <p><b>Default Value:</b> <i>2018-02-03</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">layout</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">menu</h3>
+            <p><b>Type:</b> <code>OrchidMenu</code></p>
+            <p><b>Default Value:</b> <i>Empty OrchidMenu</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">noFollow</h3>
+            <p><b>Type:</b> <code>boolean</code></p>
+            <p><b>Default Value:</b> <i>false</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">noIndex</h3>
+            <p><b>Type:</b> <code>boolean</code></p>
+            <p><b>Default Value:</b> <i>false</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">publishDate</h3>
+            <p><b>Type:</b> <code>LocalDate</code></p>
+            <p><b>Default Value:</b> <i>2018-02-03</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">relativePriority</h3>
+            <p><b>Type:</b> <code>float</code></p>
+            <p><b>Default Value:</b> <i>0.0</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">templates</h3>
+            <p><b>Type:</b> <code>String[]</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                    <div>
+            <h3 class="mb-0">title</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+        
+    <h2>StyleguidePagesMenuItemType</h2>
+    <hr>
+
+                    <div>
+            <h3 class="mb-0">section</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>empty string</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+        
+    <h2>StyleguideSectionsMenuItemType</h2>
+    <hr>
+
+                    <div>
+            <h3 class="mb-0">title</h3>
+            <p><b>Type:</b> <code>String</code></p>
+            <p><b>Default Value:</b> <i>&quot;Styleguide&quot;</i></p>
+            <p><b>Description:</b> </p>
+        </div>
+        <br>
+                            </div>
+                                                                <!-- end:inject components -->
+                </div>
+
+        <!-- Page navigation
+        =========================================== -->
+        <div class="col-md-3" role="complementary">
+        <div class="bs-docs-sidebar hidden-print">
+    <ul class="nav bs-docs-sidenav">
+            </ul>
+
+        <!-- start:inject components -->
+        <!-- end:inject components -->
+
+    <a class="back-to-top" href="#top">
+        <i class="glyphicon glyphicon-chevron-up"></i> Back to top
+    </a>
+</div>
+        </div>
+    </div>
+</div>
+
+<br><br><br>
+<hr>
+
+<div class="container bs-docs-container">
+<footer class="bs-docs-footer" role="contentinfo">
+    <div class="row">
+        <div class="col-xs-12">
+            <nav aria-label="navigateClasses">
+                <ul class="pager">
+                    
+                                    </ul>
+            </nav>
+        </div>
+    </div>
+    <br>
+
+    <p>
+        Documentation template based on the
+        <a href="https://github.com/mistic100/jekyll-bootstrap-doc">Jekyll Bootstrap Doc</a>
+        Jekyll theme by the <a href="http://getbootstrap.com">Bootstrap team</a>. Site created with
+        <a href="https://github.com/JavaEden/Orchid">Orchid</a>
+    </p>
+
+    <ul class="bs-docs-footer-links muted">
+        <li>Currently 0.7.14</li>
+    </ul>
+</footer></div>
+
+<!-- start:inject scripts -->
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+            <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.3.0/bootbox.min.js"></script>
+            <script src="https://javaeden.github.io/Orchid/0.7.14/OrchidKSS/assets/js/bsdoc.js"></script>
+    <!-- end:inject scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.1.2/trianglify.min.js"></script>
+
+<script>
+    $(function () {
+        window.colors = ['#F62D3E', '#000000'];
+                      trianglify();
+        buildNav();
+    });
+</script>
+
+</body>
+</html>
